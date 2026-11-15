@@ -1,0 +1,3001 @@
+model,lang,idx,subject,gold,pred,confidence,parsed,correct,reply
+google/gemma-2-2b-it,eng,0,elementary_mathematics,2,0,1.0,1,0,"Answer: A
+Confidence: 100 
+"
+google/gemma-2-2b-it,eng,1,elementary_mathematics,2,2,0.95,1,1,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,2,elementary_mathematics,3,3,1.0,1,1,"Answer: D
+Confidence: 100 
+"
+google/gemma-2-2b-it,eng,3,elementary_mathematics,1,2,0.95,1,0,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,4,elementary_mathematics,1,3,0.95,1,0,"Answer: D
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,5,elementary_mathematics,2,2,0.95,1,1,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,6,elementary_mathematics,2,3,0.95,1,0,"Answer: D
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,7,elementary_mathematics,1,3,0.95,1,0,"Answer: D
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,8,elementary_mathematics,3,0,0.99,1,0,"Answer: A
+Confidence: 99 
+"
+google/gemma-2-2b-it,eng,9,elementary_mathematics,3,3,0.95,1,1,"Answer: D
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,10,elementary_mathematics,2,2,0.95,1,1,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,11,elementary_mathematics,3,2,0.95,1,0,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,12,elementary_mathematics,0,0,0.95,1,1,"Answer: A
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,13,elementary_mathematics,0,2,0.95,1,0,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,14,elementary_mathematics,2,1,0.95,1,0,"Answer: B
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,15,elementary_mathematics,1,1,0.95,1,1,"Answer: B
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,16,elementary_mathematics,1,2,0.95,1,0,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,17,elementary_mathematics,1,1,0.95,1,1,"Answer: B
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,18,elementary_mathematics,3,2,0.95,1,0,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,19,elementary_mathematics,0,1,0.95,1,0,"Answer: B
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,20,elementary_mathematics,2,0,0.95,1,0,"Answer: A
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,21,elementary_mathematics,1,2,0.95,1,0,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,22,elementary_mathematics,0,0,0.95,1,1,"Answer: A
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,23,elementary_mathematics,2,2,0.95,1,1,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,24,elementary_mathematics,1,1,0.95,1,1,"Answer: B
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,25,elementary_mathematics,0,1,0.95,1,0,"Answer: B
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,26,elementary_mathematics,3,3,0.95,1,1,"Answer: D
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,27,elementary_mathematics,3,0,1.0,1,0,"Answer: A
+Confidence: 100 
+"
+google/gemma-2-2b-it,eng,28,elementary_mathematics,0,0,0.95,1,1,"Answer: A
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,29,elementary_mathematics,0,3,0.95,1,0,"Answer: D
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,30,elementary_mathematics,1,3,0.95,1,0,"Answer: D
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,31,elementary_mathematics,1,2,0.95,1,0,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,32,elementary_mathematics,0,2,0.95,1,0,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,33,elementary_mathematics,2,2,0.95,1,1,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,34,elementary_mathematics,3,3,0.95,1,1,"Answer: D
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,35,elementary_mathematics,0,2,0.95,1,0,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,36,elementary_mathematics,0,2,0.95,1,0,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,37,elementary_mathematics,3,3,0.95,1,1,"Answer: D
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,38,elementary_mathematics,2,3,0.95,1,0,"Answer: D
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,39,elementary_mathematics,2,1,0.95,1,0,"Answer: B
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,40,elementary_mathematics,1,3,0.95,1,0,"Answer: D
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,41,elementary_mathematics,3,0,0.95,1,0,"Answer: A
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,42,elementary_mathematics,0,0,0.95,1,1,"Answer: A
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,43,elementary_mathematics,2,0,0.95,1,0,"Answer: A
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,44,elementary_mathematics,3,1,0.95,1,0,"Answer: B
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,45,elementary_mathematics,1,3,0.95,1,0,"Answer: D
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,46,elementary_mathematics,3,2,0.95,1,0,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,47,elementary_mathematics,2,2,0.95,1,1,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,48,elementary_mathematics,3,2,0.95,1,0,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,49,elementary_mathematics,3,3,1.0,1,1,"Answer: D
+Confidence: 100 
+"
+google/gemma-2-2b-it,eng,50,elementary_mathematics,0,2,0.95,1,0,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,51,elementary_mathematics,1,2,0.95,1,0,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,52,elementary_mathematics,1,1,0.95,1,1,"Answer: B
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,53,elementary_mathematics,0,0,0.95,1,1,"Answer: A
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,54,elementary_mathematics,1,2,0.95,1,0,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,55,elementary_mathematics,0,0,0.95,1,1,"Answer: A
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,56,elementary_mathematics,3,2,0.95,1,0,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,57,elementary_mathematics,0,0,0.95,1,1,"Answer: A
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,58,elementary_mathematics,3,1,0.95,1,0,"Answer: B
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,59,elementary_mathematics,1,2,0.95,1,0,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,60,elementary_mathematics,3,0,1.0,1,0,"Answer: A
+Confidence: 100 
+"
+google/gemma-2-2b-it,eng,61,elementary_mathematics,1,1,0.95,1,1,"Answer: B
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,62,elementary_mathematics,2,3,0.95,1,0,"Answer: D
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,63,elementary_mathematics,2,2,0.95,1,1,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,64,elementary_mathematics,3,0,0.95,1,0,"Answer: A
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,65,elementary_mathematics,2,0,0.95,1,0,"Answer: A
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,66,elementary_mathematics,3,1,0.95,1,0,"Answer: B
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,67,elementary_mathematics,0,2,0.95,1,0,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,68,elementary_mathematics,2,1,0.95,1,0,"Answer: B
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,69,elementary_mathematics,3,2,0.95,1,0,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,70,elementary_mathematics,2,2,0.95,1,1,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,71,elementary_mathematics,0,2,0.95,1,0,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,72,elementary_mathematics,1,1,0.95,1,1,"Answer: B
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,73,elementary_mathematics,2,2,0.95,1,1,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,74,elementary_mathematics,1,1,0.95,1,1,"Answer: B
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,75,elementary_mathematics,3,3,0.95,1,1,"Answer: D
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,76,elementary_mathematics,0,0,0.95,1,1,"Answer: A
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,77,elementary_mathematics,3,3,0.95,1,1,"Answer: D
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,78,elementary_mathematics,3,2,0.95,1,0,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,79,elementary_mathematics,0,3,0.95,1,0,"Answer: D
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,80,elementary_mathematics,1,2,0.95,1,0,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,81,elementary_mathematics,0,2,0.95,1,0,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,82,elementary_mathematics,3,0,0.95,1,0,"Answer: A
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,83,elementary_mathematics,2,2,0.95,1,1,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,84,elementary_mathematics,1,3,0.95,1,0,"Answer: D
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,85,elementary_mathematics,3,3,0.95,1,1,"Answer: D
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,86,elementary_mathematics,0,2,0.95,1,0,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,87,elementary_mathematics,2,2,0.95,1,1,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,88,elementary_mathematics,1,3,0.95,1,0,"Answer: D
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,89,elementary_mathematics,1,0,0.95,1,0,"Answer: A
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,90,elementary_mathematics,2,2,1.0,1,1,"Answer: C
+Confidence: 100 
+"
+google/gemma-2-2b-it,eng,91,elementary_mathematics,0,3,0.95,1,0,"Answer: D
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,92,elementary_mathematics,1,0,0.95,1,0,"Answer: A
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,93,elementary_mathematics,0,0,0.95,1,1,"Answer: A
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,94,elementary_mathematics,2,0,0.95,1,0,"Answer: A
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,95,elementary_mathematics,3,2,0.95,1,0,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,96,elementary_mathematics,2,1,0.95,1,0,"Answer: B
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,97,elementary_mathematics,0,0,1.0,1,1,"Answer: A
+Confidence: 100 
+"
+google/gemma-2-2b-it,eng,98,elementary_mathematics,0,2,0.95,1,0,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,99,elementary_mathematics,2,1,0.95,1,0,"Answer: B
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,100,high_school_geography,1,1,0.95,1,1,"Answer: B
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,101,high_school_geography,3,3,0.95,1,1,"Answer: D
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,102,high_school_geography,2,2,0.95,1,1,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,103,high_school_geography,0,2,0.95,1,0,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,104,high_school_geography,3,2,0.95,1,0,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,105,high_school_geography,3,3,0.95,1,1,"Answer: D
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,106,high_school_geography,3,3,0.95,1,1,"Answer: D
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,107,high_school_geography,2,2,0.95,1,1,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,108,high_school_geography,0,3,0.95,1,0,"Answer: D
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,109,high_school_geography,3,3,0.95,1,1,"Answer: D
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,110,high_school_geography,0,0,0.95,1,1,"Answer: A
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,111,high_school_geography,1,1,0.95,1,1,"Answer: B
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,112,high_school_geography,0,0,0.95,1,1,"Answer: A
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,113,high_school_geography,3,3,0.95,1,1,"Answer: D
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,114,high_school_geography,1,0,0.95,1,0,"Answer: A
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,115,high_school_geography,3,3,0.95,1,1,"Answer: D
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,116,high_school_geography,3,3,0.95,1,1,"Answer: D
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,117,high_school_geography,3,3,0.95,1,1,"Answer: D
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,118,high_school_geography,1,1,0.95,1,1,"Answer: B
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,119,high_school_geography,2,2,0.95,1,1,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,120,high_school_geography,2,2,0.95,1,1,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,121,high_school_geography,3,3,0.95,1,1,"Answer: D
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,122,high_school_geography,3,3,0.95,1,1,"Answer: D
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,123,high_school_geography,3,0,0.95,1,0,"Answer: A
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,124,high_school_geography,1,1,0.95,1,1,"Answer: B
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,125,high_school_geography,0,0,0.95,1,1,"Answer: A
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,126,high_school_geography,1,1,0.95,1,1,"Answer: B
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,127,high_school_geography,1,2,0.95,1,0,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,128,high_school_geography,2,2,0.95,1,1,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,129,high_school_geography,0,0,0.95,1,1,"Answer: A
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,130,high_school_geography,0,0,0.95,1,1,"Answer: A
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,131,high_school_geography,3,2,0.95,1,0,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,132,high_school_geography,2,2,0.95,1,1,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,133,high_school_geography,3,3,0.95,1,1,"Answer: D
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,134,high_school_geography,1,2,0.95,1,0,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,135,high_school_geography,2,0,0.95,1,0,"Answer: A
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,136,high_school_geography,2,0,0.95,1,0,"Answer: A
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,137,high_school_geography,2,2,0.95,1,1,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,138,high_school_geography,3,3,0.95,1,1,"Answer: D
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,139,high_school_geography,3,3,0.95,1,1,"Answer: D
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,140,high_school_geography,0,0,0.95,1,1,"Answer: A
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,141,high_school_geography,1,1,0.95,1,1,"Answer: B
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,142,high_school_geography,1,3,0.95,1,0,"Answer: D
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,143,high_school_geography,1,1,0.95,1,1,"Answer: B
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,144,high_school_geography,3,3,0.95,1,1,"Answer: D
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,145,high_school_geography,3,2,0.95,1,0,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,146,high_school_geography,0,2,0.95,1,0,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,147,high_school_geography,0,0,0.95,1,1,"Answer: A
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,148,high_school_geography,3,3,0.95,1,1,"Answer: D
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,149,high_school_geography,1,1,0.95,1,1,"Answer: B
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,150,high_school_geography,0,0,0.95,1,1,"Answer: A
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,151,high_school_geography,3,3,0.95,1,1,"Answer: D
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,152,high_school_geography,1,1,0.95,1,1,"Answer: B
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,153,high_school_geography,2,3,0.95,1,0,"Answer: D
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,154,high_school_geography,3,3,0.95,1,1,"Answer: D
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,155,high_school_geography,2,2,0.95,1,1,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,156,high_school_geography,0,0,0.95,1,1,"Answer: A
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,157,high_school_geography,3,2,0.95,1,0,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,158,high_school_geography,3,3,0.95,1,1,"Answer: D
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,159,high_school_geography,0,0,0.95,1,1,"Answer: A
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,160,high_school_geography,3,1,0.95,1,0,"Answer: B
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,161,high_school_geography,1,0,0.95,1,0,"Answer: A
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,162,high_school_geography,2,2,0.95,1,1,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,163,high_school_geography,3,3,0.9,1,1,"Answer: D
+Confidence: 90 
+"
+google/gemma-2-2b-it,eng,164,high_school_geography,1,3,0.95,1,0,"Answer: D
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,165,high_school_geography,2,2,0.95,1,1,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,166,high_school_geography,3,3,0.95,1,1,"Answer: D
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,167,high_school_geography,1,1,0.95,1,1,"Answer: B
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,168,high_school_geography,2,2,0.95,1,1,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,169,high_school_geography,2,3,0.95,1,0,"Answer: D
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,170,high_school_geography,1,1,0.95,1,1,"Answer: B
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,171,high_school_geography,0,0,0.95,1,1,"Answer: A
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,172,high_school_geography,3,3,0.95,1,1,"Answer: D
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,173,high_school_geography,2,2,0.95,1,1,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,174,high_school_geography,2,1,0.95,1,0,"Answer: B
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,175,high_school_geography,1,0,0.95,1,0,"Answer: A
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,176,high_school_geography,3,3,0.95,1,1,"Answer: D
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,177,high_school_geography,3,3,0.95,1,1,"Answer: D
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,178,high_school_geography,0,0,0.95,1,1,"Answer: A
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,179,high_school_geography,3,1,0.95,1,0,"Answer: B
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,180,high_school_geography,0,1,0.95,1,0,"Answer: B
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,181,high_school_geography,1,1,0.95,1,1,"Answer: B
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,182,high_school_geography,1,1,0.95,1,1,"Answer: B
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,183,high_school_geography,2,2,0.95,1,1,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,184,high_school_geography,3,0,0.95,1,0,"Answer: A
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,185,high_school_geography,2,2,0.95,1,1,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,186,high_school_geography,1,1,0.95,1,1,"Answer: B
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,187,high_school_geography,3,1,0.95,1,0,"Answer: B
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,188,high_school_geography,2,2,0.95,1,1,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,189,high_school_geography,2,2,0.95,1,1,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,190,high_school_geography,2,2,0.95,1,1,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,191,high_school_geography,3,1,0.95,1,0,"Answer: B
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,192,high_school_geography,2,2,0.95,1,1,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,193,high_school_geography,2,2,0.95,1,1,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,194,high_school_geography,3,3,0.95,1,1,"Answer: D
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,195,high_school_geography,3,2,0.95,1,0,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,196,high_school_geography,3,3,0.95,1,1,"Answer: D
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,197,high_school_geography,3,3,0.95,1,1,"Answer: D
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,198,high_school_geography,1,1,0.95,1,1,"Answer: B
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,199,high_school_geography,2,2,0.95,1,1,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,200,international_law,1,1,0.95,1,1,"Answer: B
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,201,international_law,2,2,0.95,1,1,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,202,international_law,0,0,0.95,1,1,"Answer: A
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,203,international_law,2,2,0.95,1,1,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,204,international_law,1,1,0.95,1,1,"Answer: B
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,205,international_law,2,2,0.95,1,1,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,206,international_law,2,2,0.95,1,1,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,207,international_law,1,1,0.95,1,1,"Answer: B
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,208,international_law,0,0,0.95,1,1,"Answer: A
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,209,international_law,2,2,0.95,1,1,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,210,international_law,1,1,0.95,1,1,"Answer: B
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,211,international_law,2,2,1.0,1,1,"Answer: C
+Confidence: 100 
+"
+google/gemma-2-2b-it,eng,212,international_law,1,1,0.95,1,1,"Answer: B
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,213,international_law,2,3,0.95,1,0,"Answer: D
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,214,international_law,0,2,0.95,1,0,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,215,international_law,1,1,0.95,1,1,"Answer: B
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,216,international_law,0,0,0.95,1,1,"Answer: A
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,217,international_law,2,2,0.95,1,1,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,218,international_law,3,2,0.95,1,0,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,219,international_law,2,2,0.95,1,1,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,220,international_law,2,2,0.95,1,1,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,221,international_law,2,0,0.95,1,0,"Answer: A
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,222,international_law,1,1,0.95,1,1,"Answer: B
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,223,international_law,2,2,0.95,1,1,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,224,international_law,0,3,0.95,1,0,"Answer: D
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,225,international_law,2,2,0.95,1,1,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,226,international_law,2,2,0.95,1,1,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,227,international_law,0,0,0.95,1,1,"Answer: A
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,228,international_law,1,1,0.95,1,1,"Answer: B
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,229,international_law,2,0,0.95,1,0,"Answer: A
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,230,international_law,2,2,0.95,1,1,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,231,international_law,0,0,0.95,1,1,"Answer: A
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,232,international_law,0,0,0.95,1,1,"Answer: A
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,233,international_law,3,3,0.95,1,1,"Answer: D
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,234,international_law,2,1,0.95,1,0,"Answer: B
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,235,international_law,0,3,0.95,1,0,"Answer: D
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,236,international_law,0,3,0.95,1,0,"Answer: D
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,237,international_law,3,3,0.95,1,1,"Answer: D
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,238,international_law,2,2,0.95,1,1,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,239,international_law,2,2,0.95,1,1,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,240,international_law,2,0,0.95,1,0,"Answer: A
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,241,international_law,1,1,0.95,1,1,"Answer: B
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,242,international_law,1,1,0.95,1,1,"Answer: B
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,243,international_law,3,3,0.95,1,1,"Answer: D
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,244,international_law,2,2,0.95,1,1,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,245,international_law,3,2,0.95,1,0,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,246,international_law,3,2,0.95,1,0,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,247,international_law,0,2,0.95,1,0,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,248,international_law,0,2,0.95,1,0,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,249,international_law,3,3,0.95,1,1,"Answer: D
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,250,international_law,1,2,0.95,1,0,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,251,international_law,0,0,0.95,1,1,"Answer: A
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,252,international_law,2,2,0.95,1,1,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,253,international_law,0,3,0.95,1,0,"Answer: D
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,254,international_law,2,2,0.95,1,1,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,255,international_law,2,1,0.95,1,0,"Answer: B
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,256,international_law,1,1,0.95,1,1,"Answer: B
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,257,international_law,1,1,0.95,1,1,"Answer: B
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,258,international_law,0,0,0.95,1,1,"Answer: A
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,259,international_law,3,2,0.95,1,0,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,260,international_law,0,0,0.95,1,1,"Answer: A
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,261,international_law,2,2,0.95,1,1,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,262,international_law,2,0,0.95,1,0,"Answer: A
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,263,international_law,2,2,0.95,1,1,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,264,international_law,3,2,0.9,1,0,"Answer: C
+Confidence: 90 
+"
+google/gemma-2-2b-it,eng,265,international_law,1,3,0.95,1,0,"Answer: D
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,266,international_law,1,1,0.95,1,1,"Answer: B
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,267,international_law,0,2,0.95,1,0,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,268,international_law,2,2,0.95,1,1,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,269,international_law,3,3,0.95,1,1,"Answer: D
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,270,international_law,1,1,0.95,1,1,"Answer: B
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,271,international_law,0,0,0.95,1,1,"Answer: A
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,272,international_law,2,3,0.95,1,0,"Answer: D
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,273,international_law,0,1,0.95,1,0,"Answer: B
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,274,international_law,1,0,1.0,1,0,"Answer: A
+Confidence: 100 
+"
+google/gemma-2-2b-it,eng,275,international_law,2,1,0.95,1,0,"Answer: B
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,276,international_law,2,2,0.95,1,1,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,277,international_law,3,3,0.95,1,1,"Answer: D
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,278,international_law,1,0,0.95,1,0,"Answer: A
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,279,international_law,1,0,0.95,1,0,"Answer: A
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,280,international_law,1,1,0.95,1,1,"Answer: B
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,281,international_law,2,2,0.95,1,1,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,282,international_law,2,2,0.95,1,1,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,283,international_law,0,0,1.0,1,1,"Answer: A
+Confidence: 100 
+"
+google/gemma-2-2b-it,eng,284,international_law,2,2,0.95,1,1,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,285,international_law,1,1,0.95,1,1,"Answer: B
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,286,international_law,0,3,0.9,1,0,"Answer: D
+Confidence: 90 
+"
+google/gemma-2-2b-it,eng,287,international_law,1,1,0.95,1,1,"Answer: B
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,288,international_law,3,3,1.0,1,1,"Answer: D
+Confidence: 100 
+"
+google/gemma-2-2b-it,eng,289,international_law,3,3,1.0,1,1,"Answer: D
+Confidence: 100 
+"
+google/gemma-2-2b-it,eng,290,international_law,0,0,0.95,1,1,"Answer: A
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,291,international_law,0,0,0.95,1,1,"Answer: A
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,292,international_law,2,2,0.95,1,1,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,293,international_law,2,1,0.95,1,0,"Answer: B
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,294,international_law,2,3,0.95,1,0,"Answer: D
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,295,international_law,2,2,0.95,1,1,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,296,international_law,0,0,0.95,1,1,"Answer: A
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,297,international_law,2,3,1.0,1,0,"Answer: D
+Confidence: 100 
+"
+google/gemma-2-2b-it,eng,298,international_law,2,2,0.95,1,1,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,299,international_law,1,1,1.0,1,1,"Answer: B
+Confidence: 100 
+"
+google/gemma-2-2b-it,eng,300,global_facts,2,2,0.95,1,1,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,301,global_facts,1,2,0.95,1,0,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,302,global_facts,2,2,0.95,1,1,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,303,global_facts,0,0,0.95,1,1,"Answer: A
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,304,global_facts,2,2,0.95,1,1,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,305,global_facts,0,2,0.95,1,0,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,306,global_facts,2,2,0.95,1,1,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,307,global_facts,2,0,0.95,1,0,"Answer: A
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,308,global_facts,2,2,0.95,1,1,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,309,global_facts,1,2,0.95,1,0,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,310,global_facts,3,2,0.95,1,0,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,311,global_facts,1,2,0.95,1,0,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,312,global_facts,2,2,0.95,1,1,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,313,global_facts,0,3,0.95,1,0,"Answer: D
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,314,global_facts,1,1,0.95,1,1,"Answer: B
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,315,global_facts,1,2,0.95,1,0,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,316,global_facts,0,1,0.95,1,0,"Answer: B
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,317,global_facts,2,2,0.95,1,1,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,318,global_facts,2,2,0.95,1,1,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,319,global_facts,1,2,0.95,1,0,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,320,global_facts,0,2,0.95,1,0,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,321,global_facts,0,2,0.95,1,0,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,322,global_facts,3,2,0.95,1,0,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,323,global_facts,1,1,0.95,1,1,"Answer: B
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,324,global_facts,3,1,0.95,1,0,"Answer: B
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,325,global_facts,3,2,0.95,1,0,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,326,global_facts,3,2,0.95,1,0,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,327,global_facts,2,1,0.95,1,0,"Answer: B
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,328,global_facts,3,1,0.9,1,0,"Answer: B
+Confidence: 90 
+"
+google/gemma-2-2b-it,eng,329,global_facts,2,2,0.95,1,1,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,330,global_facts,2,1,0.95,1,0,"Answer: B
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,331,global_facts,0,0,0.1,1,1,"Answer: A
+Confidence: 10 
+"
+google/gemma-2-2b-it,eng,332,global_facts,1,0,0.95,1,0,"Answer: A
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,333,global_facts,2,2,0.95,1,1,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,334,global_facts,3,3,0.95,1,1,"Answer: D
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,335,global_facts,3,2,0.95,1,0,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,336,global_facts,3,3,0.95,1,1,"Answer: D
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,337,global_facts,1,1,0.95,1,1,"Answer: B
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,338,global_facts,3,2,0.95,1,0,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,339,global_facts,2,1,0.95,1,0,"Answer: B
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,340,global_facts,1,2,0.9,1,0,"Answer: C
+Confidence: 90 
+"
+google/gemma-2-2b-it,eng,341,global_facts,0,1,0.95,1,0,"Answer: B
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,342,global_facts,2,2,0.95,1,1,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,343,global_facts,0,2,0.95,1,0,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,344,global_facts,2,3,0.95,1,0,"Answer: D
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,345,global_facts,2,2,0.95,1,1,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,346,global_facts,0,1,0.95,1,0,"Answer: B
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,347,global_facts,1,2,0.95,1,0,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,348,global_facts,2,1,0.95,1,0,"Answer: B
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,349,global_facts,1,2,0.95,1,0,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,350,global_facts,1,2,0.95,1,0,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,351,global_facts,1,2,0.95,1,0,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,352,global_facts,1,2,0.95,1,0,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,353,global_facts,3,2,0.95,1,0,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,354,global_facts,0,2,0.95,1,0,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,355,global_facts,1,1,0.95,1,1,"Answer: B
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,356,global_facts,3,2,0.9,1,0,"Answer: C
+Confidence: 90 
+"
+google/gemma-2-2b-it,eng,357,global_facts,3,2,0.95,1,0,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,358,global_facts,2,2,0.95,1,1,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,359,global_facts,1,2,0.95,1,0,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,360,global_facts,2,2,0.95,1,1,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,361,global_facts,0,3,0.95,1,0,"Answer: D
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,362,global_facts,1,1,0.95,1,1,"Answer: B
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,363,global_facts,2,0,0.95,1,0,"Answer: A
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,364,global_facts,1,2,0.95,1,0,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,365,global_facts,2,1,0.95,1,0,"Answer: B
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,366,global_facts,0,1,0.8,1,0,"Answer: B
+Confidence: 80 
+"
+google/gemma-2-2b-it,eng,367,global_facts,1,0,0.95,1,0,"Answer: A
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,368,global_facts,2,2,0.95,1,1,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,369,global_facts,1,2,0.9,1,0,"Answer: C
+Confidence: 90 
+"
+google/gemma-2-2b-it,eng,370,global_facts,1,1,0.95,1,1,"Answer: B
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,371,global_facts,0,2,0.95,1,0,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,372,global_facts,1,0,0.95,1,0,"Answer: A
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,373,global_facts,2,2,0.95,1,1,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,374,global_facts,2,2,0.95,1,1,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,375,global_facts,1,2,0.95,1,0,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,376,global_facts,2,2,0.95,1,1,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,377,global_facts,0,0,0.95,1,1,"Answer: A
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,378,global_facts,2,3,0.95,1,0,"Answer: D
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,379,global_facts,1,2,0.95,1,0,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,380,global_facts,2,2,0.95,1,1,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,381,global_facts,2,0,0.95,1,0,"Answer: A
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,382,global_facts,0,2,0.95,1,0,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,383,global_facts,1,2,0.95,1,0,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,384,global_facts,0,0,1.0,1,1,"Answer: A. True, True
+Confidence: 100 
+"
+google/gemma-2-2b-it,eng,385,global_facts,1,3,0.95,1,0,"Answer: D
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,386,global_facts,2,1,0.95,1,0,"Answer: B
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,387,global_facts,2,0,0.95,1,0,"Answer: A
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,388,global_facts,2,0,0.95,1,0,"Answer: A
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,389,global_facts,1,0,0.1,1,0,"Answer: A
+Confidence: 10 
+"
+google/gemma-2-2b-it,eng,390,global_facts,3,1,0.95,1,0,"Answer: B
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,391,global_facts,0,3,0.95,1,0,"Answer: D
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,392,global_facts,3,1,0.95,1,0,"Answer: B
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,393,global_facts,1,2,0.95,1,0,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,394,global_facts,1,2,0.95,1,0,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,395,global_facts,1,2,0.95,1,0,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,396,global_facts,3,3,0.95,1,1,"Answer: D
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,397,global_facts,3,2,0.95,1,0,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,398,global_facts,2,2,0.95,1,1,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,399,global_facts,3,0,0.95,1,0,"Answer: A
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,400,high_school_microeconomics,0,1,0.95,1,0,"Answer: B
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,401,high_school_microeconomics,2,3,0.95,1,0,"Answer: D
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,402,high_school_microeconomics,1,1,0.95,1,1,"Answer: B
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,403,high_school_microeconomics,3,3,0.95,1,1,"Answer: D
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,404,high_school_microeconomics,3,3,0.95,1,1,"Answer: D
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,405,high_school_microeconomics,3,0,0.95,1,0,"Answer: A
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,406,high_school_microeconomics,3,2,0.95,1,0,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,407,high_school_microeconomics,2,2,0.95,1,1,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,408,high_school_microeconomics,3,3,0.95,1,1,"Answer: D
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,409,high_school_microeconomics,1,2,0.95,1,0,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,410,high_school_microeconomics,2,2,0.95,1,1,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,411,high_school_microeconomics,2,0,0.95,1,0,"Answer: A
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,412,high_school_microeconomics,3,3,0.95,1,1,"Answer: D
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,413,high_school_microeconomics,2,3,0.95,1,0,"Answer: D
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,414,high_school_microeconomics,1,1,0.95,1,1,"Answer: B
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,415,high_school_microeconomics,3,3,0.95,1,1,"Answer: D
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,416,high_school_microeconomics,2,2,0.95,1,1,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,417,high_school_microeconomics,3,0,1.0,1,0,"Answer: A
+Confidence: 100 
+"
+google/gemma-2-2b-it,eng,418,high_school_microeconomics,1,1,0.95,1,1,"Answer: B
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,419,high_school_microeconomics,2,3,0.95,1,0,"Answer: D
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,420,high_school_microeconomics,3,2,0.95,1,0,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,421,high_school_microeconomics,1,1,0.95,1,1,"Answer: B
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,422,high_school_microeconomics,1,1,0.95,1,1,"Answer: B
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,423,high_school_microeconomics,3,0,0.95,1,0,"Answer: A
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,424,high_school_microeconomics,1,2,0.95,1,0,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,425,high_school_microeconomics,3,3,0.95,1,1,"Answer: D
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,426,high_school_microeconomics,1,3,0.95,1,0,"Answer: D
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,427,high_school_microeconomics,2,2,0.95,1,1,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,428,high_school_microeconomics,0,0,0.95,1,1,"Answer: A
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,429,high_school_microeconomics,1,1,0.95,1,1,"Answer: B
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,430,high_school_microeconomics,3,3,0.95,1,1,"Answer: D
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,431,high_school_microeconomics,1,1,0.95,1,1,"Answer: B
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,432,high_school_microeconomics,0,0,0.95,1,1,"Answer: A
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,433,high_school_microeconomics,1,1,0.95,1,1,"Answer: B
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,434,high_school_microeconomics,3,0,0.95,1,0,"Answer: A
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,435,high_school_microeconomics,0,2,0.95,1,0,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,436,high_school_microeconomics,0,1,0.95,1,0,"Answer: B
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,437,high_school_microeconomics,3,2,0.95,1,0,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,438,high_school_microeconomics,3,0,0.95,1,0,"Answer: A
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,439,high_school_microeconomics,3,3,0.95,1,1,"Answer: D
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,440,high_school_microeconomics,3,2,0.95,1,0,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,441,high_school_microeconomics,1,1,0.95,1,1,"Answer: B
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,442,high_school_microeconomics,3,3,0.95,1,1,"Answer: D
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,443,high_school_microeconomics,2,3,0.95,1,0,"Answer: D
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,444,high_school_microeconomics,1,0,0.95,1,0,"Answer: A
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,445,high_school_microeconomics,3,3,0.95,1,1,"Answer: D
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,446,high_school_microeconomics,1,1,1.0,1,1,"Answer: B
+Confidence: 100 
+"
+google/gemma-2-2b-it,eng,447,high_school_microeconomics,2,2,0.95,1,1,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,448,high_school_microeconomics,0,2,0.95,1,0,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,449,high_school_microeconomics,3,1,0.95,1,0,"Answer: B
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,450,high_school_microeconomics,1,1,0.95,1,1,"Answer: B
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,451,high_school_microeconomics,0,0,1.0,1,1,"Answer: A
+Confidence: 100 
+"
+google/gemma-2-2b-it,eng,452,high_school_microeconomics,0,3,0.95,1,0,"Answer: D
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,453,high_school_microeconomics,0,0,0.95,1,1,"Answer: A
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,454,high_school_microeconomics,3,0,0.95,1,0,"Answer: A
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,455,high_school_microeconomics,1,1,0.95,1,1,"Answer: B
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,456,high_school_microeconomics,1,2,0.95,1,0,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,457,high_school_microeconomics,1,1,0.95,1,1,"Answer: B
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,458,high_school_microeconomics,3,2,0.95,1,0,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,459,high_school_microeconomics,1,0,0.95,1,0,"Answer: A
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,460,high_school_microeconomics,1,1,0.95,1,1,"Answer: B
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,461,high_school_microeconomics,0,3,0.95,1,0,"Answer: D
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,462,high_school_microeconomics,0,3,1.0,1,0,"Answer: D
+Confidence: 100 
+"
+google/gemma-2-2b-it,eng,463,high_school_microeconomics,0,0,0.95,1,1,"Answer: A
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,464,high_school_microeconomics,3,3,0.95,1,1,"Answer: D
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,465,high_school_microeconomics,3,3,0.95,1,1,"Answer: D
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,466,high_school_microeconomics,1,3,0.95,1,0,"Answer: D
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,467,high_school_microeconomics,0,1,1.0,1,0,"Answer: B
+Confidence: 100 
+"
+google/gemma-2-2b-it,eng,468,high_school_microeconomics,3,2,0.95,1,0,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,469,high_school_microeconomics,3,0,1.0,1,0,"Answer: A
+Confidence: 100 
+"
+google/gemma-2-2b-it,eng,470,high_school_microeconomics,1,3,0.95,1,0,"Answer: D
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,471,high_school_microeconomics,3,2,0.95,1,0,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,472,high_school_microeconomics,3,2,0.95,1,0,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,473,high_school_microeconomics,0,3,0.95,1,0,"Answer: D
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,474,high_school_microeconomics,2,2,0.95,1,1,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,475,high_school_microeconomics,3,3,0.95,1,1,"Answer: D
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,476,high_school_microeconomics,2,2,0.95,1,1,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,477,high_school_microeconomics,3,2,0.95,1,0,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,478,high_school_microeconomics,1,0,0.95,1,0,"Answer: A
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,479,high_school_microeconomics,3,2,0.95,1,0,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,480,high_school_microeconomics,0,0,0.95,1,1,"Answer: A
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,481,high_school_microeconomics,1,1,0.95,1,1,"Answer: B
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,482,high_school_microeconomics,0,0,0.95,1,1,"Answer: A
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,483,high_school_microeconomics,1,1,0.95,1,1,"Answer: B
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,484,high_school_microeconomics,2,2,0.95,1,1,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,485,high_school_microeconomics,2,1,0.95,1,0,"Answer: B
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,486,high_school_microeconomics,0,0,0.95,1,1,"Answer: A
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,487,high_school_microeconomics,0,1,0.95,1,0,"Answer: B
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,488,high_school_microeconomics,0,0,0.95,1,1,"Answer: A
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,489,high_school_microeconomics,3,3,0.95,1,1,"Answer: D
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,490,high_school_microeconomics,2,2,0.95,1,1,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,491,high_school_microeconomics,1,2,0.95,1,0,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,492,high_school_microeconomics,1,0,1.0,1,0,"Answer: A
+Confidence: 100 
+"
+google/gemma-2-2b-it,eng,493,high_school_microeconomics,3,3,0.95,1,1,"Answer: D
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,494,high_school_microeconomics,1,0,0.95,1,0,"Answer: A
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,495,high_school_microeconomics,3,3,0.95,1,1,"Answer: D
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,496,high_school_microeconomics,3,3,0.95,1,1,"Answer: D
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,497,high_school_microeconomics,1,1,0.95,1,1,"Answer: B
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,498,high_school_microeconomics,3,3,0.95,1,1,"Answer: D
+Confidence: 95 
+"
+google/gemma-2-2b-it,eng,499,high_school_microeconomics,0,3,0.95,1,0,"Answer: D
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,0,elementary_mathematics,2,0,1.0,1,0,"Answer: A
+Confidence: 100 
+"
+google/gemma-2-2b-it,yor,1,elementary_mathematics,2,2,0.95,1,1,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,2,elementary_mathematics,3,2,0.95,1,0,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,3,elementary_mathematics,1,2,0.95,1,0,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,4,elementary_mathematics,1,3,0.95,1,0,"Answer: D
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,5,elementary_mathematics,2,2,0.95,1,1,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,6,elementary_mathematics,2,1,0.95,1,0,"Answer: B
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,7,elementary_mathematics,1,3,0.95,1,0,"Answer: D
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,8,elementary_mathematics,3,0,0.95,1,0,"Answer: A
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,9,elementary_mathematics,3,1,0.95,1,0,"Answer: B
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,10,elementary_mathematics,2,2,0.95,1,1,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,11,elementary_mathematics,3,3,1.0,1,1,"Answer: D
+Confidence: 100 
+"
+google/gemma-2-2b-it,yor,12,elementary_mathematics,0,3,0.95,1,0,"Answer: D
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,13,elementary_mathematics,0,3,0.95,1,0,"Answer: D
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,14,elementary_mathematics,2,2,0.95,1,1,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,15,elementary_mathematics,1,2,0.95,1,0,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,16,elementary_mathematics,1,2,0.95,1,0,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,17,elementary_mathematics,1,1,0.95,1,1,"Answer: B
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,18,elementary_mathematics,3,2,0.95,1,0,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,19,elementary_mathematics,0,1,0.95,1,0,"Answer: B
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,20,elementary_mathematics,2,0,0.95,1,0,"Answer: A
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,21,elementary_mathematics,1,2,0.95,1,0,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,22,elementary_mathematics,0,0,0.95,1,1,"Answer: A
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,23,elementary_mathematics,2,0,0.95,1,0,"Answer: A
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,24,elementary_mathematics,1,2,0.95,1,0,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,25,elementary_mathematics,0,1,0.95,1,0,"Answer: B
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,26,elementary_mathematics,3,2,0.95,1,0,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,27,elementary_mathematics,3,0,0.95,1,0,"Answer: A
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,28,elementary_mathematics,0,3,0.95,1,0,"Answer: D
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,29,elementary_mathematics,0,2,0.95,1,0,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,30,elementary_mathematics,1,2,0.95,1,0,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,31,elementary_mathematics,1,2,0.95,1,0,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,32,elementary_mathematics,0,2,0.95,1,0,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,33,elementary_mathematics,2,2,0.95,1,1,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,34,elementary_mathematics,3,2,1.0,1,0,"Answer: C
+Confidence: 100 
+"
+google/gemma-2-2b-it,yor,35,elementary_mathematics,0,3,0.95,1,0,"Answer: D
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,36,elementary_mathematics,0,2,0.95,1,0,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,37,elementary_mathematics,3,3,0.95,1,1,"Answer: D
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,38,elementary_mathematics,2,3,0.95,1,0,"Answer: D
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,39,elementary_mathematics,2,1,0.95,1,0,"Answer: B
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,40,elementary_mathematics,1,1,0.95,1,1,"Answer: B
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,41,elementary_mathematics,3,0,0.95,1,0,"Answer: A
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,42,elementary_mathematics,0,2,1.0,1,0,"Answer: C
+Confidence: 100 
+"
+google/gemma-2-2b-it,yor,43,elementary_mathematics,2,0,0.95,1,0,"Answer: A
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,44,elementary_mathematics,3,2,0.95,1,0,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,45,elementary_mathematics,1,1,0.95,1,1,"Answer: B
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,46,elementary_mathematics,3,2,0.95,1,0,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,47,elementary_mathematics,2,2,0.95,1,1,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,48,elementary_mathematics,3,2,0.95,1,0,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,49,elementary_mathematics,3,3,1.0,1,1,"Answer: D
+Confidence: 100 
+"
+google/gemma-2-2b-it,yor,50,elementary_mathematics,0,2,0.95,1,0,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,51,elementary_mathematics,1,2,0.95,1,0,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,52,elementary_mathematics,1,3,0.95,1,0,"Answer: D
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,53,elementary_mathematics,0,3,0.95,1,0,"Answer: D
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,54,elementary_mathematics,1,2,0.95,1,0,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,55,elementary_mathematics,0,2,0.95,1,0,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,56,elementary_mathematics,3,2,0.95,1,0,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,57,elementary_mathematics,0,1,0.95,1,0,"Answer: B
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,58,elementary_mathematics,3,2,0.95,1,0,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,59,elementary_mathematics,1,1,0.95,1,1,"Answer: B
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,60,elementary_mathematics,3,2,0.95,1,0,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,61,elementary_mathematics,1,2,0.95,1,0,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,62,elementary_mathematics,2,3,0.95,1,0,"Answer: D
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,63,elementary_mathematics,2,2,0.95,1,1,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,64,elementary_mathematics,3,0,0.95,1,0,"Answer: A
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,65,elementary_mathematics,2,1,0.95,1,0,"Answer: B
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,66,elementary_mathematics,3,0,0.95,1,0,"Answer: A
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,67,elementary_mathematics,0,1,0.95,1,0,"Answer: B
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,68,elementary_mathematics,2,2,0.95,1,1,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,69,elementary_mathematics,3,2,0.95,1,0,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,70,elementary_mathematics,2,2,0.95,1,1,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,71,elementary_mathematics,0,2,0.95,1,0,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,72,elementary_mathematics,1,2,0.95,1,0,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,73,elementary_mathematics,2,3,0.95,1,0,"Answer: D
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,74,elementary_mathematics,1,2,0.95,1,0,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,75,elementary_mathematics,3,3,0.95,1,1,"Answer: D
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,76,elementary_mathematics,0,0,0.95,1,1,"Answer: A
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,77,elementary_mathematics,3,2,0.95,1,0,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,78,elementary_mathematics,3,2,0.95,1,0,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,79,elementary_mathematics,0,2,0.95,1,0,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,80,elementary_mathematics,1,2,0.95,1,0,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,81,elementary_mathematics,0,2,0.95,1,0,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,82,elementary_mathematics,3,1,0.95,1,0,"Answer: B
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,83,elementary_mathematics,2,2,0.95,1,1,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,84,elementary_mathematics,1,1,0.95,1,1,"Answer: B
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,85,elementary_mathematics,3,3,0.95,1,1,"Answer: D
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,86,elementary_mathematics,0,0,0.95,1,1,"Answer: A
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,87,elementary_mathematics,2,2,0.95,1,1,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,88,elementary_mathematics,1,2,0.95,1,0,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,89,elementary_mathematics,1,0,0.95,1,0,"Answer: A
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,90,elementary_mathematics,2,2,0.95,1,1,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,91,elementary_mathematics,0,2,0.95,1,0,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,92,elementary_mathematics,1,1,0.95,1,1,"Answer: B
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,93,elementary_mathematics,0,0,0.95,1,1,"Answer: A
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,94,elementary_mathematics,2,1,0.95,1,0,"Answer: B
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,95,elementary_mathematics,3,2,0.95,1,0,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,96,elementary_mathematics,2,1,0.95,1,0,"Answer: B
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,97,elementary_mathematics,0,3,1.0,1,0,"Answer: D
+Confidence: 100 
+"
+google/gemma-2-2b-it,yor,98,elementary_mathematics,0,2,0.95,1,0,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,99,elementary_mathematics,2,2,0.95,1,1,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,100,high_school_geography,1,1,0.95,1,1,"Answer: B
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,101,high_school_geography,3,3,0.95,1,1,"Answer: D
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,102,high_school_geography,2,2,0.95,1,1,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,103,high_school_geography,0,2,0.95,1,0,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,104,high_school_geography,3,3,0.95,1,1,"Answer: D
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,105,high_school_geography,3,2,0.95,1,0,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,106,high_school_geography,3,3,0.95,1,1,"Answer: D
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,107,high_school_geography,2,0,0.95,1,0,"Answer: A
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,108,high_school_geography,0,3,0.95,1,0,"Answer: D
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,109,high_school_geography,3,3,0.95,1,1,"Answer: D
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,110,high_school_geography,0,2,0.95,1,0,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,111,high_school_geography,1,3,0.95,1,0,"Answer: D
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,112,high_school_geography,0,0,0.95,1,1,"Answer: A
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,113,high_school_geography,3,3,0.95,1,1,"Answer: D
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,114,high_school_geography,1,0,0.95,1,0,"Answer: A
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,115,high_school_geography,3,1,0.95,1,0,"Answer: B
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,116,high_school_geography,3,0,0.95,1,0,"Answer: A
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,117,high_school_geography,3,1,0.95,1,0,"Answer: B
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,118,high_school_geography,1,3,0.95,1,0,"Answer: D
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,119,high_school_geography,2,1,0.95,1,0,"Answer: B
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,120,high_school_geography,2,2,0.95,1,1,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,121,high_school_geography,3,0,0.95,1,0,"Answer: A
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,122,high_school_geography,3,2,0.95,1,0,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,123,high_school_geography,3,1,0.95,1,0,"Answer: B
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,124,high_school_geography,1,3,0.95,1,0,"Answer: D
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,125,high_school_geography,0,3,0.95,1,0,"Answer: D
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,126,high_school_geography,1,1,0.95,1,1,"Answer: B
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,127,high_school_geography,1,0,0.95,1,0,"Answer: A
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,128,high_school_geography,2,2,0.95,1,1,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,129,high_school_geography,0,3,0.95,1,0,"Answer: D
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,130,high_school_geography,0,3,0.95,1,0,"Answer: D
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,131,high_school_geography,3,3,0.95,1,1,"Answer: D
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,132,high_school_geography,2,1,0.95,1,0,"Answer: B
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,133,high_school_geography,3,3,0.95,1,1,"Answer: D
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,134,high_school_geography,1,3,0.95,1,0,"Answer: D
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,135,high_school_geography,2,3,0.95,1,0,"Answer: D
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,136,high_school_geography,2,1,0.95,1,0,"Answer: B
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,137,high_school_geography,2,2,0.95,1,1,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,138,high_school_geography,3,3,0.95,1,1,"Answer: D
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,139,high_school_geography,3,2,0.95,1,0,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,140,high_school_geography,0,0,0.95,1,1,"Answer: A
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,141,high_school_geography,1,2,0.95,1,0,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,142,high_school_geography,1,2,0.95,1,0,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,143,high_school_geography,1,2,0.95,1,0,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,144,high_school_geography,3,3,0.95,1,1,"Answer: D
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,145,high_school_geography,3,2,0.95,1,0,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,146,high_school_geography,0,0,0.95,1,1,"Answer: A
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,147,high_school_geography,0,0,0.95,1,1,"Answer: A
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,148,high_school_geography,3,3,0.95,1,1,"Answer: D
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,149,high_school_geography,1,1,0.95,1,1,"Answer: B
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,150,high_school_geography,0,3,0.95,1,0,"Answer: D
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,151,high_school_geography,3,1,0.95,1,0,"Answer: B
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,152,high_school_geography,1,0,0.95,1,0,"Answer: A
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,153,high_school_geography,2,0,0.95,1,0,"Answer: A
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,154,high_school_geography,3,2,0.95,1,0,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,155,high_school_geography,2,2,0.95,1,1,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,156,high_school_geography,0,2,0.95,1,0,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,157,high_school_geography,3,3,0.95,1,1,"Answer: D
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,158,high_school_geography,3,0,0.95,1,0,"Answer: A
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,159,high_school_geography,0,3,0.95,1,0,"Answer: D
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,160,high_school_geography,3,1,0.95,1,0,"Answer: B
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,161,high_school_geography,1,0,0.95,1,0,"Answer: A
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,162,high_school_geography,2,1,0.95,1,0,"Answer: B
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,163,high_school_geography,3,2,0.95,1,0,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,164,high_school_geography,1,2,0.95,1,0,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,165,high_school_geography,2,2,0.95,1,1,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,166,high_school_geography,3,3,0.95,1,1,"Answer: D
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,167,high_school_geography,1,2,0.95,1,0,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,168,high_school_geography,2,3,0.95,1,0,"Answer: D
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,169,high_school_geography,2,0,0.95,1,0,"Answer: A
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,170,high_school_geography,1,2,0.95,1,0,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,171,high_school_geography,0,0,0.95,1,1,"Answer: A
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,172,high_school_geography,3,2,0.95,1,0,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,173,high_school_geography,2,2,0.95,1,1,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,174,high_school_geography,2,3,0.95,1,0,"Answer: D
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,175,high_school_geography,1,1,0.95,1,1,"Answer: B
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,176,high_school_geography,3,0,0.95,1,0,"Answer: A
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,177,high_school_geography,3,2,0.95,1,0,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,178,high_school_geography,0,1,0.95,1,0,"Answer: B
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,179,high_school_geography,3,1,0.95,1,0,"Answer: B
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,180,high_school_geography,0,3,0.95,1,0,"Answer: D
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,181,high_school_geography,1,2,0.95,1,0,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,182,high_school_geography,1,2,0.95,1,0,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,183,high_school_geography,2,2,0.95,1,1,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,184,high_school_geography,3,2,0.95,1,0,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,185,high_school_geography,2,2,0.95,1,1,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,186,high_school_geography,1,2,0.95,1,0,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,187,high_school_geography,3,2,0.95,1,0,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,188,high_school_geography,2,3,0.95,1,0,"Answer: D
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,189,high_school_geography,2,0,0.95,1,0,"Answer: A
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,190,high_school_geography,2,3,0.95,1,0,"Answer: D
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,191,high_school_geography,3,1,0.95,1,0,"Answer: B
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,192,high_school_geography,2,2,0.95,1,1,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,193,high_school_geography,2,2,0.95,1,1,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,194,high_school_geography,3,1,0.95,1,0,"Answer: B
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,195,high_school_geography,3,2,0.95,1,0,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,196,high_school_geography,3,0,0.95,1,0,"Answer: A
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,197,high_school_geography,3,2,0.95,1,0,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,198,high_school_geography,1,2,0.95,1,0,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,199,high_school_geography,2,2,0.95,1,1,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,200,international_law,1,1,0.95,1,1,"Answer: B
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,201,international_law,2,2,0.95,1,1,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,202,international_law,0,0,0.95,1,1,"Answer: A
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,203,international_law,2,1,0.95,1,0,"Answer: B
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,204,international_law,1,3,0.95,1,0,"Answer: D
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,205,international_law,2,3,0.95,1,0,"Answer: D
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,206,international_law,2,2,0.95,1,1,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,207,international_law,1,3,0.95,1,0,"Answer: D
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,208,international_law,0,1,0.95,1,0,"Answer: B
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,209,international_law,2,3,0.95,1,0,"Answer: D
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,210,international_law,1,1,0.95,1,1,"Answer: B
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,211,international_law,2,2,0.95,1,1,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,212,international_law,1,3,0.95,1,0,"Answer: D
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,213,international_law,2,3,0.95,1,0,"Answer: D
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,214,international_law,0,3,0.95,1,0,"Answer: D
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,215,international_law,1,1,0.95,1,1,"Answer: B
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,216,international_law,0,3,0.95,1,0,"Answer: D
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,217,international_law,2,0,0.95,1,0,"Answer: A
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,218,international_law,3,2,0.95,1,0,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,219,international_law,2,3,0.95,1,0,"Answer: D
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,220,international_law,2,2,0.95,1,1,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,221,international_law,2,2,0.95,1,1,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,222,international_law,1,3,0.95,1,0,"Answer: D
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,223,international_law,2,2,0.95,1,1,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,224,international_law,0,2,0.95,1,0,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,225,international_law,2,2,0.95,1,1,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,226,international_law,2,3,0.95,1,0,"Answer: D
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,227,international_law,0,3,0.95,1,0,"Answer: D
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,228,international_law,1,3,0.95,1,0,"Answer: D
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,229,international_law,2,3,0.95,1,0,"Answer: D
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,230,international_law,2,2,0.95,1,1,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,231,international_law,0,0,0.95,1,1,"Answer: A
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,232,international_law,0,0,0.95,1,1,"Answer: A
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,233,international_law,3,3,0.95,1,1,"Answer: D
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,234,international_law,2,3,0.95,1,0,"Answer: D
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,235,international_law,0,2,0.95,1,0,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,236,international_law,0,3,0.95,1,0,"Answer: D
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,237,international_law,3,1,0.95,1,0,"Answer: B
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,238,international_law,2,1,0.95,1,0,"Answer: B
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,239,international_law,2,2,0.95,1,1,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,240,international_law,2,2,0.95,1,1,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,241,international_law,1,0,0.95,1,0,"Answer: A
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,242,international_law,1,1,0.95,1,1,"Answer: B
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,243,international_law,3,1,0.95,1,0,"Answer: B
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,244,international_law,2,1,0.95,1,0,"Answer: B
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,245,international_law,3,2,0.95,1,0,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,246,international_law,3,2,0.95,1,0,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,247,international_law,0,0,0.95,1,1,"Answer: A
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,248,international_law,0,1,0.95,1,0,"Answer: B
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,249,international_law,3,3,0.95,1,1,"Answer: D
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,250,international_law,1,1,0.95,1,1,"Answer: B
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,251,international_law,0,1,0.95,1,0,"Answer: B
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,252,international_law,2,2,0.95,1,1,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,253,international_law,0,0,0.95,1,1,"Answer: A
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,254,international_law,2,2,0.95,1,1,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,255,international_law,2,0,0.95,1,0,"Answer: A
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,256,international_law,1,1,0.95,1,1,"Answer: B
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,257,international_law,1,0,0.95,1,0,"Answer: A
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,258,international_law,0,0,0.95,1,1,"Answer: A
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,259,international_law,3,2,0.95,1,0,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,260,international_law,0,0,0.95,1,1,"Answer: A
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,261,international_law,2,2,0.95,1,1,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,262,international_law,2,0,0.95,1,0,"Answer: A
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,263,international_law,2,2,0.95,1,1,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,264,international_law,3,2,0.95,1,0,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,265,international_law,1,1,0.95,1,1,"Answer: B
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,266,international_law,1,3,0.95,1,0,"Answer: D
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,267,international_law,0,0,0.95,1,1,"Answer: A
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,268,international_law,2,2,0.95,1,1,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,269,international_law,3,3,0.95,1,1,"Answer: D
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,270,international_law,1,0,0.95,1,0,"Answer: A
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,271,international_law,0,3,0.95,1,0,"Answer: D
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,272,international_law,2,3,0.95,1,0,"Answer: D
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,273,international_law,0,0,0.95,1,1,"Answer: A
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,274,international_law,1,1,0.95,1,1,"Answer: B
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,275,international_law,2,3,0.95,1,0,"Answer: D
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,276,international_law,2,2,0.95,1,1,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,277,international_law,3,3,0.95,1,1,"Answer: D
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,278,international_law,1,0,0.95,1,0,"Answer: A
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,279,international_law,1,3,0.95,1,0,"Answer: D
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,280,international_law,1,0,0.95,1,0,"Answer: A
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,281,international_law,2,2,0.95,1,1,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,282,international_law,2,2,0.95,1,1,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,283,international_law,0,2,0.95,1,0,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,284,international_law,2,2,0.95,1,1,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,285,international_law,1,2,0.95,1,0,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,286,international_law,0,3,0.95,1,0,"Answer: D
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,287,international_law,1,3,0.95,1,0,"Answer: D
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,288,international_law,3,3,0.95,1,1,"Answer: D
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,289,international_law,3,3,0.95,1,1,"Answer: D
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,290,international_law,0,0,0.95,1,1,"Answer: A
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,291,international_law,0,0,0.95,1,1,"Answer: A
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,292,international_law,2,3,0.95,1,0,"Answer: D
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,293,international_law,2,2,0.95,1,1,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,294,international_law,2,2,0.95,1,1,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,295,international_law,2,2,0.95,1,1,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,296,international_law,0,2,0.95,1,0,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,297,international_law,2,3,0.95,1,0,"Answer: D
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,298,international_law,2,2,0.95,1,1,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,299,international_law,1,3,0.95,1,0,"Answer: D
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,300,global_facts,2,2,0.95,1,1,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,301,global_facts,1,2,0.95,1,0,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,302,global_facts,2,2,0.95,1,1,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,303,global_facts,0,0,0.95,1,1,"Answer: A
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,304,global_facts,2,3,0.95,1,0,"Answer: D
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,305,global_facts,0,3,0.95,1,0,"Answer: D
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,306,global_facts,2,2,0.95,1,1,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,307,global_facts,2,2,0.95,1,1,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,308,global_facts,2,2,0.95,1,1,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,309,global_facts,1,2,0.95,1,0,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,310,global_facts,3,2,0.95,1,0,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,311,global_facts,1,2,0.95,1,0,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,312,global_facts,2,2,0.95,1,1,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,313,global_facts,0,2,0.95,1,0,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,314,global_facts,1,2,0.95,1,0,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,315,global_facts,1,2,0.95,1,0,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,316,global_facts,0,2,0.95,1,0,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,317,global_facts,2,2,0.9,1,1,"Answer: C
+Confidence: 90 
+"
+google/gemma-2-2b-it,yor,318,global_facts,2,2,0.95,1,1,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,319,global_facts,1,2,0.95,1,0,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,320,global_facts,0,2,0.95,1,0,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,321,global_facts,0,2,0.95,1,0,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,322,global_facts,3,2,0.9,1,0,"Answer: C
+Confidence: 90 
+"
+google/gemma-2-2b-it,yor,323,global_facts,1,0,0.95,1,0,"Answer: A
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,324,global_facts,3,3,0.95,1,1,"Answer: D
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,325,global_facts,3,2,0.95,1,0,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,326,global_facts,3,2,0.95,1,0,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,327,global_facts,2,2,0.95,1,1,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,328,global_facts,3,2,0.9,1,0,"Answer: C
+Confidence: 90 
+"
+google/gemma-2-2b-it,yor,329,global_facts,2,2,0.95,1,1,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,330,global_facts,2,2,0.95,1,1,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,331,global_facts,0,2,0.9,1,0,"Answer: C
+Confidence: 90 
+"
+google/gemma-2-2b-it,yor,332,global_facts,1,2,0.95,1,0,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,333,global_facts,2,2,0.95,1,1,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,334,global_facts,3,2,0.95,1,0,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,335,global_facts,3,2,0.95,1,0,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,336,global_facts,3,1,0.95,1,0,"Answer: B
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,337,global_facts,1,2,0.95,1,0,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,338,global_facts,3,2,0.95,1,0,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,339,global_facts,2,2,0.95,1,1,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,340,global_facts,1,2,0.9,1,0,"Answer: C
+Confidence: 90 
+"
+google/gemma-2-2b-it,yor,341,global_facts,0,2,0.95,1,0,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,342,global_facts,2,2,0.95,1,1,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,343,global_facts,0,2,0.95,1,0,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,344,global_facts,2,2,0.95,1,1,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,345,global_facts,2,2,0.95,1,1,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,346,global_facts,0,2,0.95,1,0,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,347,global_facts,1,2,0.95,1,0,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,348,global_facts,2,2,0.95,1,1,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,349,global_facts,1,2,0.95,1,0,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,350,global_facts,1,2,0.95,1,0,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,351,global_facts,1,2,0.95,1,0,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,352,global_facts,1,2,0.95,1,0,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,353,global_facts,3,2,0.95,1,0,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,354,global_facts,0,2,0.95,1,0,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,355,global_facts,1,2,0.95,1,0,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,356,global_facts,3,2,0.95,1,0,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,357,global_facts,3,3,0.95,1,1,"Answer: D
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,358,global_facts,2,3,0.95,1,0,"Answer: D
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,359,global_facts,1,3,0.95,1,0,"Answer: D
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,360,global_facts,2,2,0.95,1,1,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,361,global_facts,0,3,0.95,1,0,"Answer: D
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,362,global_facts,1,2,0.95,1,0,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,363,global_facts,2,2,0.95,1,1,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,364,global_facts,1,1,0.95,1,1,"Answer: B
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,365,global_facts,2,2,0.95,1,1,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,366,global_facts,0,2,0.9,1,0,"Answer: C
+Confidence: 90 
+"
+google/gemma-2-2b-it,yor,367,global_facts,1,3,0.95,1,0,"Answer: D
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,368,global_facts,2,2,0.95,1,1,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,369,global_facts,1,2,0.9,1,0,"Answer: C
+Confidence: 90 
+"
+google/gemma-2-2b-it,yor,370,global_facts,1,2,0.95,1,0,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,371,global_facts,0,2,0.95,1,0,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,372,global_facts,1,2,0.95,1,0,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,373,global_facts,2,2,0.95,1,1,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,374,global_facts,2,2,0.95,1,1,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,375,global_facts,1,2,0.95,1,0,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,376,global_facts,2,2,0.95,1,1,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,377,global_facts,0,2,0.95,1,0,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,378,global_facts,2,1,0.95,1,0,"Answer: B
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,379,global_facts,1,2,0.95,1,0,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,380,global_facts,2,2,0.95,1,1,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,381,global_facts,2,2,0.95,1,1,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,382,global_facts,0,2,0.95,1,0,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,383,global_facts,1,2,0.95,1,0,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,384,global_facts,0,1,0.95,1,0,"Answer: B
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,385,global_facts,1,3,0.95,1,0,"Answer: D
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,386,global_facts,2,1,0.95,1,0,"Answer: B
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,387,global_facts,2,3,0.95,1,0,"Answer: D
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,388,global_facts,2,2,0.95,1,1,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,389,global_facts,1,2,0.95,1,0,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,390,global_facts,3,2,0.95,1,0,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,391,global_facts,0,3,0.95,1,0,"Answer: D
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,392,global_facts,3,2,0.95,1,0,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,393,global_facts,1,2,0.95,1,0,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,394,global_facts,1,2,0.95,1,0,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,395,global_facts,1,2,0.95,1,0,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,396,global_facts,3,3,1.0,1,1,"Answer: D
+Confidence: 100 
+"
+google/gemma-2-2b-it,yor,397,global_facts,3,2,0.95,1,0,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,398,global_facts,2,2,0.95,1,1,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,399,global_facts,3,2,0.1,1,0,"Answer: C
+Confidence: 10 
+"
+google/gemma-2-2b-it,yor,400,high_school_microeconomics,0,0,0.95,1,1,"Answer: A
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,401,high_school_microeconomics,2,0,0.95,1,0,"Answer: A
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,402,high_school_microeconomics,1,3,0.95,1,0,"Answer: D
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,403,high_school_microeconomics,3,0,0.95,1,0,"Answer: A
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,404,high_school_microeconomics,3,1,0.95,1,0,"Answer: B
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,405,high_school_microeconomics,3,0,0.95,1,0,"Answer: A
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,406,high_school_microeconomics,3,2,0.95,1,0,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,407,high_school_microeconomics,2,0,0.95,1,0,"Answer: A
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,408,high_school_microeconomics,3,2,0.95,1,0,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,409,high_school_microeconomics,1,2,0.95,1,0,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,410,high_school_microeconomics,2,3,0.95,1,0,"Answer: D
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,411,high_school_microeconomics,2,2,0.95,1,1,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,412,high_school_microeconomics,3,2,0.95,1,0,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,413,high_school_microeconomics,2,2,0.95,1,1,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,414,high_school_microeconomics,1,1,0.95,1,1,"Answer: B
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,415,high_school_microeconomics,3,3,0.95,1,1,"Answer: D
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,416,high_school_microeconomics,2,1,0.95,1,0,"Answer: B
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,417,high_school_microeconomics,3,0,0.95,1,0,"Answer: A
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,418,high_school_microeconomics,1,3,0.95,1,0,"Answer: D
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,419,high_school_microeconomics,2,3,0.95,1,0,"Answer: D
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,420,high_school_microeconomics,3,2,0.95,1,0,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,421,high_school_microeconomics,1,1,0.95,1,1,"Answer: B
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,422,high_school_microeconomics,1,0,0.95,1,0,"Answer: A
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,423,high_school_microeconomics,3,1,0.95,1,0,"Answer: B
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,424,high_school_microeconomics,1,0,0.95,1,0,"Answer: A
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,425,high_school_microeconomics,3,2,0.95,1,0,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,426,high_school_microeconomics,1,2,0.95,1,0,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,427,high_school_microeconomics,2,3,0.95,1,0,"Answer: D
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,428,high_school_microeconomics,0,2,0.95,1,0,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,429,high_school_microeconomics,1,3,0.95,1,0,"Answer: D
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,430,high_school_microeconomics,3,3,0.95,1,1,"Answer: D
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,431,high_school_microeconomics,1,2,0.95,1,0,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,432,high_school_microeconomics,0,0,0.95,1,1,"Answer: A
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,433,high_school_microeconomics,1,1,0.95,1,1,"Answer: B
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,434,high_school_microeconomics,3,1,0.95,1,0,"Answer: B
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,435,high_school_microeconomics,0,3,0.95,1,0,"Answer: D
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,436,high_school_microeconomics,0,3,0.95,1,0,"Answer: D
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,437,high_school_microeconomics,3,2,0.95,1,0,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,438,high_school_microeconomics,3,2,0.95,1,0,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,439,high_school_microeconomics,3,0,0.95,1,0,"Answer: A
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,440,high_school_microeconomics,3,3,0.95,1,1,"Answer: D
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,441,high_school_microeconomics,1,3,0.95,1,0,"Answer: D
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,442,high_school_microeconomics,3,2,1.0,1,0,"Answer: C
+Confidence: 100 
+"
+google/gemma-2-2b-it,yor,443,high_school_microeconomics,2,1,0.95,1,0,"Answer: B
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,444,high_school_microeconomics,1,0,0.95,1,0,"Answer: A
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,445,high_school_microeconomics,3,2,0.95,1,0,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,446,high_school_microeconomics,1,2,0.95,1,0,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,447,high_school_microeconomics,2,0,0.95,1,0,"Answer: A
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,448,high_school_microeconomics,0,1,0.95,1,0,"Answer: B
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,449,high_school_microeconomics,3,0,0.95,1,0,"Answer: A
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,450,high_school_microeconomics,1,2,0.95,1,0,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,451,high_school_microeconomics,0,2,0.95,1,0,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,452,high_school_microeconomics,0,3,1.0,1,0,"Answer: D
+Confidence: 100 
+"
+google/gemma-2-2b-it,yor,453,high_school_microeconomics,0,1,0.95,1,0,"Answer: B
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,454,high_school_microeconomics,3,3,0.95,1,1,"Answer: D
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,455,high_school_microeconomics,1,0,0.95,1,0,"Answer: A
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,456,high_school_microeconomics,1,3,0.95,1,0,"Answer: D
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,457,high_school_microeconomics,1,3,0.95,1,0,"Answer: D
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,458,high_school_microeconomics,3,1,0.95,1,0,"Answer: B
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,459,high_school_microeconomics,1,1,0.95,1,1,"Answer: B
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,460,high_school_microeconomics,1,2,0.95,1,0,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,461,high_school_microeconomics,0,2,0.95,1,0,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,462,high_school_microeconomics,0,2,0.95,1,0,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,463,high_school_microeconomics,0,0,0.95,1,1,"Answer: A
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,464,high_school_microeconomics,3,2,0.95,1,0,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,465,high_school_microeconomics,3,3,0.95,1,1,"Answer: D
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,466,high_school_microeconomics,1,3,0.95,1,0,"Answer: D
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,467,high_school_microeconomics,0,2,0.95,1,0,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,468,high_school_microeconomics,3,2,0.95,1,0,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,469,high_school_microeconomics,3,1,0.95,1,0,"Answer: B
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,470,high_school_microeconomics,1,2,0.95,1,0,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,471,high_school_microeconomics,3,0,0.95,1,0,"Answer: A
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,472,high_school_microeconomics,3,3,0.95,1,1,"Answer: D
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,473,high_school_microeconomics,0,1,0.95,1,0,"Answer: B
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,474,high_school_microeconomics,2,2,0.95,1,1,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,475,high_school_microeconomics,3,1,0.95,1,0,"Answer: B
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,476,high_school_microeconomics,2,2,0.95,1,1,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,477,high_school_microeconomics,3,0,0.95,1,0,"Answer: A
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,478,high_school_microeconomics,1,1,0.95,1,1,"Answer: B
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,479,high_school_microeconomics,3,2,0.95,1,0,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,480,high_school_microeconomics,0,2,0.95,1,0,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,481,high_school_microeconomics,1,1,0.95,1,1,"Answer: B
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,482,high_school_microeconomics,0,0,0.95,1,1,"Answer: A
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,483,high_school_microeconomics,1,1,0.95,1,1,"Answer: B
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,484,high_school_microeconomics,2,0,0.95,1,0,"Answer: A
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,485,high_school_microeconomics,2,3,0.95,1,0,"Answer: D
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,486,high_school_microeconomics,0,2,0.95,1,0,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,487,high_school_microeconomics,0,0,0.95,1,1,"Answer: A
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,488,high_school_microeconomics,0,2,0.95,1,0,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,489,high_school_microeconomics,3,2,0.95,1,0,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,490,high_school_microeconomics,2,2,0.95,1,1,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,491,high_school_microeconomics,1,0,0.95,1,0,"Answer: A
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,492,high_school_microeconomics,1,1,0.95,1,1,"Answer: B
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,493,high_school_microeconomics,3,2,0.95,1,0,"Answer: C
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,494,high_school_microeconomics,1,3,0.95,1,0,"Answer: D
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,495,high_school_microeconomics,3,3,0.95,1,1,"Answer: D
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,496,high_school_microeconomics,3,1,0.95,1,0,"Answer: B
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,497,high_school_microeconomics,1,3,0.95,1,0,"Answer: D
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,498,high_school_microeconomics,3,1,0.95,1,0,"Answer: B
+Confidence: 95 
+"
+google/gemma-2-2b-it,yor,499,high_school_microeconomics,0,3,0.95,1,0,"Answer: D
+Confidence: 95 
+"

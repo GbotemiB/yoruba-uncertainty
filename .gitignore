@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+*.zip
+plots/
+summary_all.json
+summary_v2.json
+comparison.png
+comparison_table.csv
+table_verbal.csv
+table_abstain.csv
+verbal.png
+abstain.png
+.DS_Store

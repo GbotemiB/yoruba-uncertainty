@@ -1,0 +1,3450 @@
+model,lang,idx,subject,gold,pred,confidence,parsed,correct,reply
+microsoft/Phi-3.5-mini-instruct,eng,0,elementary_mathematics,2,0.0,1.0,1,0,"Answer: A
+Confidence: 100
+
+Explanation: To find the value of p,"
+microsoft/Phi-3.5-mini-instruct,eng,1,elementary_mathematics,2,0.0,1.0,1,0,"Answer: A
+Confidence: 100
+
+Explanation: Since Ms. Perez drove"
+microsoft/Phi-3.5-mini-instruct,eng,2,elementary_mathematics,3,1.0,1.0,1,0,"Answer: B
+Confidence: 100
+
+Explanation: When dividing two negative numbers,"
+microsoft/Phi-3.5-mini-instruct,eng,3,elementary_mathematics,1,2.0,1.0,1,0,"Answer: C
+Confidence: 100
+
+Explanation: To find the greatest number of s"
+microsoft/Phi-3.5-mini-instruct,eng,4,elementary_mathematics,1,1.0,1.0,1,1,"Answer: B. 4t = 112; $28
+Confidence: 100"
+microsoft/Phi-3.5-mini-instruct,eng,5,elementary_mathematics,2,1.0,1.0,1,0,"Answer: B
+Confidence: 100
+
+Explanation:
+First, solve the expressions inside"
+microsoft/Phi-3.5-mini-instruct,eng,6,elementary_mathematics,2,2.0,1.0,1,1,"Answer: C
+Confidence: 100
+
+Explanation: 1 and 1/1"
+microsoft/Phi-3.5-mini-instruct,eng,7,elementary_mathematics,1,0.0,1.0,1,0,"Answer: A
+Confidence: 100
+
+Explanation: When dividing 2.1"
+microsoft/Phi-3.5-mini-instruct,eng,8,elementary_mathematics,3,1.0,1.0,1,0,"Answer: B
+Confidence: 100
+
+Explanation: To find the difference between 1"
+microsoft/Phi-3.5-mini-instruct,eng,9,elementary_mathematics,3,2.0,0.95,1,0,"Answer: C
+Confidence: 95
+
+Explanation: To find the quotient of 5"
+microsoft/Phi-3.5-mini-instruct,eng,10,elementary_mathematics,2,2.0,0.09,1,1,"Answer: C. 200 + 450 + 200
+Confidence: 9"
+microsoft/Phi-3.5-mini-instruct,eng,11,elementary_mathematics,3,2.0,1.0,1,0,"Answer: C
+Confidence: 100
+
+Explanation: When 21 is divided by"
+microsoft/Phi-3.5-mini-instruct,eng,12,elementary_mathematics,0,0.0,1.0,1,1,"Answer: A
+Confidence: 100
+
+Explanation: To find the number of miles M"
+microsoft/Phi-3.5-mini-instruct,eng,13,elementary_mathematics,0,2.0,1.0,1,0,"Answer: C
+Confidence: 100
+
+Explanation: To find the equivalent fraction, we"
+microsoft/Phi-3.5-mini-instruct,eng,14,elementary_mathematics,2,1.0,0.95,1,0,"Answer: B
+Confidence: 95
+
+Explanation: To determine the best buy, we need"
+microsoft/Phi-3.5-mini-instruct,eng,15,elementary_mathematics,1,1.0,1.0,1,1,"Answer: B
+Confidence: 100
+
+Explanation: Trish's heart rate increases"
+microsoft/Phi-3.5-mini-instruct,eng,16,elementary_mathematics,1,2.0,1.0,1,0,"Answer: C
+Confidence: 100
+
+Explanation: To find the median, first ar"
+microsoft/Phi-3.5-mini-instruct,eng,17,elementary_mathematics,1,1.0,1.0,1,1,"Answer: B. (60—12)/6=a
+Confidence: 100"
+microsoft/Phi-3.5-mini-instruct,eng,18,elementary_mathematics,3,2.0,1.0,1,0,"Answer: C
+Confidence: 100
+
+Explanation: Since the scale is 1 in"
+microsoft/Phi-3.5-mini-instruct,eng,19,elementary_mathematics,0,2.0,1.0,1,0,"Answer: C
+Confidence: 100
+
+Explanation:
+First, calculate the expression inside"
+microsoft/Phi-3.5-mini-instruct,eng,20,elementary_mathematics,2,1.0,1.0,1,0,"Answer: B
+Confidence: 100
+
+Explanation:
+Following the order of"
+microsoft/Phi-3.5-mini-instruct,eng,21,elementary_mathematics,1,1.0,1.0,1,1,"Answer: B. 397
+Confidence: 100
+
+Explanation: When round"
+microsoft/Phi-3.5-mini-instruct,eng,22,elementary_mathematics,0,0.0,1.0,1,1,"Answer: A
+Confidence: 100"
+microsoft/Phi-3.5-mini-instruct,eng,23,elementary_mathematics,2,2.0,1.0,1,1,"Answer: C. 73
+Confidence: 100"
+microsoft/Phi-3.5-mini-instruct,eng,24,elementary_mathematics,1,2.0,1.0,1,0,"Answer: C
+Confidence: 100
+
+Explanation: To solve for x, subtract "
+microsoft/Phi-3.5-mini-instruct,eng,25,elementary_mathematics,0,1.0,1.0,1,0,"Answer: B. 3.2
+Confidence: 100
+
+Explanation: Since "
+microsoft/Phi-3.5-mini-instruct,eng,26,elementary_mathematics,3,1.0,1.0,1,0,"Answer: B
+Confidence: 100
+
+Explanation: Using the Distributive Property,"
+microsoft/Phi-3.5-mini-instruct,eng,27,elementary_mathematics,3,0.0,1.0,1,0,"Answer: A
+Confidence: 100
+
+Explanation: When dividing 2,3"
+microsoft/Phi-3.5-mini-instruct,eng,28,elementary_mathematics,0,0.0,1.0,1,1,"Answer: A. 100 — 5d
+Confidence: 100
+
+Explan"
+microsoft/Phi-3.5-mini-instruct,eng,29,elementary_mathematics,0,0.0,1.0,1,1,"Answer: A. 4t
+Confidence: 100"
+microsoft/Phi-3.5-mini-instruct,eng,30,elementary_mathematics,1,0.0,0.95,1,0,"Answer: A. 681,452
+Confidence: 95
+
+Explanation"
+microsoft/Phi-3.5-mini-instruct,eng,31,elementary_mathematics,1,0.0,1.0,1,0,"Answer: A. 15 remainder 7
+Confidence: 100
+
+Explanation:"
+microsoft/Phi-3.5-mini-instruct,eng,32,elementary_mathematics,0,2.0,1.0,1,0,"Answer: C. 17 over 4
+Confidence: 100
+
+Explanation:"
+microsoft/Phi-3.5-mini-instruct,eng,33,elementary_mathematics,2,0.0,1.0,1,0,"Answer: A
+Confidence: 100
+
+Explanation: The number 270,"
+microsoft/Phi-3.5-mini-instruct,eng,34,elementary_mathematics,3,1.0,1.0,1,0,"Answer: B. 770 parts
+Confidence: 100
+
+Explanation:
+"
+microsoft/Phi-3.5-mini-instruct,eng,35,elementary_mathematics,0,0.0,0.95,1,1,"Answer: A
+Confidence: 95
+
+Explanation: When the number 6 is added to"
+microsoft/Phi-3.5-mini-instruct,eng,36,elementary_mathematics,0,0.0,1.0,1,1,"Answer: A
+Confidence: 100
+
+Explanation: When n = 11,"
+microsoft/Phi-3.5-mini-instruct,eng,37,elementary_mathematics,3,0.0,1.0,1,0,"Answer: A. 3-p
+Confidence: 100"
+microsoft/Phi-3.5-mini-instruct,eng,38,elementary_mathematics,2,2.0,1.0,1,1,"Answer: C. (6 × 5) × 10^2
+Confidence: 100"
+microsoft/Phi-3.5-mini-instruct,eng,39,elementary_mathematics,2,1.0,1.0,1,0,"Answer: B
+Confidence: 100
+
+Explanation:
+To find the value of c"
+microsoft/Phi-3.5-mini-instruct,eng,40,elementary_mathematics,1,1.0,1.0,1,1,"Answer: B. 2000 −150x
+Confidence: 100"
+microsoft/Phi-3.5-mini-instruct,eng,41,elementary_mathematics,3,3.0,0.95,1,1,"Answer: D. w < 3.3
+Confidence: 95
+
+Explanation: The"
+microsoft/Phi-3.5-mini-instruct,eng,42,elementary_mathematics,0,0.0,1.0,1,1,"Answer: A
+Confidence: 100
+
+Explanation: The absolute value of -6 is"
+microsoft/Phi-3.5-mini-instruct,eng,43,elementary_mathematics,2,2.0,1.0,1,1,"Answer: C
+Confidence: 100
+
+Explanation:
+First, calculate the expression inside"
+microsoft/Phi-3.5-mini-instruct,eng,44,elementary_mathematics,3,1.0,1.0,1,0,"Answer: B. 15, 19
+Confidence: 100
+
+Explanation"
+microsoft/Phi-3.5-mini-instruct,eng,45,elementary_mathematics,1,1.0,0.95,1,1,"Answer: B. 12 cans
+Confidence: 95%
+
+Here's the reasoning"
+microsoft/Phi-3.5-mini-instruct,eng,46,elementary_mathematics,3,3.0,0.95,1,1,"Answer: D
+Confidence: 95
+
+Explanation: The numbers in descending order are "
+microsoft/Phi-3.5-mini-instruct,eng,47,elementary_mathematics,2,1.0,1.0,1,0,"Answer: B
+Confidence: 100"
+microsoft/Phi-3.5-mini-instruct,eng,48,elementary_mathematics,3,0.0,1.0,1,0,"Answer: A
+Confidence: 100
+
+Explanation: When rounding to the nearest ten"
+microsoft/Phi-3.5-mini-instruct,eng,49,elementary_mathematics,3,3.0,1.0,1,1,"Answer: D
+Confidence: 100"
+microsoft/Phi-3.5-mini-instruct,eng,50,elementary_mathematics,0,0.0,1.0,1,1,"Answer: A. 21 birds
+Confidence: 100
+
+Explanation: Let x"
+microsoft/Phi-3.5-mini-instruct,eng,51,elementary_mathematics,1,2.0,1.0,1,0,"Answer: C. 131
+Confidence: 100
+
+Explanation:
+First"
+microsoft/Phi-3.5-mini-instruct,eng,52,elementary_mathematics,1,2.0,1.0,1,0,"Answer: C
+Confidence: 100
+
+Explanation: The fraction 20/8"
+microsoft/Phi-3.5-mini-instruct,eng,53,elementary_mathematics,0,0.0,1.0,1,1,"Answer: A
+Confidence: 100
+
+Explanation: Distance = Speed × Time
+"
+microsoft/Phi-3.5-mini-instruct,eng,54,elementary_mathematics,1,1.0,1.0,1,1,"Answer: B
+Confidence: 100
+
+Explanation: To isolate 'a' in"
+microsoft/Phi-3.5-mini-instruct,eng,55,elementary_mathematics,0,1.0,1.0,1,0,"Answer: B
+Confidence: 100
+
+Explanation:
+There are 30 s"
+microsoft/Phi-3.5-mini-instruct,eng,56,elementary_mathematics,3,0.0,,0,0,"Answer: A. 84 − 11 = t; 73°F
+Confidence: "
+microsoft/Phi-3.5-mini-instruct,eng,57,elementary_mathematics,0,0.0,1.0,1,1,"Answer: A
+Confidence: 100
+
+Explanation: The question asks for the number of"
+microsoft/Phi-3.5-mini-instruct,eng,58,elementary_mathematics,3,1.0,0.95,1,0,"Answer: B
+Confidence: 95
+
+Explanation: There are approximately 30 days in"
+microsoft/Phi-3.5-mini-instruct,eng,59,elementary_mathematics,1,1.0,1.0,1,1,"Answer: B
+Confidence: 100
+
+Explanation: The least common multiple (LCM"
+microsoft/Phi-3.5-mini-instruct,eng,60,elementary_mathematics,3,0.0,1.0,1,0,"Answer: A
+Confidence: 100
+
+Explanation: When adding fractions with the same"
+microsoft/Phi-3.5-mini-instruct,eng,61,elementary_mathematics,1,1.0,1.0,1,1,"Answer: B
+Confidence: 100"
+microsoft/Phi-3.5-mini-instruct,eng,62,elementary_mathematics,2,2.0,1.0,1,1,"Answer: C. 1,395 push-ups
+Confidence: 100"
+microsoft/Phi-3.5-mini-instruct,eng,63,elementary_mathematics,2,0.0,1.0,1,0,"Answer: A
+Confidence: 100
+
+Explanation: The least common multiple (LCM"
+microsoft/Phi-3.5-mini-instruct,eng,64,elementary_mathematics,3,0.0,1.0,1,0,"Answer: A
+Confidence: 100
+
+Explanation:
+When x = 2,"
+microsoft/Phi-3.5-mini-instruct,eng,65,elementary_mathematics,2,1.0,1.0,1,0,"Answer: B
+Confidence: 100
+
+To find the number of calories in 6 "
+microsoft/Phi-3.5-mini-instruct,eng,66,elementary_mathematics,3,1.0,0.95,1,0,"Answer: B
+Confidence: 95
+
+Explanation: The sum of 711 and"
+microsoft/Phi-3.5-mini-instruct,eng,67,elementary_mathematics,0,1.0,1.0,1,0,"Answer: B
+Confidence: 100
+
+Explanation: Mr. Kohlberg started with"
+microsoft/Phi-3.5-mini-instruct,eng,68,elementary_mathematics,2,1.0,1.0,1,0,"Answer: B
+Confidence: 100
+
+Explanation: The product of 32 and"
+microsoft/Phi-3.5-mini-instruct,eng,69,elementary_mathematics,3,2.0,1.0,1,0,"Answer: C. 7 • 11 • 13
+Confidence: 100
+
+"
+microsoft/Phi-3.5-mini-instruct,eng,70,elementary_mathematics,2,1.0,1.0,1,0,"Answer: B. $28.93
+Confidence: 100"
+microsoft/Phi-3.5-mini-instruct,eng,71,elementary_mathematics,0,2.0,1.0,1,0,"Answer: C
+Confidence: 100
+
+Explanation: The pattern increases by 20"
+microsoft/Phi-3.5-mini-instruct,eng,72,elementary_mathematics,1,1.0,1.0,1,1,"Answer: B. 0.21 Repeating
+Confidence: 100
+
+Explan"
+microsoft/Phi-3.5-mini-instruct,eng,73,elementary_mathematics,2,3.0,1.0,1,0,"Answer: D
+Confidence: 100
+
+Explanation: The total cost of the uniforms"
+microsoft/Phi-3.5-mini-instruct,eng,74,elementary_mathematics,1,1.0,1.0,1,1,"Answer: B. $6,049
+Confidence: 100"
+microsoft/Phi-3.5-mini-instruct,eng,75,elementary_mathematics,3,2.0,1.0,1,0,"Answer: C
+Confidence: 100
+
+Explanation: Since Micah ate an even"
+microsoft/Phi-3.5-mini-instruct,eng,76,elementary_mathematics,0,1.0,1.0,1,0,"Answer: B. $2.97
+Confidence: 100
+
+Explanation: To"
+microsoft/Phi-3.5-mini-instruct,eng,77,elementary_mathematics,3,3.0,1.0,1,1,"Answer: D. 5 over 6
+Confidence: 100
+
+Explanation: To"
+microsoft/Phi-3.5-mini-instruct,eng,78,elementary_mathematics,3,1.0,1.0,1,0,"Answer: B
+Confidence: 100
+
+Explanation:
+1 cup is equal to "
+microsoft/Phi-3.5-mini-instruct,eng,79,elementary_mathematics,0,1.0,0.95,1,0,"Answer: B. 80,000 books
+Confidence: 95
+
+Explanation"
+microsoft/Phi-3.5-mini-instruct,eng,80,elementary_mathematics,1,2.0,0.95,1,0,"Answer: C. 144
+Confidence: 95
+
+Explanation:
+First,"
+microsoft/Phi-3.5-mini-instruct,eng,81,elementary_mathematics,0,0.0,1.0,1,1,"Answer: A. -17
+Confidence: 100"
+microsoft/Phi-3.5-mini-instruct,eng,82,elementary_mathematics,3,2.0,1.0,1,0,"Answer: C. 12
+Confidence: 100"
+microsoft/Phi-3.5-mini-instruct,eng,83,elementary_mathematics,2,2.0,1.0,1,1,"Answer: C. 24 over 5
+Confidence: 100"
+microsoft/Phi-3.5-mini-instruct,eng,84,elementary_mathematics,1,1.0,1.0,1,1,"Answer: B. m = e/6
+Confidence: 100"
+microsoft/Phi-3.5-mini-instruct,eng,85,elementary_mathematics,3,2.0,1.0,1,0,"Answer: C
+Confidence: 100
+
+Explanation:
+First, follow the order of"
+microsoft/Phi-3.5-mini-instruct,eng,86,elementary_mathematics,0,2.0,1.0,1,0,"Answer: C. 9.1
+Confidence: 100
+
+Explanation: To find"
+microsoft/Phi-3.5-mini-instruct,eng,87,elementary_mathematics,2,1.0,1.0,1,0,"Answer: B. 130°
+Confidence: 100"
+microsoft/Phi-3.5-mini-instruct,eng,88,elementary_mathematics,1,1.0,0.95,1,1,"Answer: B. 66.5 seconds
+Confidence: 95
+
+Explanation:
+"
+microsoft/Phi-3.5-mini-instruct,eng,89,elementary_mathematics,1,0.0,1.0,1,0,"Answer: A
+Confidence: 100
+
+To solve the equation, we first isolate x:"
+microsoft/Phi-3.5-mini-instruct,eng,90,elementary_mathematics,2,2.0,1.0,1,1,"Answer: C. 180
+Confidence: 100"
+microsoft/Phi-3.5-mini-instruct,eng,91,elementary_mathematics,0,1.0,1.0,1,0,"Answer: B. 1:05
+Confidence: 100
+
+Explanation: The"
+microsoft/Phi-3.5-mini-instruct,eng,92,elementary_mathematics,1,1.0,1.0,1,1,"Answer: B. 18
+Confidence: 100"
+microsoft/Phi-3.5-mini-instruct,eng,93,elementary_mathematics,0,1.0,1.0,1,0,"Answer: B
+Confidence: 100
+
+Explanation:
+First, solve the expression inside"
+microsoft/Phi-3.5-mini-instruct,eng,94,elementary_mathematics,2,2.0,1.0,1,1,"Answer: C. 42
+Confidence: 100
+
+The greatest common factor (GCF"
+microsoft/Phi-3.5-mini-instruct,eng,95,elementary_mathematics,3,1.0,1.0,1,0,"Answer: B. 154 feet 8 inches
+Confidence: 100
+
+Explan"
+microsoft/Phi-3.5-mini-instruct,eng,96,elementary_mathematics,2,1.0,1.0,1,0,"Answer: B. $5,484
+Confidence: 100
+
+Explanation:"
+microsoft/Phi-3.5-mini-instruct,eng,97,elementary_mathematics,0,0.0,1.0,1,1,"Answer: A
+Confidence: 100
+
+Explanation: A full circle is 36"
+microsoft/Phi-3.5-mini-instruct,eng,98,elementary_mathematics,0,0.0,1.0,1,1,"Answer: A. 0.261
+Confidence: 100"
+microsoft/Phi-3.5-mini-instruct,eng,99,elementary_mathematics,2,1.0,1.0,1,0,"Answer: B. 3.6
+Confidence: 100
+
+To solve this, we first"
+microsoft/Phi-3.5-mini-instruct,eng,100,high_school_geography,1,1.0,0.85,1,1,"Answer: B. a well-connected transportation infrastructure.
+Confidence: 85
+
+While"
+microsoft/Phi-3.5-mini-instruct,eng,101,high_school_geography,3,3.0,0.95,1,1,"Answer: D. demographic momentum.
+Confidence: 95
+
+Explanation: Demographic momentum"
+microsoft/Phi-3.5-mini-instruct,eng,102,high_school_geography,2,2.0,1.0,1,1,"Answer: C. distance decay.
+Confidence: 100"
+microsoft/Phi-3.5-mini-instruct,eng,103,high_school_geography,0,2.0,0.95,1,0,"Answer: C. Third
+Confidence: 95
+
+Burgess's concentric zone model of"
+microsoft/Phi-3.5-mini-instruct,eng,104,high_school_geography,3,3.0,0.85,1,1,"Answer: D
+Confidence: 85
+
+Explanation: Statement D is true as various studies"
+microsoft/Phi-3.5-mini-instruct,eng,105,high_school_geography,3,3.0,1.0,1,1,"Answer: D. overcrowding.
+Confidence: 100
+
+Explanation: P"
+microsoft/Phi-3.5-mini-instruct,eng,106,high_school_geography,3,3.0,0.95,1,1,"Answer: D. Bolivia
+Confidence: 95
+
+Explanation: Relict boundaries are former"
+microsoft/Phi-3.5-mini-instruct,eng,107,high_school_geography,2,2.0,0.95,1,1,"Answer: C. Circular migration
+Confidence: 95
+
+Circular migration refers to the temporary and"
+microsoft/Phi-3.5-mini-instruct,eng,108,high_school_geography,0,0.0,0.85,1,1,"Answer: A. Religious differences
+Confidence: 85
+
+Explanation: Centrifugal"
+microsoft/Phi-3.5-mini-instruct,eng,109,high_school_geography,3,0.0,0.95,1,0,"Answer: A
+Confidence: 95
+
+Explanation: Early settlements and high population density along"
+microsoft/Phi-3.5-mini-instruct,eng,110,high_school_geography,0,3.0,0.95,1,0,"Answer: D
+Confidence: 95
+
+Explanation: The first stage of the demographic transition"
+microsoft/Phi-3.5-mini-instruct,eng,111,high_school_geography,1,1.0,0.95,1,1,"Answer: B. Replacement level
+Confidence: 95"
+microsoft/Phi-3.5-mini-instruct,eng,112,high_school_geography,0,0.0,0.9,1,1,"Answer: A. Islam
+Confidence: 90
+
+Although Christianity remains the largest religion in the"
+microsoft/Phi-3.5-mini-instruct,eng,113,high_school_geography,3,3.0,0.95,1,1,"Answer: D. hinterland
+Confidence: 95
+
+The term ""hinterland"" is commonly"
+microsoft/Phi-3.5-mini-instruct,eng,114,high_school_geography,1,1.0,0.95,1,1,"Answer: B. the central city and its surrounding suburbs.
+Confidence: 95
+
+Ex"
+microsoft/Phi-3.5-mini-instruct,eng,115,high_school_geography,3,3.0,0.95,1,1,"Answer: D. Hinduism
+Confidence: 95
+
+Hinduism is widely recognized as one"
+microsoft/Phi-3.5-mini-instruct,eng,116,high_school_geography,3,3.0,0.95,1,1,"Answer: D
+Confidence: 95
+
+Explanation: World cities, also known as global cities"
+microsoft/Phi-3.5-mini-instruct,eng,117,high_school_geography,3,2.0,0.95,1,0,"Answer: C. Beltways around cities
+Confidence: 95
+
+Explanation: The star"
+microsoft/Phi-3.5-mini-instruct,eng,118,high_school_geography,1,1.0,0.95,1,1,"Answer: B. Suburbs
+Confidence: 95
+
+Explanation: Planned communities are"
+microsoft/Phi-3.5-mini-instruct,eng,119,high_school_geography,2,2.0,1.0,1,1,"Answer: C. an absolute location.
+Confidence: 100"
+microsoft/Phi-3.5-mini-instruct,eng,120,high_school_geography,2,2.0,0.95,1,1,"Answer: C. supranationalism.
+Confidence: 95
+
+Explanation: Su"
+microsoft/Phi-3.5-mini-instruct,eng,121,high_school_geography,3,3.0,0.95,1,1,"Answer: D
+Confidence: 95
+
+Thomas Malthus's population theory primarily focused on"
+microsoft/Phi-3.5-mini-instruct,eng,122,high_school_geography,3,3.0,0.95,1,1,"Answer: D. Christianity and Buddhism
+Confidence: 95
+
+Explanation: Both Christian"
+microsoft/Phi-3.5-mini-instruct,eng,123,high_school_geography,3,0.0,0.95,1,0,"Answer: A. Concentric zone model
+Confidence: 95
+
+The Concentric zone model"
+microsoft/Phi-3.5-mini-instruct,eng,124,high_school_geography,1,1.0,0.95,1,1,"Answer: B. theocracy
+Confidence: 95
+
+Explanation: A theocracy is a"
+microsoft/Phi-3.5-mini-instruct,eng,125,high_school_geography,0,0.0,0.95,1,1,"Answer: A. Christianity
+Confidence: 95
+
+Explanation: Christianity is the most"
+microsoft/Phi-3.5-mini-instruct,eng,126,high_school_geography,1,1.0,,0,0,"Answer: B. British (English, Scotch-Irish, Welsh, Scottish)
+Confidence:"
+microsoft/Phi-3.5-mini-instruct,eng,127,high_school_geography,1,0.0,0.95,1,0,"Answer: A
+Confidence: 95
+
+Explanation: A population pyramid provides visual information"
+microsoft/Phi-3.5-mini-instruct,eng,128,high_school_geography,2,2.0,0.95,1,1,"Answer: C. Natural
+Confidence: 95
+
+The Rhine River is a natural boundary formed by"
+microsoft/Phi-3.5-mini-instruct,eng,129,high_school_geography,0,0.0,0.95,1,1,"Answer: A. Primary
+Confidence: 95
+
+Primary economic activities are directly tied to the physical environment"
+microsoft/Phi-3.5-mini-instruct,eng,130,high_school_geography,0,0.0,0.95,1,1,"Answer: A
+Confidence: 95
+
+Explanation: Periphery countries, often character"
+microsoft/Phi-3.5-mini-instruct,eng,131,high_school_geography,3,3.0,0.95,1,1,"Answer: D. garment factory worker.
+Confidence: 95
+
+Explanation: Basic jobs"
+microsoft/Phi-3.5-mini-instruct,eng,132,high_school_geography,2,2.0,0.95,1,1,"Answer: C
+Confidence: 95
+
+Explanation: Transnational corporations typically distribute"
+microsoft/Phi-3.5-mini-instruct,eng,133,high_school_geography,3,1.0,0.95,1,0,"Answer: B. A predominance of gentle slopes
+Confidence: 95
+
+Explan"
+microsoft/Phi-3.5-mini-instruct,eng,134,high_school_geography,1,1.0,0.9,1,1,"Answer: B. Japan
+Confidence: 90
+
+Explanation: Japan is the least self-"
+microsoft/Phi-3.5-mini-instruct,eng,135,high_school_geography,2,1.0,0.95,1,0,"Answer: B
+Confidence: 95
+
+Explanation: The east-west orientation of the Al"
+microsoft/Phi-3.5-mini-instruct,eng,136,high_school_geography,2,3.0,0.95,1,0,"Answer: D. Bali
+Confidence: 95
+
+Explanation: The largest Hindu temple"
+microsoft/Phi-3.5-mini-instruct,eng,137,high_school_geography,2,2.0,0.95,1,1,"Answer: C. Centripetal
+Confidence: 95
+
+Centripetal forces are those that un"
+microsoft/Phi-3.5-mini-instruct,eng,138,high_school_geography,3,1.0,0.95,1,0,"Answer: B
+Confidence: 95
+
+The S-curve, also known as the logistic"
+microsoft/Phi-3.5-mini-instruct,eng,139,high_school_geography,3,3.0,0.95,1,1,"Answer: D. Good transportation network
+Confidence: 95
+
+Explanation: Transnational"
+microsoft/Phi-3.5-mini-instruct,eng,140,high_school_geography,0,0.0,0.95,1,1,"Answer: A
+Confidence: 95
+
+Explanation: National sports teams, flags, national anth"
+microsoft/Phi-3.5-mini-instruct,eng,141,high_school_geography,1,1.0,0.95,1,1,"Answer: B. acculturation.
+Confidence: 95
+
+Acculturation specifically refers to the"
+microsoft/Phi-3.5-mini-instruct,eng,142,high_school_geography,1,1.0,0.95,1,1,"Answer: B. A globe
+Confidence: 95
+
+Explanation: A globe is"
+microsoft/Phi-3.5-mini-instruct,eng,143,high_school_geography,1,3.0,0.95,1,0,"Answer: D. Family doctor
+Confidence: 95
+
+Explanation: Higher-order central"
+microsoft/Phi-3.5-mini-instruct,eng,144,high_school_geography,3,3.0,0.95,1,1,"Answer: D. Burgess
+Confidence: 95
+
+Burgess's Concentric Zone"
+microsoft/Phi-3.5-mini-instruct,eng,145,high_school_geography,3,3.0,0.95,1,1,"Answer: D
+Confidence: 95
+
+While a road map (C) is a physical guide"
+microsoft/Phi-3.5-mini-instruct,eng,146,high_school_geography,0,2.0,0.95,1,0,"Answer: C. Main Street, Small Town, Ohio.
+Confidence: 95
+
+Explanation"
+microsoft/Phi-3.5-mini-instruct,eng,147,high_school_geography,0,0.0,0.95,1,1,"Answer: A. an antecedent boundary.
+Confidence: 95
+
+Explanation: An"
+microsoft/Phi-3.5-mini-instruct,eng,148,high_school_geography,3,0.0,0.95,1,0,"Answer: A. Software engineer
+Confidence: 95
+
+Explanation: The non-basic employ"
+microsoft/Phi-3.5-mini-instruct,eng,149,high_school_geography,1,1.0,0.9,1,1,"Answer: B. The Amazon Basin
+Confidence: 90
+
+Explanation: The Amazon Bas"
+microsoft/Phi-3.5-mini-instruct,eng,150,high_school_geography,0,0.0,0.95,1,1,"Answer: A
+Confidence: 95
+
+Explanation: Secularism refers to the principle of"
+microsoft/Phi-3.5-mini-instruct,eng,151,high_school_geography,3,3.0,0.9,1,1,"Answer: D
+Confidence: 90
+
+Regions typically have boundaries (A), common features (B"
+microsoft/Phi-3.5-mini-instruct,eng,152,high_school_geography,1,3.0,0.95,1,0,"Answer: D
+Confidence: 95
+
+Explanation: The 1965 Imm"
+microsoft/Phi-3.5-mini-instruct,eng,153,high_school_geography,2,1.0,0.85,1,0,"Answer: B
+Confidence: 85
+
+While not all African cities may have well-developed"
+microsoft/Phi-3.5-mini-instruct,eng,154,high_school_geography,3,1.0,0.85,1,0,"Answer: B. Italy
+Confidence: 85
+
+Explanation: Italy is located in Southern Europe"
+microsoft/Phi-3.5-mini-instruct,eng,155,high_school_geography,2,0.0,0.95,1,0,"Answer: A
+Confidence: 95
+
+The first zone in Burgess's concentric zone model"
+microsoft/Phi-3.5-mini-instruct,eng,156,high_school_geography,0,0.0,0.95,1,1,"Answer: A
+Confidence: 95
+
+The theory of economic growth in five stages, known as """
+microsoft/Phi-3.5-mini-instruct,eng,157,high_school_geography,3,3.0,0.95,1,1,"Answer: D. Tolerant complaisant citizens
+Confidence: 95
+
+Explanation:"
+microsoft/Phi-3.5-mini-instruct,eng,158,high_school_geography,3,3.0,0.95,1,1,"Answer: D
+Confidence: 95
+
+The process of invasion and succession typically involves new residents moving into"
+microsoft/Phi-3.5-mini-instruct,eng,159,high_school_geography,0,0.0,0.95,1,1,"Answer: A
+Confidence: 95
+
+Explanation: A functional region is defined by a central"
+microsoft/Phi-3.5-mini-instruct,eng,160,high_school_geography,3,2.0,0.95,1,0,"Answer: C. Complementarity
+Confidence: 95
+
+Explanation: Complementar"
+microsoft/Phi-3.5-mini-instruct,eng,161,high_school_geography,1,1.0,0.95,1,1,"Answer: B. Second Agricultural Revolution.
+Confidence: 95
+
+The Second Agricultural Revolution,"
+microsoft/Phi-3.5-mini-instruct,eng,162,high_school_geography,2,2.0,0.95,1,1,"Answer: C
+Confidence: 95
+
+Explanation: China is indeed known for its rapid industrial"
+microsoft/Phi-3.5-mini-instruct,eng,163,high_school_geography,3,3.0,0.85,1,1,"Answer: D
+Confidence: 85
+
+Explanation: The United Nations does not operate a world"
+microsoft/Phi-3.5-mini-instruct,eng,164,high_school_geography,1,1.0,0.95,1,1,"Answer: B. Pennsylvania
+Confidence: 95
+
+Explanation: A formal region is defined by"
+microsoft/Phi-3.5-mini-instruct,eng,165,high_school_geography,2,2.0,0.95,1,1,"Answer: C. agglomeration.
+Confidence: 95
+
+Explanation: Agg"
+microsoft/Phi-3.5-mini-instruct,eng,166,high_school_geography,3,3.0,1.0,1,1,"Answer: D. Romance
+Confidence: 100"
+microsoft/Phi-3.5-mini-instruct,eng,167,high_school_geography,1,1.0,0.95,1,1,"Answer: B. forward-thrust capitals.
+Confidence: 95
+
+Explanation:"
+microsoft/Phi-3.5-mini-instruct,eng,168,high_school_geography,2,1.0,0.95,1,0,"Answer: B. Foreign cuisine changed to suit American tastes
+Confidence: 95
+
+"
+microsoft/Phi-3.5-mini-instruct,eng,169,high_school_geography,2,2.0,0.95,1,1,"Answer: C. heartland theory.
+Confidence: 95
+
+The heartland theory, proposed by"
+microsoft/Phi-3.5-mini-instruct,eng,170,high_school_geography,1,1.0,1.0,1,1,"Answer: B. Shiite
+Confidence: 100"
+microsoft/Phi-3.5-mini-instruct,eng,171,high_school_geography,0,3.0,0.95,1,0,"Answer: D
+Confidence: 95
+
+The multiplier effect refers to the phenomenon where an initial"
+microsoft/Phi-3.5-mini-instruct,eng,172,high_school_geography,3,3.0,1.0,1,1,"Answer: D. Veda
+Confidence: 100"
+microsoft/Phi-3.5-mini-instruct,eng,173,high_school_geography,2,2.0,0.85,1,1,"Answer: C. A large central square surrounded by government and administrative buildings
+Confidence: 85
+
+Wh"
+microsoft/Phi-3.5-mini-instruct,eng,174,high_school_geography,2,2.0,0.9,1,1,"Answer: C. Japan
+Confidence: 90
+
+Explanation: Japan has a strong cultural emphas"
+microsoft/Phi-3.5-mini-instruct,eng,175,high_school_geography,1,1.0,0.95,1,1,"Answer: B. Bottled orange juice
+Confidence: 95
+
+Explanation: Bul"
+microsoft/Phi-3.5-mini-instruct,eng,176,high_school_geography,3,3.0,0.95,1,1,"Answer: D
+Confidence: 95
+
+While EPZs typically offer tariff reductions,"
+microsoft/Phi-3.5-mini-instruct,eng,177,high_school_geography,3,3.0,0.95,1,1,"Answer: D. A national language
+Confidence: 95
+
+Explanation: While most states have"
+microsoft/Phi-3.5-mini-instruct,eng,178,high_school_geography,0,0.0,0.95,1,1,"Answer: A. intervening opportunity.
+Confidence: 95
+
+I am 95% confident"
+microsoft/Phi-3.5-mini-instruct,eng,179,high_school_geography,3,3.0,0.95,1,1,"Answer: D. edge city.
+Confidence: 95
+
+Explanation: An edge city is"
+microsoft/Phi-3.5-mini-instruct,eng,180,high_school_geography,0,1.0,0.95,1,0,"Answer: B. Wheat
+Confidence: 95
+
+The Third Agricultural Revolution, also known as"
+microsoft/Phi-3.5-mini-instruct,eng,181,high_school_geography,1,1.0,0.95,1,1,"Answer: B. The end of the Cold War
+Confidence: 95
+
+The end of the Cold"
+microsoft/Phi-3.5-mini-instruct,eng,182,high_school_geography,1,1.0,0.95,1,1,"Answer: B. Air
+Confidence: 95
+
+While air transportation is generally the fastest"
+microsoft/Phi-3.5-mini-instruct,eng,183,high_school_geography,2,2.0,0.95,1,1,"Answer: C. The market area of Winn-Dixie
+Confidence: 95
+
+Ex"
+microsoft/Phi-3.5-mini-instruct,eng,184,high_school_geography,3,0.0,0.95,1,0,"Answer: A. European
+Confidence: 95
+
+The European city model, also known as the """
+microsoft/Phi-3.5-mini-instruct,eng,185,high_school_geography,2,2.0,0.95,1,1,"Answer: C. Indo-European
+Confidence: 95
+
+The Indo-European"
+microsoft/Phi-3.5-mini-instruct,eng,186,high_school_geography,1,1.0,0.95,1,1,"Answer: B
+Confidence: 95
+
+Explanation: While apartheid and ethnic cleans"
+microsoft/Phi-3.5-mini-instruct,eng,187,high_school_geography,3,1.0,0.65,1,0,"Answer: B
+Confidence: 65
+
+Explanation: While statement B is not universally true"
+microsoft/Phi-3.5-mini-instruct,eng,188,high_school_geography,2,2.0,1.0,1,1,"Answer: C. Mining copper
+Confidence: 100
+
+Explanation: Secondary"
+microsoft/Phi-3.5-mini-instruct,eng,189,high_school_geography,2,2.0,0.95,1,1,"Answer: C
+Confidence: 95
+
+Explanation: While moving to Scotland does involve crossing another"
+microsoft/Phi-3.5-mini-instruct,eng,190,high_school_geography,2,2.0,0.95,1,1,"Answer: C. Egypt
+Confidence: 95
+
+Explanation: Egypt is a recognized sover"
+microsoft/Phi-3.5-mini-instruct,eng,191,high_school_geography,3,2.0,0.95,1,0,"Answer: C. Petroleum
+Confidence: 95
+
+Explanation: While ""Pet"
+microsoft/Phi-3.5-mini-instruct,eng,192,high_school_geography,2,2.0,1.0,1,1,"Answer: C. secularism.
+Confidence: 100"
+microsoft/Phi-3.5-mini-instruct,eng,193,high_school_geography,2,2.0,0.95,1,1,"Answer: C. Information
+Confidence: 95
+
+In a postindustrial economy, information and knowledge"
+microsoft/Phi-3.5-mini-instruct,eng,194,high_school_geography,3,3.0,0.95,1,1,"Answer: D. primate city.
+Confidence: 95
+
+Explanation: A primate"
+microsoft/Phi-3.5-mini-instruct,eng,195,high_school_geography,3,3.0,0.95,1,1,"Answer: D
+Confidence: 95
+
+Explanation: Statement D is incorrect because under the"
+microsoft/Phi-3.5-mini-instruct,eng,196,high_school_geography,3,3.0,0.95,1,1,"Answer: D
+Confidence: 95
+
+Explanation: Population pressure refers to the stress on resources"
+microsoft/Phi-3.5-mini-instruct,eng,197,high_school_geography,3,0.0,0.95,1,0,"Answer: A
+Confidence: 95
+
+Explanation: The Rio Grande serves as a natural boundary"
+microsoft/Phi-3.5-mini-instruct,eng,198,high_school_geography,1,1.0,0.95,1,1,"Answer: B. Origin point
+Confidence: 95
+
+Explanation: The term ""hearth"
+microsoft/Phi-3.5-mini-instruct,eng,199,high_school_geography,2,2.0,1.0,1,1,"Answer: C
+Confidence: 100
+
+Explanation: Latitude is the measurement that indicates"
+microsoft/Phi-3.5-mini-instruct,eng,200,international_law,1,1.0,0.95,1,1,"Answer: B. The flag State
+Confidence: 95
+
+Explanation: The flag State,"
+microsoft/Phi-3.5-mini-instruct,eng,201,international_law,2,2.0,0.95,1,1,"Answer: C
+Confidence: 95
+
+Explanation: Responsibility to Protect ("
+microsoft/Phi-3.5-mini-instruct,eng,202,international_law,0,0.0,0.95,1,1,"Answer: A
+Confidence: 95
+
+The Lotus principle, also known as the Lotus Effect"
+microsoft/Phi-3.5-mini-instruct,eng,203,international_law,2,2.0,0.95,1,1,"Answer: C
+Confidence: 95
+
+The UK Constitution is indeed uncodified and comprises various"
+microsoft/Phi-3.5-mini-instruct,eng,204,international_law,1,1.0,0.95,1,1,"Answer: B
+Confidence: 95
+
+Explanation: The peaceful settlement of disputes is"
+microsoft/Phi-3.5-mini-instruct,eng,205,international_law,2,2.0,0.95,1,1,"Answer: C
+Confidence: 95
+
+Explanation: Protocol 14 to the European"
+microsoft/Phi-3.5-mini-instruct,eng,206,international_law,2,2.0,0.95,1,1,"Answer: C
+Confidence: 95
+
+Explanation: According to Article 121("
+microsoft/Phi-3.5-mini-instruct,eng,207,international_law,1,1.0,0.95,1,1,"Answer: B
+Confidence: 95
+
+International legal personality refers to the capacity of an entity"
+microsoft/Phi-3.5-mini-instruct,eng,208,international_law,0,0.0,0.95,1,1,"Answer: A. The UN Human Rights Committee
+Confidence: 95
+
+Explanation: The UN"
+microsoft/Phi-3.5-mini-instruct,eng,209,international_law,2,2.0,0.95,1,1,"Answer: C
+Confidence: 95
+
+The UN Vienna Declaration 1993 emphasizes"
+microsoft/Phi-3.5-mini-instruct,eng,210,international_law,1,1.0,0.95,1,1,"Answer: B
+Confidence: 95
+
+Explanation: While the UN Charter (A)"
+microsoft/Phi-3.5-mini-instruct,eng,211,international_law,2,2.0,0.95,1,1,"Answer: C
+Confidence: 95
+
+Explanation: The principle of sovereign equality is"
+microsoft/Phi-3.5-mini-instruct,eng,212,international_law,1,1.0,0.95,1,1,"Answer: B
+Confidence: 95
+
+The declaratory theory of recognition posits that recognition of a"
+microsoft/Phi-3.5-mini-instruct,eng,213,international_law,2,3.0,0.9,1,0,"Answer: D
+Confidence: 90
+
+Explanation: Standard-setting in human rights diplomacy"
+microsoft/Phi-3.5-mini-instruct,eng,214,international_law,0,2.0,0.95,1,0,"Answer: C
+Confidence: 95
+
+The Kadi judgment, delivered by the European Court of Justice"
+microsoft/Phi-3.5-mini-instruct,eng,215,international_law,1,1.0,,0,0,"Answer: B. An agreement in 1215 between the King and his barons, which guaranteed certain prote"
+microsoft/Phi-3.5-mini-instruct,eng,216,international_law,0,0.0,0.95,1,1,"Answer: A. Individuals enjoy international legal personality, but this is limited
+Confidence: 95"
+microsoft/Phi-3.5-mini-instruct,eng,217,international_law,2,2.0,0.9,1,1,"Answer: C
+Confidence: 90
+
+Explanation: The United Nations Charter and various international"
+microsoft/Phi-3.5-mini-instruct,eng,218,international_law,3,2.0,0.95,1,0,"Answer: C
+Confidence: 95
+
+Explanation: Statement C is false because the European"
+microsoft/Phi-3.5-mini-instruct,eng,219,international_law,2,2.0,0.95,1,1,"Answer: C
+Confidence: 95
+
+The concept of proportionality in international law, particularly in the"
+microsoft/Phi-3.5-mini-instruct,eng,220,international_law,2,2.0,0.95,1,1,"Answer: C. Jurisdiction is ordinarily territorial
+Confidence: 95
+
+Explanation:"
+microsoft/Phi-3.5-mini-instruct,eng,221,international_law,2,2.0,0.95,1,1,"Answer: C
+Confidence: 95
+
+International law is primarily derived from three formal sources: treat"
+microsoft/Phi-3.5-mini-instruct,eng,222,international_law,1,1.0,0.95,1,1,"Answer: B
+Confidence: 95
+
+Explanation: Baselines under the law of the sea"
+microsoft/Phi-3.5-mini-instruct,eng,223,international_law,2,2.0,0.95,1,1,"Answer: C
+Confidence: 95
+
+Explanation: Conciliation and mediation are both"
+microsoft/Phi-3.5-mini-instruct,eng,224,international_law,0,0.0,0.95,1,1,"Answer: A
+Confidence: 95
+
+The Osman test primarily focuses on the state's"
+microsoft/Phi-3.5-mini-instruct,eng,225,international_law,2,2.0,0.95,1,1,"Answer: C
+Confidence: 95
+
+Explanation: The Statute of the International Court of"
+microsoft/Phi-3.5-mini-instruct,eng,226,international_law,2,2.0,,0,0,"Answer: C. Its aim is to provide jurisdiction to all States in respect of particular crimes
+Confidence:"
+microsoft/Phi-3.5-mini-instruct,eng,227,international_law,0,0.0,0.95,1,1,"Answer: A
+Confidence: 95
+
+Explanation: According to the principles of international law,"
+microsoft/Phi-3.5-mini-instruct,eng,228,international_law,1,1.0,0.95,1,1,"Answer: B
+Confidence: 95
+
+Explanation: According to the Vienna Convention on the Law"
+microsoft/Phi-3.5-mini-instruct,eng,229,international_law,2,1.0,,0,0,"Answer: B. The Court held that immunity trumped the right to a fair trial
+Confidence: "
+microsoft/Phi-3.5-mini-instruct,eng,230,international_law,2,2.0,0.95,1,1,"Answer: C
+Confidence: 95
+
+The Badinter Commission, formally known as the European Commission for"
+microsoft/Phi-3.5-mini-instruct,eng,231,international_law,0,0.0,0.95,1,1,"Answer: A
+Confidence: 95
+
+Explanation: Option A is the most comprehensive and"
+microsoft/Phi-3.5-mini-instruct,eng,232,international_law,0,2.0,0.85,1,0,"Answer: C
+Confidence: 85
+
+Explanation: Port States typically exercise their criminal jurisdiction"
+microsoft/Phi-3.5-mini-instruct,eng,233,international_law,3,3.0,0.85,1,1,"Answer: D
+Confidence: 85
+
+Explanation: The United Nations General Assembly (UNGA"
+microsoft/Phi-3.5-mini-instruct,eng,234,international_law,2,2.0,0.95,1,1,"Answer: C
+Confidence: 95
+
+Explanation: The Vienna Convention on the Law of Tre"
+microsoft/Phi-3.5-mini-instruct,eng,235,international_law,0,2.0,0.95,1,0,"Answer: C. Article 9
+Confidence: 95
+
+Explanation: Article 9 of"
+microsoft/Phi-3.5-mini-instruct,eng,236,international_law,0,0.0,0.95,1,1,"Answer: A
+Confidence: 95
+
+Explanation: The Vienna Convention on the Law of Tre"
+microsoft/Phi-3.5-mini-instruct,eng,237,international_law,3,3.0,0.95,1,1,"Answer: D
+Confidence: 95
+
+Explanation: UNSC Resolution 67"
+microsoft/Phi-3.5-mini-instruct,eng,238,international_law,2,2.0,0.95,1,1,"Answer: C
+Confidence: 95
+
+Explanation: Customary international law is formed by the"
+microsoft/Phi-3.5-mini-instruct,eng,239,international_law,2,2.0,0.95,1,1,"Answer: C
+Confidence: 95
+
+Explanation: While options A, B, and D"
+microsoft/Phi-3.5-mini-instruct,eng,240,international_law,2,2.0,0.9,1,1,"Answer: C
+Confidence: 90
+
+Functional recognition refers to the acknowledgment of an entity'"
+microsoft/Phi-3.5-mini-instruct,eng,241,international_law,1,3.0,0.95,1,0,"Answer: D
+Confidence: 95
+
+Explanation: The act of State doctrine is a principle"
+microsoft/Phi-3.5-mini-instruct,eng,242,international_law,1,1.0,0.95,1,1,"Answer: B
+Confidence: 95
+
+The international society is often described as a horizontal structure of authority"
+microsoft/Phi-3.5-mini-instruct,eng,243,international_law,3,3.0,0.85,1,1,"Answer: D
+Confidence: 85
+
+The incorporation of customary crimes into English law is"
+microsoft/Phi-3.5-mini-instruct,eng,244,international_law,2,2.0,0.95,1,1,"Answer: C
+Confidence: 95
+
+The contiguous zone is a maritime area that extends"
+microsoft/Phi-3.5-mini-instruct,eng,245,international_law,3,3.0,0.95,1,1,"Answer: D
+Confidence: 95
+
+Explanation: The European Court of Human Rights has established"
+microsoft/Phi-3.5-mini-instruct,eng,246,international_law,3,3.0,0.95,1,1,"Answer: D. Handyside v UK (1976)
+Confidence: 95
+
+"
+microsoft/Phi-3.5-mini-instruct,eng,247,international_law,0,3.0,0.85,1,0,"Answer: D
+Confidence: 85
+
+Explanation: While options A and B are similar and"
+microsoft/Phi-3.5-mini-instruct,eng,248,international_law,0,2.0,0.95,1,0,"Answer: C
+Confidence: 95
+
+The constitutive theory of recognition in international law posits that"
+microsoft/Phi-3.5-mini-instruct,eng,249,international_law,3,3.0,0.95,1,1,"Answer: D
+Confidence: 95
+
+The International Covenant on Civil and Political Rights (IC"
+microsoft/Phi-3.5-mini-instruct,eng,250,international_law,1,1.0,0.95,1,1,"Answer: B
+Confidence: 95
+
+Self-executing treaties are those that are clear and"
+microsoft/Phi-3.5-mini-instruct,eng,251,international_law,0,1.0,0.9,1,0,"Answer: B
+Confidence: 90
+
+The International Court of Justice (ICJ) has generally interpreted"
+microsoft/Phi-3.5-mini-instruct,eng,252,international_law,2,2.0,0.95,1,1,"Answer: C
+Confidence: 95
+
+Explanation: The international legal system does not have a"
+microsoft/Phi-3.5-mini-instruct,eng,253,international_law,0,0.0,0.85,1,1,"Answer: A
+Confidence: 85
+
+Explanation: According to the United Nations Convention on the"
+microsoft/Phi-3.5-mini-instruct,eng,254,international_law,2,2.0,0.95,1,1,"Answer: C
+Confidence: 95
+
+Sovereign immunity is a legal doctrine that prevents states"
+microsoft/Phi-3.5-mini-instruct,eng,255,international_law,2,2.0,0.95,1,1,"Answer: C
+Confidence: 95
+
+Passive personality jurisdiction refers to a legal principle where"
+microsoft/Phi-3.5-mini-instruct,eng,256,international_law,1,1.0,0.95,1,1,"Answer: B. Civil and political rights
+Confidence: 95
+
+Explanation: First generation rights"
+microsoft/Phi-3.5-mini-instruct,eng,257,international_law,1,1.0,0.95,1,1,"Answer: B
+Confidence: 95
+
+Fragmentation of international law refers to the situation where different legal"
+microsoft/Phi-3.5-mini-instruct,eng,258,international_law,0,3.0,0.9,1,0,"Answer: D
+Confidence: 90
+
+Implied authorisation refers to the concept where, in cases"
+microsoft/Phi-3.5-mini-instruct,eng,259,international_law,3,1.0,0.95,1,0,"Answer: B. Emmanuel Kant
+Confidence: 95
+
+Emmanuel Kant, a prominent philos"
+microsoft/Phi-3.5-mini-instruct,eng,260,international_law,0,0.0,0.95,1,1,"Answer: A
+Confidence: 95
+
+Explanation: While option B is partially correct in stating"
+microsoft/Phi-3.5-mini-instruct,eng,261,international_law,2,2.0,,0,0,Answer: C. The State which persistently and publicly objects to the formation of a rule of customary law from
+microsoft/Phi-3.5-mini-instruct,eng,262,international_law,2,0.0,0.95,1,0,"Answer: A
+Confidence: 95
+
+Collective security refers to the concept where a group of nations"
+microsoft/Phi-3.5-mini-instruct,eng,263,international_law,2,2.0,0.95,1,1,"Answer: C. Civil and political rights
+Confidence: 95
+
+The European Convention on Human Rights ("
+microsoft/Phi-3.5-mini-instruct,eng,264,international_law,3,2.0,0.9,1,0,"Answer: C
+Confidence: 90
+
+While international tribunals are indeed influenced by their found"
+microsoft/Phi-3.5-mini-instruct,eng,265,international_law,1,1.0,0.95,1,1,"Answer: B
+Confidence: 95
+
+Collective rights are rights held by a group rather than by"
+microsoft/Phi-3.5-mini-instruct,eng,266,international_law,1,1.0,0.9,1,1,"Answer: B
+Confidence: 90
+
+Explanation: While States have considerable discretion in"
+microsoft/Phi-3.5-mini-instruct,eng,267,international_law,0,2.0,0.95,1,0,"Answer: C
+Confidence: 95
+
+Naturalism and positivism are both theories in the"
+microsoft/Phi-3.5-mini-instruct,eng,268,international_law,2,2.0,0.95,1,1,"Answer: C
+Confidence: 95
+
+Explanation: Option C accurately defines 'internation"
+microsoft/Phi-3.5-mini-instruct,eng,269,international_law,3,3.0,0.95,1,1,"Answer: D
+Confidence: 95
+
+The effects doctrine, also known as the objective territorial principle,"
+microsoft/Phi-3.5-mini-instruct,eng,270,international_law,1,1.0,0.95,1,1,"Answer: B
+Confidence: 95
+
+Explanation: De facto organs are those entities"
+microsoft/Phi-3.5-mini-instruct,eng,271,international_law,0,0.0,0.95,1,1,"Answer: A
+Confidence: 95
+
+Explanation: Custom is not automatically superior to English law"
+microsoft/Phi-3.5-mini-instruct,eng,272,international_law,2,2.0,0.9,1,1,"Answer: C. Armed force was permitted subject to few restrictions
+Confidence: 90
+
+Explan"
+microsoft/Phi-3.5-mini-instruct,eng,273,international_law,0,0.0,0.95,1,1,"Answer: A
+Confidence: 95
+
+The protective principle of jurisdiction refers to a state'"
+microsoft/Phi-3.5-mini-instruct,eng,274,international_law,1,1.0,0.95,1,1,"Answer: B
+Confidence: 95
+
+The Council of Europe was indeed established in 194"
+microsoft/Phi-3.5-mini-instruct,eng,275,international_law,2,1.0,0.95,1,0,"Answer: B
+Confidence: 95
+
+Explanation: The concept of an 'equitable result"
+microsoft/Phi-3.5-mini-instruct,eng,276,international_law,2,2.0,0.95,1,1,"Answer: C
+Confidence: 95
+
+Explanation: A derogation, in the context"
+microsoft/Phi-3.5-mini-instruct,eng,277,international_law,3,3.0,0.9,1,1,"Answer: D
+Confidence: 90
+
+Explanation: Cultural relativism is the idea that a"
+microsoft/Phi-3.5-mini-instruct,eng,278,international_law,1,0.0,0.95,1,0,"Answer: A
+Confidence: 95
+
+Explanation: Recognition of governments is a"
+microsoft/Phi-3.5-mini-instruct,eng,279,international_law,1,1.0,0.95,1,1,"Answer: B. The UDHR is a UN General Assembly resolution
+Confidence: 95
+
+Ex"
+microsoft/Phi-3.5-mini-instruct,eng,280,international_law,1,1.0,,0,0,Answer: B. The ECHR applies extraterritorially in circumstances where a member State exercises effective
+microsoft/Phi-3.5-mini-instruct,eng,281,international_law,2,2.0,0.95,1,1,"Answer: C
+Confidence: 95
+
+The principle 'pacta sunt servanda' is a"
+microsoft/Phi-3.5-mini-instruct,eng,282,international_law,2,2.0,0.95,1,1,"Answer: C
+Confidence: 95
+
+Explanation: The Tin Council case (Attorney"
+microsoft/Phi-3.5-mini-instruct,eng,283,international_law,0,0.0,0.95,1,1,"Answer: A
+Confidence: 95
+
+Explanation: The Human Rights Act 199"
+microsoft/Phi-3.5-mini-instruct,eng,284,international_law,2,2.0,0.95,1,1,"Answer: C
+Confidence: 95
+
+Reparation in international law is not limited to pecuni"
+microsoft/Phi-3.5-mini-instruct,eng,285,international_law,1,1.0,0.9,1,1,"Answer: B
+Confidence: 90
+
+Unilateral acts are actions taken by a state that"
+microsoft/Phi-3.5-mini-instruct,eng,286,international_law,0,3.0,0.85,1,0,"Answer: D
+Confidence: 85
+
+The English legal system does recognize the principle of non-ext"
+microsoft/Phi-3.5-mini-instruct,eng,287,international_law,1,1.0,0.95,1,1,"Answer: B
+Confidence: 95
+
+Secondary rules in the law of international responsibility are indeed the"
+microsoft/Phi-3.5-mini-instruct,eng,288,international_law,3,3.0,0.95,1,1,"Answer: D
+Confidence: 95
+
+The doctrine of incorporation generally refers to the principle that international"
+microsoft/Phi-3.5-mini-instruct,eng,289,international_law,3,3.0,0.95,1,1,"Answer: D
+Confidence: 95
+
+The International Court of Justice (ICJ) has consistently"
+microsoft/Phi-3.5-mini-instruct,eng,290,international_law,0,0.0,0.95,1,1,"Answer: A
+Confidence: 95
+
+Explanation: Countermeasures are generally considered legal"
+microsoft/Phi-3.5-mini-instruct,eng,291,international_law,0,0.0,0.95,1,1,"Answer: A
+Confidence: 95
+
+Explanation: The key difference lies in the binding nature"
+microsoft/Phi-3.5-mini-instruct,eng,292,international_law,2,2.0,0.95,1,1,"Answer: C
+Confidence: 95
+
+The rationale for the exhaustion of local remedies"
+microsoft/Phi-3.5-mini-instruct,eng,293,international_law,2,1.0,0.95,1,0,"Answer: B. A v UK (2009)
+Confidence: 95
+
+Explan"
+microsoft/Phi-3.5-mini-instruct,eng,294,international_law,2,3.0,0.95,1,0,"Answer: D
+Confidence: 95
+
+Explanation: The recognition and enforcement of foreign jud"
+microsoft/Phi-3.5-mini-instruct,eng,295,international_law,2,2.0,0.95,1,1,"Answer: C
+Confidence: 95
+
+The House of Lords in the Pinochet case"
+microsoft/Phi-3.5-mini-instruct,eng,296,international_law,0,0.0,0.95,1,1,"Answer: A
+Confidence: 95
+
+Explanation: Statement A is false because the war"
+microsoft/Phi-3.5-mini-instruct,eng,297,international_law,2,2.0,0.95,1,1,"Answer: C
+Confidence: 95
+
+Explanation: According to the United Nations Convention on the"
+microsoft/Phi-3.5-mini-instruct,eng,298,international_law,2,2.0,0.95,1,1,"Answer: C
+Confidence: 95
+
+Explanation: International law generally recognizes that treaties"
+microsoft/Phi-3.5-mini-instruct,eng,299,international_law,1,1.0,0.95,1,1,"Answer: B
+Confidence: 95
+
+Explanation: Monist theory in international law holds that"
+microsoft/Phi-3.5-mini-instruct,eng,300,global_facts,2,2.0,0.95,1,1,"Answer: C
+Confidence: 95
+
+Based on data from the World Health Organization and other"
+microsoft/Phi-3.5-mini-instruct,eng,301,global_facts,1,1.0,0.85,1,1,"Answer: B. About $3k
+Confidence: 85
+
+I based my answer on historical economic"
+microsoft/Phi-3.5-mini-instruct,eng,302,global_facts,2,2.0,0.9,1,1,"Answer: C
+Confidence: 90
+
+Based on various surveys and studies conducted around 2"
+microsoft/Phi-3.5-mini-instruct,eng,303,global_facts,0,0.0,0.95,1,1,"Answer: A. China
+Confidence: 95
+
+Explanation: According to the International Energy Agency"
+microsoft/Phi-3.5-mini-instruct,eng,304,global_facts,2,1.0,0.9,1,0,"Answer: B. by 10 fold
+Confidence: 90
+
+The GDP per cap"
+microsoft/Phi-3.5-mini-instruct,eng,305,global_facts,0,1.0,0.9,1,0,"Answer: B. Preterm birth complications
+Confidence: 90
+
+Although lower respiratory"
+microsoft/Phi-3.5-mini-instruct,eng,306,global_facts,2,2.0,0.95,1,1,"Answer: C. 30%
+Confidence: 95"
+microsoft/Phi-3.5-mini-instruct,eng,307,global_facts,2,1.0,0.85,1,0,"Answer: B. 49%
+Confidence: 85
+
+Based on available data from Trans"
+microsoft/Phi-3.5-mini-instruct,eng,308,global_facts,2,1.0,0.95,1,0,"Answer: B
+Confidence: 95
+
+Based on data from the International Telecommunication Union ("
+microsoft/Phi-3.5-mini-instruct,eng,309,global_facts,1,2.0,0.95,1,0,"Answer: C. 41%
+Confidence: 95%
+
+Based on data from various"
+microsoft/Phi-3.5-mini-instruct,eng,310,global_facts,3,2.0,0.95,1,0,"Answer: C. 53%
+Confidence: 95"
+microsoft/Phi-3.5-mini-instruct,eng,311,global_facts,1,1.0,0.95,1,1,"Answer: B
+Confidence: 95
+
+Based on data from the World Bank and other reput"
+microsoft/Phi-3.5-mini-instruct,eng,312,global_facts,2,2.0,0.9,1,1,"Answer: C. 9%
+Confidence: 90%
+
+I based my answer on data from"
+microsoft/Phi-3.5-mini-instruct,eng,313,global_facts,0,0.0,0.85,1,1,"Answer: A. minimum wage legislation
+Confidence: 85
+
+While minimum wage legisl"
+microsoft/Phi-3.5-mini-instruct,eng,314,global_facts,1,1.0,0.95,1,1,"Answer: B. 56%
+Confidence: 95%
+
+Based on historical data and"
+microsoft/Phi-3.5-mini-instruct,eng,315,global_facts,1,2.0,0.95,1,0,"Answer: C. 27%
+Confidence: 95"
+microsoft/Phi-3.5-mini-instruct,eng,316,global_facts,0,2.0,0.9,1,0,"Answer: C. 64%
+Confidence: 90%
+
+Based on various surveys"
+microsoft/Phi-3.5-mini-instruct,eng,317,global_facts,2,1.0,0.95,1,0,"Answer: B. 72%
+Confidence: 95"
+microsoft/Phi-3.5-mini-instruct,eng,318,global_facts,2,1.0,0.9,1,0,"Answer: B. About $8k
+Confidence: 90
+
+I based my answer on historical data"
+microsoft/Phi-3.5-mini-instruct,eng,319,global_facts,1,1.0,0.95,1,1,"Answer: B. 550,000
+Confidence: 95
+
+Based on"
+microsoft/Phi-3.5-mini-instruct,eng,320,global_facts,0,2.0,0.9,1,0,"Answer: C. 65%
+Confidence: 90
+
+Based on historical data and reports"
+microsoft/Phi-3.5-mini-instruct,eng,321,global_facts,0,2.0,0.9,1,0,"Answer: C. 64%
+Confidence: 90
+
+Based on various reports and surve"
+microsoft/Phi-3.5-mini-instruct,eng,322,global_facts,3,2.0,0.95,1,0,"Answer: C. 55%
+Confidence: 95"
+microsoft/Phi-3.5-mini-instruct,eng,323,global_facts,1,1.0,0.95,1,1,"Answer: B. 16%
+Confidence: 95%
+
+The confidence level is set at"
+microsoft/Phi-3.5-mini-instruct,eng,324,global_facts,3,1.0,0.95,1,0,"Answer: B
+Confidence: 95
+
+Explanation: Numerous studies and statistics have shown"
+microsoft/Phi-3.5-mini-instruct,eng,325,global_facts,3,2.0,0.9,1,0,"Answer: C. 57%
+Confidence: 90%
+
+Based on various surveys"
+microsoft/Phi-3.5-mini-instruct,eng,326,global_facts,3,2.0,0.95,1,0,"Answer: C
+Confidence: 95
+
+Based on data from the Stockholm International Peace Research Institute ("
+microsoft/Phi-3.5-mini-instruct,eng,327,global_facts,2,1.0,0.95,1,0,"Answer: B
+Confidence: 95
+
+Based on data from the U.S. Energy Information"
+microsoft/Phi-3.5-mini-instruct,eng,328,global_facts,3,1.0,0.85,1,0,"Answer: B. 30%
+Confidence: 85
+
+I based my answer on the available"
+microsoft/Phi-3.5-mini-instruct,eng,329,global_facts,2,1.0,0.85,1,0,"Answer: B. 41%
+Confidence: 85
+
+Based on available research and reports"
+microsoft/Phi-3.5-mini-instruct,eng,330,global_facts,2,1.0,0.95,1,0,"Answer: B. 6.9 billion
+Confidence: 95
+
+I am confident in this answer"
+microsoft/Phi-3.5-mini-instruct,eng,331,global_facts,0,0.0,0.95,1,1,"Answer: A. 9%
+Confidence: 95%
+
+Based on data from the World"
+microsoft/Phi-3.5-mini-instruct,eng,332,global_facts,1,1.0,0.85,1,1,"Answer: B. 51%
+Confidence: 85
+
+Based on available data from Trans"
+microsoft/Phi-3.5-mini-instruct,eng,333,global_facts,2,2.0,0.95,1,1,"Answer: C. by 16 fold
+Confidence: 95
+
+The calculation is based on"
+microsoft/Phi-3.5-mini-instruct,eng,334,global_facts,3,2.0,0.95,1,0,"Answer: C. 13
+Confidence: 95
+
+Ross Perot, as a third"
+microsoft/Phi-3.5-mini-instruct,eng,335,global_facts,3,1.0,0.95,1,0,"Answer: B. 69%
+Confidence: 95"
+microsoft/Phi-3.5-mini-instruct,eng,336,global_facts,3,3.0,0.95,1,1,"Answer: D. Floods
+Confidence: 95
+
+While floods have caused significant loss of"
+microsoft/Phi-3.5-mini-instruct,eng,337,global_facts,1,1.0,0.9,1,1,"Answer: B. 35%
+Confidence: 90
+
+I based my answer on available data"
+microsoft/Phi-3.5-mini-instruct,eng,338,global_facts,3,2.0,0.95,1,0,"Answer: C. by 16 fold
+Confidence: 95
+
+The calculation is based on"
+microsoft/Phi-3.5-mini-instruct,eng,339,global_facts,2,1.0,0.85,1,0,"Answer: B
+Confidence: 85
+
+I based my confidence on the general knowledge that Turkey has been"
+microsoft/Phi-3.5-mini-instruct,eng,340,global_facts,1,2.0,0.95,1,0,"Answer: C. 91%
+Confidence: 95"
+microsoft/Phi-3.5-mini-instruct,eng,341,global_facts,0,1.0,0.85,1,0,"Answer: B. 46%
+Confidence: 85
+
+Based on available data from Trans"
+microsoft/Phi-3.5-mini-instruct,eng,342,global_facts,2,2.0,0.95,1,1,"Answer: C. Mexico
+Confidence: 95
+
+Based on available data from sources like the World"
+microsoft/Phi-3.5-mini-instruct,eng,343,global_facts,0,1.0,0.95,1,0,"Answer: B. 2.4 million
+Confidence: 95
+
+Based on data from the"
+microsoft/Phi-3.5-mini-instruct,eng,344,global_facts,2,0.0,0.95,1,0,"Answer: A. Diarrheal diseases
+Confidence: 95
+
+Diarrheal dise"
+microsoft/Phi-3.5-mini-instruct,eng,345,global_facts,2,2.0,0.95,1,1,"Answer: C. 42 million
+Confidence: 95
+
+Based on data from UNA"
+microsoft/Phi-3.5-mini-instruct,eng,346,global_facts,0,1.0,0.95,1,0,"Answer: B. 46%
+Confidence: 95
+
+I based my answer on reports from"
+microsoft/Phi-3.5-mini-instruct,eng,347,global_facts,1,2.0,0.85,1,0,"Answer: C. 65%
+Confidence: 85
+
+Based on various surveys and"
+microsoft/Phi-3.5-mini-instruct,eng,348,global_facts,2,1.0,0.95,1,0,"Answer: B. 16%
+Confidence: 95%
+
+I based my answer on reports"
+microsoft/Phi-3.5-mini-instruct,eng,349,global_facts,1,1.0,0.85,1,1,"Answer: B. 58%
+Confidence: 85"
+microsoft/Phi-3.5-mini-instruct,eng,350,global_facts,1,2.0,0.95,1,0,"Answer: C
+Confidence: 95
+
+I am confident in this answer because according to the World Bank"
+microsoft/Phi-3.5-mini-instruct,eng,351,global_facts,1,2.0,0.85,1,0,"Answer: C. supported mainly by time-series, not cross-section studies
+Confidence: 85
+"
+microsoft/Phi-3.5-mini-instruct,eng,352,global_facts,1,2.0,0.85,1,0,"Answer: C. 6 years
+Confidence: 85
+
+Based on global education trends and"
+microsoft/Phi-3.5-mini-instruct,eng,353,global_facts,3,2.0,0.95,1,0,"Answer: C. 3.60%
+Confidence: 95
+
+Based on available data"
+microsoft/Phi-3.5-mini-instruct,eng,354,global_facts,0,2.0,0.9,1,0,"Answer: C. 34%
+Confidence: 90%
+
+Based on various surveys"
+microsoft/Phi-3.5-mini-instruct,eng,355,global_facts,1,1.0,0.85,1,1,"Answer: B
+Confidence: 85
+
+Based on various polls and surveys conducted around "
+microsoft/Phi-3.5-mini-instruct,eng,356,global_facts,3,2.0,0.75,1,0,"Answer: C
+Confidence: 75
+
+Based on various surveys and studies conducted around the time"
+microsoft/Phi-3.5-mini-instruct,eng,357,global_facts,3,1.0,0.7,1,0,"Answer: B. 25%
+Confidence: 70
+
+Based on historical accounts and surve"
+microsoft/Phi-3.5-mini-instruct,eng,358,global_facts,2,2.0,0.95,1,1,"Answer: C
+Confidence: 95
+
+Explanation: Sub-Saharan Africa has seen"
+microsoft/Phi-3.5-mini-instruct,eng,359,global_facts,1,1.0,1.0,1,1,"Answer: B. 34.80%
+Confidence: 100"
+microsoft/Phi-3.5-mini-instruct,eng,360,global_facts,2,2.0,0.95,1,1,"Answer: C. 150 million
+Confidence: 95%
+
+The International Labour Organization"
+microsoft/Phi-3.5-mini-instruct,eng,361,global_facts,0,0.0,0.95,1,1,"Answer: A
+Confidence: 95
+
+Explanation: As of 2020,"
+microsoft/Phi-3.5-mini-instruct,eng,362,global_facts,1,2.0,0.85,1,0,"Answer: C. 40%
+Confidence: 85
+
+Based on available data and reports"
+microsoft/Phi-3.5-mini-instruct,eng,363,global_facts,2,1.0,0.85,1,0,"Answer: B. 58%
+Confidence: 85
+
+Based on various reports and studies"
+microsoft/Phi-3.5-mini-instruct,eng,364,global_facts,1,2.0,0.95,1,0,"Answer: C. False, True
+Confidence: 95
+
+Explanation: Statement (1"
+microsoft/Phi-3.5-mini-instruct,eng,365,global_facts,2,1.0,0.95,1,0,"Answer: B. 2,600
+Confidence: 95
+
+Based on data from"
+microsoft/Phi-3.5-mini-instruct,eng,366,global_facts,0,1.0,0.85,1,0,"Answer: B
+Confidence: 85
+
+Based on historical data, in 1935"
+microsoft/Phi-3.5-mini-instruct,eng,367,global_facts,1,2.0,0.9,1,0,"Answer: C. Russia
+Confidence: 90
+
+Explanation: According to data from the Global"
+microsoft/Phi-3.5-mini-instruct,eng,368,global_facts,2,1.0,0.9,1,0,"Answer: B. 69%
+Confidence: 90%
+
+I based my answer on various"
+microsoft/Phi-3.5-mini-instruct,eng,369,global_facts,1,1.0,0.95,1,1,"Answer: B. 19%
+Confidence: 95%
+
+I based my confidence on the"
+microsoft/Phi-3.5-mini-instruct,eng,370,global_facts,1,1.0,0.9,1,1,"Answer: B. 38%
+Confidence: 90
+
+Based on available data from UN"
+microsoft/Phi-3.5-mini-instruct,eng,371,global_facts,0,2.0,0.9,1,0,"Answer: C. 54%
+Confidence: 90
+
+Based on available data and reports"
+microsoft/Phi-3.5-mini-instruct,eng,372,global_facts,1,0.0,0.95,1,0,"Answer: A
+Confidence: 95
+
+The global fertility rate has been declining over the past"
+microsoft/Phi-3.5-mini-instruct,eng,373,global_facts,2,2.0,0.95,1,1,"Answer: C. $10,000
+Confidence: 95
+
+The World Bank'"
+microsoft/Phi-3.5-mini-instruct,eng,374,global_facts,2,1.0,0.85,1,0,"Answer: B. 40%
+Confidence: 85
+
+Based on historical data from various"
+microsoft/Phi-3.5-mini-instruct,eng,375,global_facts,1,2.0,0.9,1,0,"Answer: C. 71%
+Confidence: 90"
+microsoft/Phi-3.5-mini-instruct,eng,376,global_facts,2,1.0,0.95,1,0,"Answer: B. 2%
+Confidence: 95%
+
+Based on data from UNES"
+microsoft/Phi-3.5-mini-instruct,eng,377,global_facts,0,0.0,0.95,1,1,"Answer: A. US
+Confidence: 95
+
+The United States has historically had high rates of"
+microsoft/Phi-3.5-mini-instruct,eng,378,global_facts,2,1.0,0.9,1,0,"Answer: B
+Confidence: 90
+
+Explanation: Historical data indicates that the growth rate of"
+microsoft/Phi-3.5-mini-instruct,eng,379,global_facts,1,1.0,0.95,1,1,"Answer: B
+Confidence: 95
+
+Based on data from the Food and Agriculture Organization"
+microsoft/Phi-3.5-mini-instruct,eng,380,global_facts,2,0.0,0.95,1,0,"Answer: A
+Confidence: 95
+
+Explanation: The greatest population growth rate has been observed"
+microsoft/Phi-3.5-mini-instruct,eng,381,global_facts,2,2.0,0.95,1,1,"Answer: C. 15-49
+Confidence: 95
+
+Explanation: The"
+microsoft/Phi-3.5-mini-instruct,eng,382,global_facts,0,0.0,0.95,1,1,"Answer: A
+Confidence: 95
+
+I am 95% confident in this answer because according"
+microsoft/Phi-3.5-mini-instruct,eng,383,global_facts,1,2.0,0.95,1,0,"Answer: C. 49%
+Confidence: 95"
+microsoft/Phi-3.5-mini-instruct,eng,384,global_facts,0,0.0,0.95,1,1,"Answer: A. True, True
+Confidence: 95
+
+Explanation: Statement (1"
+microsoft/Phi-3.5-mini-instruct,eng,385,global_facts,1,2.0,0.9,1,0,"Answer: C. -40%
+Confidence: 90
+
+I am 90% confident"
+microsoft/Phi-3.5-mini-instruct,eng,386,global_facts,2,1.0,0.85,1,0,"Answer: B
+Confidence: 85
+
+I based my answer on available data from various polls and"
+microsoft/Phi-3.5-mini-instruct,eng,387,global_facts,2,2.0,0.9,1,1,"Answer: C. Chile
+Confidence: 90
+
+Explanation: According to the International Renew"
+microsoft/Phi-3.5-mini-instruct,eng,388,global_facts,2,3.0,0.85,1,0,"Answer: D. $15,000
+Confidence: 85
+
+The World Bank defines"
+microsoft/Phi-3.5-mini-instruct,eng,389,global_facts,1,2.0,0.85,1,0,"Answer: C. 70%
+Confidence: 85
+
+Based on historical accounts and surve"
+microsoft/Phi-3.5-mini-instruct,eng,390,global_facts,3,1.0,0.95,1,0,"Answer: B. Russia
+Confidence: 95
+
+I have a high confidence in this answer because according"
+microsoft/Phi-3.5-mini-instruct,eng,391,global_facts,0,2.0,0.95,1,0,"Answer: C. Congo, South Korea
+Confidence: 95
+
+Explanation: At the time"
+microsoft/Phi-3.5-mini-instruct,eng,392,global_facts,3,1.0,0.95,1,0,"Answer: B. 46%
+Confidence: 95
+
+Based on various reports and surve"
+microsoft/Phi-3.5-mini-instruct,eng,393,global_facts,1,2.0,0.9,1,0,"Answer: C. 51%
+Confidence: 90"
+microsoft/Phi-3.5-mini-instruct,eng,394,global_facts,1,2.0,0.95,1,0,"Answer: C
+Confidence: 95
+
+The United States has historically spent a significant portion of its"
+microsoft/Phi-3.5-mini-instruct,eng,395,global_facts,1,1.0,0.95,1,1,"Answer: B. 1.40%
+Confidence: 95
+
+I based my answer on"
+microsoft/Phi-3.5-mini-instruct,eng,396,global_facts,3,3.0,1.0,1,1,"Answer: D
+Confidence: 100
+
+The given options all represent valid hindrances that"
+microsoft/Phi-3.5-mini-instruct,eng,397,global_facts,3,2.0,0.95,1,0,"Answer: C. Alcohol use disorders
+Confidence: 95
+
+Alcohol use dis"
+microsoft/Phi-3.5-mini-instruct,eng,398,global_facts,2,2.0,0.95,1,1,"Answer: C. 80%
+Confidence: 95
+
+Based on data from the World"
+microsoft/Phi-3.5-mini-instruct,eng,399,global_facts,3,1.0,0.95,1,0,"Answer: B. 98%
+Confidence: 95
+
+Based on historical context, it"
+microsoft/Phi-3.5-mini-instruct,eng,400,high_school_microeconomics,0,1.0,1.0,1,0,"Answer: B
+Confidence: 100
+
+Marginal revenue equals marginal cost at the"
+microsoft/Phi-3.5-mini-instruct,eng,401,high_school_microeconomics,2,1.0,0.95,1,0,"Answer: B
+Confidence: 95
+
+Explanation: The firm should aim to equalize the"
+microsoft/Phi-3.5-mini-instruct,eng,402,high_school_microeconomics,1,1.0,0.95,1,1,"Answer: B
+Confidence: 95
+
+Explanation: A Nash equilibrium occurs in a game theory"
+microsoft/Phi-3.5-mini-instruct,eng,403,high_school_microeconomics,3,3.0,0.95,1,1,"Answer: D
+Confidence: 95
+
+Explanation: Cross-price elasticity measures the"
+microsoft/Phi-3.5-mini-instruct,eng,404,high_school_microeconomics,3,3.0,0.95,1,1,"Answer: D
+Confidence: 95
+
+Externalities are costs or benefits that affect a party who did"
+microsoft/Phi-3.5-mini-instruct,eng,405,high_school_microeconomics,3,0.0,0.95,1,0,"Answer: A
+Confidence: 95
+
+Explanation: The government discourages collusion between"
+microsoft/Phi-3.5-mini-instruct,eng,406,high_school_microeconomics,3,3.0,0.9,1,1,"Answer: D
+Confidence: 90
+
+Explanation: In an oligopoly, fir"
+microsoft/Phi-3.5-mini-instruct,eng,407,high_school_microeconomics,2,2.0,0.95,1,1,"Answer: C. Increase in production of SUVs.
+Confidence: 95
+
+Ex"
+microsoft/Phi-3.5-mini-instruct,eng,408,high_school_microeconomics,3,3.0,0.95,1,1,"Answer: D
+Confidence: 95
+
+Explanation: Patents, control of resources, econom"
+microsoft/Phi-3.5-mini-instruct,eng,409,high_school_microeconomics,1,1.0,0.9,1,1,"Answer: B. constant-cost industry
+Confidence: 90
+
+Explanation: The question suggests"
+microsoft/Phi-3.5-mini-instruct,eng,410,high_school_microeconomics,2,2.0,0.95,1,1,"Answer: C. The size of a McDonald’s kitchen.
+Confidence: 95
+
+Ex"
+microsoft/Phi-3.5-mini-instruct,eng,411,high_school_microeconomics,2,0.0,0.85,1,0,"Answer: A
+Confidence: 85
+
+Explanation: The increase in pesticide use by"
+microsoft/Phi-3.5-mini-instruct,eng,412,high_school_microeconomics,3,3.0,0.95,1,1,"Answer: D
+Confidence: 95
+
+Explanation: A shift to the right in the demand"
+microsoft/Phi-3.5-mini-instruct,eng,413,high_school_microeconomics,2,2.0,1.0,1,1,"Answer: C
+Confidence: 100
+
+Explanation: In a perfectly competitive market,"
+microsoft/Phi-3.5-mini-instruct,eng,414,high_school_microeconomics,1,1.0,0.95,1,1,"Answer: B. plant and equipment.
+Confidence: 95
+
+Explanation: While ""cap"
+microsoft/Phi-3.5-mini-instruct,eng,415,high_school_microeconomics,3,2.0,0.95,1,0,"Answer: C
+Confidence: 95
+
+Explanation: The information given only compares their product"
+microsoft/Phi-3.5-mini-instruct,eng,416,high_school_microeconomics,2,1.0,0.85,1,0,"Answer: B
+Confidence: 85
+
+Explanation: Option B suggests that the friends' in"
+microsoft/Phi-3.5-mini-instruct,eng,417,high_school_microeconomics,3,3.0,1.0,1,1,"Answer: D
+Confidence: 100
+
+Explanation: According to the principle of utility maxim"
+microsoft/Phi-3.5-mini-instruct,eng,418,high_school_microeconomics,1,1.0,0.95,1,1,"Answer: B. Market failure
+Confidence: 95
+
+Explanation: Imperfect competition, external"
+microsoft/Phi-3.5-mini-instruct,eng,419,high_school_microeconomics,2,2.0,0.95,1,1,"Answer: C
+Confidence: 95
+
+Explanation: Marginal cost (MC) intersects"
+microsoft/Phi-3.5-mini-instruct,eng,420,high_school_microeconomics,3,3.0,0.95,1,1,"Answer: D
+Confidence: 95
+
+Explanation: The law of demand states that as the"
+microsoft/Phi-3.5-mini-instruct,eng,421,high_school_microeconomics,1,1.0,0.95,1,1,"Answer: B
+Confidence: 95
+
+Explanation: A monopoly is less efficient than"
+microsoft/Phi-3.5-mini-instruct,eng,422,high_school_microeconomics,1,1.0,1.0,1,1,"Answer: B
+Confidence: 100
+
+In a competitive market system, resources are allocated through"
+microsoft/Phi-3.5-mini-instruct,eng,423,high_school_microeconomics,3,1.0,0.85,1,0,"Answer: B. the goods on the axes are perfect substitutes in consumption
+Confidence: 85
+"
+microsoft/Phi-3.5-mini-instruct,eng,424,high_school_microeconomics,1,1.0,1.0,1,1,"Answer: B
+Confidence: 100
+
+Economic costs are indeed the sum of explicit costs"
+microsoft/Phi-3.5-mini-instruct,eng,425,high_school_microeconomics,3,3.0,0.95,1,1,"Answer: D
+Confidence: 95
+
+Explanation: The marginal cost (MC) is"
+microsoft/Phi-3.5-mini-instruct,eng,426,high_school_microeconomics,1,,0.0,0,0,"Answer: Cannot determine from the given information.
+
+Confidence: 0
+
+The provided information does not specify"
+microsoft/Phi-3.5-mini-instruct,eng,427,high_school_microeconomics,2,2.0,,0,0,"Answer: C. The demand curve will shift to the right, increasing the price of multigrained bread.
+Conf"
+microsoft/Phi-3.5-mini-instruct,eng,428,high_school_microeconomics,0,0.0,0.95,1,1,"Answer: A
+Confidence: 95
+
+In both perfect competition and monopolistic competition, firms"
+microsoft/Phi-3.5-mini-instruct,eng,429,high_school_microeconomics,1,1.0,0.95,1,1,"Answer: B
+Confidence: 95
+
+Explanation: A negative externality occurs when the production"
+microsoft/Phi-3.5-mini-instruct,eng,430,high_school_microeconomics,3,3.0,1.0,1,1,"Answer: D
+Confidence: 100
+
+Explanation: To determine the economic outcome, we"
+microsoft/Phi-3.5-mini-instruct,eng,431,high_school_microeconomics,1,1.0,0.95,1,1,"Answer: B
+Confidence: 95
+
+Explanation: In a competitive market, the total"
+microsoft/Phi-3.5-mini-instruct,eng,432,high_school_microeconomics,0,0.0,0.95,1,1,"Answer: A
+Confidence: 95
+
+Explanation: The income elasticity of demand measures"
+microsoft/Phi-3.5-mini-instruct,eng,433,high_school_microeconomics,1,1.0,0.95,1,1,"Answer: B. substitution effect.
+Confidence: 95
+
+The substitution effect occurs when consumers react"
+microsoft/Phi-3.5-mini-instruct,eng,434,high_school_microeconomics,3,1.0,0.95,1,0,"Answer: B. A social security retirement income.
+Confidence: 95
+
+Explanation:"
+microsoft/Phi-3.5-mini-instruct,eng,435,high_school_microeconomics,0,0.0,0.95,1,1,"Answer: A
+Confidence: 95
+
+Explanation: Price elasticity of demand measures how"
+microsoft/Phi-3.5-mini-instruct,eng,436,high_school_microeconomics,0,2.0,0.95,1,0,"Answer: C
+Confidence: 95
+
+Explanation: A bilateral monopoly refers"
+microsoft/Phi-3.5-mini-instruct,eng,437,high_school_microeconomics,3,3.0,0.95,1,1,"Answer: D
+Confidence: 95
+
+Explanation: In a monopolistically competitive"
+microsoft/Phi-3.5-mini-instruct,eng,438,high_school_microeconomics,3,3.0,0.95,1,1,"Answer: D
+Confidence: 95
+
+The Law of Diminishing Marginal Returns states that as"
+microsoft/Phi-3.5-mini-instruct,eng,439,high_school_microeconomics,3,3.0,0.95,1,1,"Answer: D
+Confidence: 95
+
+Economics is fundamentally concerned with the allocation of"
+microsoft/Phi-3.5-mini-instruct,eng,440,high_school_microeconomics,3,3.0,0.95,1,1,"Answer: D
+Confidence: 95
+
+Explanation: The given scenario describes a situation where the"
+microsoft/Phi-3.5-mini-instruct,eng,441,high_school_microeconomics,1,1.0,0.95,1,1,"Answer: B. The volunteer fire department in your community
+Confidence: 95
+
+Explanation"
+microsoft/Phi-3.5-mini-instruct,eng,442,high_school_microeconomics,3,3.0,0.95,1,1,"Answer: D. The International Space Station
+Confidence: 95
+
+Explanation: A public good"
+microsoft/Phi-3.5-mini-instruct,eng,443,high_school_microeconomics,2,2.0,0.95,1,1,"Answer: C. complements
+Confidence: 95
+
+Explanation: Cross-price elastic"
+microsoft/Phi-3.5-mini-instruct,eng,444,high_school_microeconomics,1,1.0,0.9,1,1,"Answer: B
+Confidence: 90
+
+Explanation: In a competitive labor market, if"
+microsoft/Phi-3.5-mini-instruct,eng,445,high_school_microeconomics,3,3.0,0.95,1,1,"Answer: D
+Confidence: 95
+
+Explanation: Monopolies often lead to higher prices"
+microsoft/Phi-3.5-mini-instruct,eng,446,high_school_microeconomics,1,1.0,1.0,1,1,"Answer: B
+Confidence: 100
+
+In a purely or perfectly competitive market, equilibrium is"
+microsoft/Phi-3.5-mini-instruct,eng,447,high_school_microeconomics,2,2.0,1.0,1,1,"Answer: C
+Confidence: 100
+
+Explanation: According to the law of demand in"
+microsoft/Phi-3.5-mini-instruct,eng,448,high_school_microeconomics,0,0.0,0.95,1,1,"Answer: A
+Confidence: 95
+
+Explanation: When demand increases, it puts upward"
+microsoft/Phi-3.5-mini-instruct,eng,449,high_school_microeconomics,3,3.0,0.95,1,1,"Answer: D
+Confidence: 95
+
+Explanation: In the context of a natural monopol"
+microsoft/Phi-3.5-mini-instruct,eng,450,high_school_microeconomics,1,1.0,1.0,1,1,"Answer: B. elastic.
+Confidence: 100"
+microsoft/Phi-3.5-mini-instruct,eng,451,high_school_microeconomics,0,0.0,0.95,1,1,"Answer: A
+Confidence: 95
+
+Explanation: A progressive tax system is designed to"
+microsoft/Phi-3.5-mini-instruct,eng,452,high_school_microeconomics,0,0.0,0.95,1,1,"Answer: A
+Confidence: 95
+
+Explanation: In option A, Brent's"
+microsoft/Phi-3.5-mini-instruct,eng,453,high_school_microeconomics,0,0.0,0.95,1,1,"Answer: A
+Confidence: 95
+
+Explanation: A positive externality occurs when a product"
+microsoft/Phi-3.5-mini-instruct,eng,454,high_school_microeconomics,3,2.0,0.95,1,0,"Answer: C
+Confidence: 95
+
+Explanation: When the price of a substitute good ("
+microsoft/Phi-3.5-mini-instruct,eng,455,high_school_microeconomics,1,1.0,0.09,1,1,"Answer: B. the marginal benefit equals the marginal cost of the next cookie.
+Confidence: 9"
+microsoft/Phi-3.5-mini-instruct,eng,456,high_school_microeconomics,1,1.0,0.95,1,1,"Answer: B. I and II.
+Confidence: 95
+
+Explanation: In perfect competition"
+microsoft/Phi-3.5-mini-instruct,eng,457,high_school_microeconomics,1,1.0,0.95,1,1,"Answer: B
+Confidence: 95
+
+Explanation: When demand is inelastic, consum"
+microsoft/Phi-3.5-mini-instruct,eng,458,high_school_microeconomics,3,2.0,0.95,1,0,"Answer: C
+Confidence: 95
+
+Explanation: The long-run average cost (LR"
+microsoft/Phi-3.5-mini-instruct,eng,459,high_school_microeconomics,1,1.0,0.95,1,1,"Answer: B
+Confidence: 95
+
+Explanation: A kinked demand curve typically implies"
+microsoft/Phi-3.5-mini-instruct,eng,460,high_school_microeconomics,1,1.0,0.95,1,1,"Answer: B
+Confidence: 95
+
+While economics does involve the study of money (A"
+microsoft/Phi-3.5-mini-instruct,eng,461,high_school_microeconomics,0,2.0,1.0,1,0,"Answer: C. AVC + AFC = TC.
+Confidence: 100
+
+Ex"
+microsoft/Phi-3.5-mini-instruct,eng,462,high_school_microeconomics,0,0.0,0.95,1,1,"Answer: A
+Confidence: 95
+
+Explanation: A monopsonist is a market"
+microsoft/Phi-3.5-mini-instruct,eng,463,high_school_microeconomics,0,0.0,0.95,1,1,"Answer: A
+Confidence: 95
+
+Explanation: When the price of one good (A"
+microsoft/Phi-3.5-mini-instruct,eng,464,high_school_microeconomics,3,3.0,1.0,1,1,"Answer: D
+Confidence: 100
+
+Explanation: In a perfectly competitive market,"
+microsoft/Phi-3.5-mini-instruct,eng,465,high_school_microeconomics,3,3.0,0.95,1,1,"Answer: D
+Confidence: 95
+
+In a perfectly competitive labor market, an employer h"
+microsoft/Phi-3.5-mini-instruct,eng,466,high_school_microeconomics,1,1.0,,0,0,"Answer: B. the marginal revenue curve is below the demand curve for a monopoly
+Confidence:"
+microsoft/Phi-3.5-mini-instruct,eng,467,high_school_microeconomics,0,1.0,0.95,1,0,"Answer: B
+Confidence: 95
+
+Explanation: A price floor is a minimum price set"
+microsoft/Phi-3.5-mini-instruct,eng,468,high_school_microeconomics,3,2.0,0.95,1,0,"Answer: C. a shortage of fast-food workers.
+
+Confidence: 95
+
+"
+microsoft/Phi-3.5-mini-instruct,eng,469,high_school_microeconomics,3,1.0,0.95,1,0,"Answer: B
+Confidence: 95
+
+Explanation: In the short run, a perfectly compet"
+microsoft/Phi-3.5-mini-instruct,eng,470,high_school_microeconomics,1,1.0,0.9,1,1,"Answer: B. The price of tea rises.
+Confidence: 90
+
+Explanation:"
+microsoft/Phi-3.5-mini-instruct,eng,471,high_school_microeconomics,3,1.0,0.95,1,0,"Answer: B
+Confidence: 95
+
+Explanation: Normal profit occurs when a firm's"
+microsoft/Phi-3.5-mini-instruct,eng,472,high_school_microeconomics,3,2.0,0.95,1,0,"Answer: C
+Confidence: 95
+
+Explanation: The demand price elasticity of "
+microsoft/Phi-3.5-mini-instruct,eng,473,high_school_microeconomics,0,0.0,0.95,1,1,"Answer: A. P > MC.
+Confidence: 95
+
+Explanation: In monopol"
+microsoft/Phi-3.5-mini-instruct,eng,474,high_school_microeconomics,2,2.0,0.95,1,1,"Answer: C
+Confidence: 95
+
+Explanation: The backward bending supply curve of"
+microsoft/Phi-3.5-mini-instruct,eng,475,high_school_microeconomics,3,3.0,0.95,1,1,"Answer: D. Air
+Confidence: 95
+
+Explanation: Total utility refers to the overall"
+microsoft/Phi-3.5-mini-instruct,eng,476,high_school_microeconomics,2,2.0,0.95,1,1,"Answer: C
+Confidence: 95
+
+The Lorenz Curve is a graphical representation used to"
+microsoft/Phi-3.5-mini-instruct,eng,477,high_school_microeconomics,3,2.0,0.95,1,0,"Answer: C
+Confidence: 95
+
+Explanation: When the demand curve is price inel"
+microsoft/Phi-3.5-mini-instruct,eng,478,high_school_microeconomics,1,1.0,0.9,1,1,"Answer: B
+Confidence: 90
+
+Explanation: While a decrease in the price of ice"
+microsoft/Phi-3.5-mini-instruct,eng,479,high_school_microeconomics,3,3.0,0.95,1,1,"Answer: D
+Confidence: 95
+
+Explanation:
+I. Incorrect. A firm"
+microsoft/Phi-3.5-mini-instruct,eng,480,high_school_microeconomics,0,0.0,0.95,1,1,"Answer: A
+Confidence: 95
+
+Explanation: Economic rent refers to the payment made"
+microsoft/Phi-3.5-mini-instruct,eng,481,high_school_microeconomics,1,1.0,0.95,1,1,"Answer: B. A government tax.
+Confidence: 95
+
+Explanation: A negative external"
+microsoft/Phi-3.5-mini-instruct,eng,482,high_school_microeconomics,0,0.0,0.95,1,1,"Answer: A
+Confidence: 95
+
+Explanation: A monopoly is characterized by"
+microsoft/Phi-3.5-mini-instruct,eng,483,high_school_microeconomics,1,1.0,1.0,1,1,"Answer: B. halfway between the demand curve and the vertical axis
+Confidence: 100
+
+"
+microsoft/Phi-3.5-mini-instruct,eng,484,high_school_microeconomics,2,2.0,0.95,1,1,"Answer: C. a persistent surplus of the good.
+Confidence: 95
+
+Explanation"
+microsoft/Phi-3.5-mini-instruct,eng,485,high_school_microeconomics,2,1.0,0.95,1,0,"Answer: B. Restrictive membership policies
+Confidence: 95
+
+Explanation: Restrict"
+microsoft/Phi-3.5-mini-instruct,eng,486,high_school_microeconomics,0,0.0,0.95,1,1,"Answer: A
+Confidence: 95
+
+In perfect competition, firms produce a homogeneous product,"
+microsoft/Phi-3.5-mini-instruct,eng,487,high_school_microeconomics,0,0.0,0.95,1,1,"Answer: A
+Confidence: 95
+
+Explanation: In the context of economics, the"
+microsoft/Phi-3.5-mini-instruct,eng,488,high_school_microeconomics,0,0.0,0.95,1,1,"Answer: A
+Confidence: 95
+
+In monopolistic competition, firms have some market power"
+microsoft/Phi-3.5-mini-instruct,eng,489,high_school_microeconomics,3,3.0,0.95,1,1,"Answer: D
+Confidence: 95
+
+Explanation: In a monopoly, there is"
+microsoft/Phi-3.5-mini-instruct,eng,490,high_school_microeconomics,2,2.0,,0,0,Answer: C. firms A and B are substitutes because the cross-price elasticity is greater than
+microsoft/Phi-3.5-mini-instruct,eng,491,high_school_microeconomics,1,0.0,0.95,1,0,"Answer: A. Labor demand
+Confidence: 95
+
+In a monopoly, the marginal"
+microsoft/Phi-3.5-mini-instruct,eng,492,high_school_microeconomics,1,1.0,0.9,1,1,"Answer: B
+Confidence: 90
+
+Explanation: When supply decreases and demand increases,"
+microsoft/Phi-3.5-mini-instruct,eng,493,high_school_microeconomics,3,3.0,0.95,1,1,"Answer: D
+Confidence: 95
+
+Explanation: In a competitive market, the price"
+microsoft/Phi-3.5-mini-instruct,eng,494,high_school_microeconomics,1,0.0,0.85,1,0,"Answer: A
+Confidence: 85
+
+Explanation: An increase in the number of graduates"
+microsoft/Phi-3.5-mini-instruct,eng,495,high_school_microeconomics,3,3.0,0.95,1,1,"Answer: D
+Confidence: 95
+
+Explanation: Diminishing marginal returns occur when"
+microsoft/Phi-3.5-mini-instruct,eng,496,high_school_microeconomics,3,3.0,1.0,1,1,"Answer: D. opportunity cost.
+Confidence: 100"
+microsoft/Phi-3.5-mini-instruct,eng,497,high_school_microeconomics,1,1.0,0.95,1,1,"Answer: B. Product differentiation.
+Confidence: 95
+
+In a perfectly competitive industry,"
+microsoft/Phi-3.5-mini-instruct,eng,498,high_school_microeconomics,3,1.0,0.95,1,0,"Answer: B. pays less and hires the same amount
+Confidence: 95
+
+Explanation"
+microsoft/Phi-3.5-mini-instruct,eng,499,high_school_microeconomics,0,3.0,0.95,1,0,"Answer: D
+Confidence: 95
+
+Explanation: In a monopsony, a"
+microsoft/Phi-3.5-mini-instruct,yor,0,elementary_mathematics,2,0.0,1.0,1,0,"Answer: A
+Confidence: 100
+
+Explanation:
+To solve for p, we"
+microsoft/Phi-3.5-mini-instruct,yor,1,elementary_mathematics,2,2.0,1.0,1,1,"Answer: C
+Confidence: 100
+
+Explanation:
+Ms. Perez has"
+microsoft/Phi-3.5-mini-instruct,yor,2,elementary_mathematics,3,1.0,1.0,1,0,"Answer: B
+Confidence: 100"
+microsoft/Phi-3.5-mini-instruct,yor,3,elementary_mathematics,1,2.0,1.0,1,0,"Answer: C
+Confidence: 100
+
+Explanation:
+First, calculate the total cost"
+microsoft/Phi-3.5-mini-instruct,yor,4,elementary_mathematics,1,1.0,1.0,1,1,"Answer: B
+Confidence: 100
+
+Explanation: The equation given in option B,"
+microsoft/Phi-3.5-mini-instruct,yor,5,elementary_mathematics,2,1.0,1.0,1,0,"Answer: B
+Confidence: 100
+
+Explanation:
+First, solve the expressions inside"
+microsoft/Phi-3.5-mini-instruct,yor,6,elementary_mathematics,2,1.0,1.0,1,0,"Answer: B. 11 lórí 11
+Confidence: 100"
+microsoft/Phi-3.5-mini-instruct,yor,7,elementary_mathematics,1,1.0,1.0,1,1,"Answer: B
+Confidence: 100
+
+Explanation: When dividing 2.1"
+microsoft/Phi-3.5-mini-instruct,yor,8,elementary_mathematics,3,0.0,1.0,1,0,"Answer: A. 159.26
+Confidence: 100"
+microsoft/Phi-3.5-mini-instruct,yor,9,elementary_mathematics,3,2.0,1.0,1,0,"Answer: C. 10.0571
+Confidence: 100"
+microsoft/Phi-3.5-mini-instruct,yor,10,elementary_mathematics,2,1.0,0.95,1,0,"Answer: B
+Confidence: 95
+
+Explanation:
+The question asks for the sum of"
+microsoft/Phi-3.5-mini-instruct,yor,11,elementary_mathematics,3,2.0,1.0,1,0,"Answer: C
+Confidence: 100
+
+Explanation: The question asks for the result of"
+microsoft/Phi-3.5-mini-instruct,yor,12,elementary_mathematics,0,2.0,1.0,1,0,"Answer: C
+Confidence: 100
+
+Explanation:
+Maddie initially has "
+microsoft/Phi-3.5-mini-instruct,yor,13,elementary_mathematics,0,0.0,1.0,1,1,"Answer: A
+Confidence: 100
+
+Explanation: To solve this, we first convert"
+microsoft/Phi-3.5-mini-instruct,yor,14,elementary_mathematics,2,1.0,0.95,1,0,"Answer: B
+Confidence: 95
+
+I chose option B because it provides a clear and reasonable amount"
+microsoft/Phi-3.5-mini-instruct,yor,15,elementary_mathematics,1,1.0,1.0,1,1,"Answer: B
+Confidence: 100
+
+Explanation:
+Dídún ọk"
+microsoft/Phi-3.5-mini-instruct,yor,16,elementary_mathematics,1,2.0,1.0,1,0,"Answer: C. 25
+Confidence: 100"
+microsoft/Phi-3.5-mini-instruct,yor,17,elementary_mathematics,1,1.0,1.0,1,1,"Answer: B
+Confidence: 100
+
+Explanation: The question asks for the number of"
+microsoft/Phi-3.5-mini-instruct,yor,18,elementary_mathematics,3,2.0,1.0,1,0,"Answer: C
+Confidence: 100
+
+Explanation: If one unit of the measurement is"
+microsoft/Phi-3.5-mini-instruct,yor,19,elementary_mathematics,0,2.0,1.0,1,0,"Answer: C
+Confidence: 100
+
+Explanation:
+First, calculate the expression inside"
+microsoft/Phi-3.5-mini-instruct,yor,20,elementary_mathematics,2,1.0,1.0,1,0,"Answer: B
+Confidence: 100
+
+Explanation:
+First, follow the order of"
+microsoft/Phi-3.5-mini-instruct,yor,21,elementary_mathematics,1,1.0,0.95,1,1,"Answer: B
+Confidence: 95
+
+Explanation:
+If 400 people were"
+microsoft/Phi-3.5-mini-instruct,yor,22,elementary_mathematics,0,0.0,1.0,1,1,"Answer: A
+Confidence: 100"
+microsoft/Phi-3.5-mini-instruct,yor,23,elementary_mathematics,2,1.0,1.0,1,0,"Answer: B
+Confidence: 100
+
+Explanation: To find the total number of people"
+microsoft/Phi-3.5-mini-instruct,yor,24,elementary_mathematics,1,2.0,1.0,1,0,"Answer: C. 3.7
+Confidence: 100"
+microsoft/Phi-3.5-mini-instruct,yor,25,elementary_mathematics,0,1.0,1.0,1,0,"Answer: B. 3.2
+Confidence: 100"
+microsoft/Phi-3.5-mini-instruct,yor,26,elementary_mathematics,3,2.0,1.0,1,0,"Answer: C. 4.56
+Confidence: 100"
+microsoft/Phi-3.5-mini-instruct,yor,27,elementary_mathematics,3,0.0,1.0,1,0,"Answer: A
+Confidence: 100
+
+Explanation: When dividing 2,3"
+microsoft/Phi-3.5-mini-instruct,yor,28,elementary_mathematics,0,1.0,1.0,1,0,"Answer: B. 5d+ 100
+Confidence: 100"
+microsoft/Phi-3.5-mini-instruct,yor,29,elementary_mathematics,0,1.0,0.95,1,0,"Answer: B. t lórí 4
+Confidence: 95
+
+Explanation: The"
+microsoft/Phi-3.5-mini-instruct,yor,30,elementary_mathematics,1,1.0,1.0,1,1,"Answer: B. 462,017
+Confidence: 100
+
+Explan"
+microsoft/Phi-3.5-mini-instruct,yor,31,elementary_mathematics,1,1.0,0.1,1,1,"Answer: B. 15 ṣẹ́kù 3
+Confidence: 10"
+microsoft/Phi-3.5-mini-instruct,yor,32,elementary_mathematics,0,2.0,1.0,1,0,"Answer: C. 17 lórí 4
+Confidence: 100"
+microsoft/Phi-3.5-mini-instruct,yor,33,elementary_mathematics,2,0.0,,0,0,"Answer: A. 200,000 + 7,000 + 200"
+microsoft/Phi-3.5-mini-instruct,yor,34,elementary_mathematics,3,1.0,1.0,1,0,"Answer: B
+Confidence: 100
+
+Explanation:
+The question implies a multiplication operation"
+microsoft/Phi-3.5-mini-instruct,yor,35,elementary_mathematics,0,3.0,,0,0,"Answer: D. agbede-méjì náà máa dínkù.
+Confidence:"
+microsoft/Phi-3.5-mini-instruct,yor,36,elementary_mathematics,0,2.0,1.0,1,0,"Answer: C
+Confidence: 100
+
+Explanation:
+First, substitute n = "
+microsoft/Phi-3.5-mini-instruct,yor,37,elementary_mathematics,3,1.0,1.0,1,0,"Answer: B. p+3
+Confidence: 100"
+microsoft/Phi-3.5-mini-instruct,yor,38,elementary_mathematics,2,2.0,1.0,1,1,"Answer: C. (6 × 5) × 10^2
+Confidence: 100"
+microsoft/Phi-3.5-mini-instruct,yor,39,elementary_mathematics,2,1.0,1.0,1,0,"Answer: B. 3
+Confidence: 100
+
+Explanation: To solve for c"
+microsoft/Phi-3.5-mini-instruct,yor,40,elementary_mathematics,1,1.0,1.0,1,1,"Answer: B. 2000 −150x
+Confidence: 100"
+microsoft/Phi-3.5-mini-instruct,yor,41,elementary_mathematics,3,0.0,1.0,1,0,"Answer: A
+Confidence: 100
+
+Explanation: Since the highest value given for the"
+microsoft/Phi-3.5-mini-instruct,yor,42,elementary_mathematics,0,1.0,1.0,1,0,"Answer: B
+Confidence: 100
+
+Explanation: The question asks for the result of"
+microsoft/Phi-3.5-mini-instruct,yor,43,elementary_mathematics,2,2.0,1.0,1,1,"Answer: C
+Confidence: 100
+
+Explanation:
+First, solve the expression inside"
+microsoft/Phi-3.5-mini-instruct,yor,44,elementary_mathematics,3,1.0,0.95,1,0,"Answer: B. 15, 19
+Confidence: 95
+
+Explanation:"
+microsoft/Phi-3.5-mini-instruct,yor,45,elementary_mathematics,1,1.0,1.0,1,1,"Answer: B. agolo 12
+Confidence: 100
+
+Explanation:
+"
+microsoft/Phi-3.5-mini-instruct,yor,46,elementary_mathematics,3,3.0,1.0,1,1,"Answer: D
+Confidence: 100
+
+The question seems to be asking for the correct order of"
+microsoft/Phi-3.5-mini-instruct,yor,47,elementary_mathematics,2,1.0,1.0,1,0,"Answer: B
+Confidence: 100"
+microsoft/Phi-3.5-mini-instruct,yor,48,elementary_mathematics,3,2.0,1.0,1,0,"Answer: C. 836,000
+Confidence: 100
+
+The question"
+microsoft/Phi-3.5-mini-instruct,yor,49,elementary_mathematics,3,3.0,1.0,1,1,"Answer: D
+Confidence: 100"
+microsoft/Phi-3.5-mini-instruct,yor,50,elementary_mathematics,0,2.0,0.95,1,0,"Answer: C. ẹyẹ 42
+Confidence: 95
+
+"
+microsoft/Phi-3.5-mini-instruct,yor,51,elementary_mathematics,1,2.0,1.0,1,0,"Answer: C. 131
+Confidence: 100
+
+Explanation:
+First"
+microsoft/Phi-3.5-mini-instruct,yor,52,elementary_mathematics,1,3.0,0.95,1,0,"Answer: D
+Confidence: 95
+
+Explanation: The question is asking about dividing "
+microsoft/Phi-3.5-mini-instruct,yor,53,elementary_mathematics,0,2.0,1.0,1,0,"Answer: C. 26 máìlì
+Confidence: 100
+
+Explanation"
+microsoft/Phi-3.5-mini-instruct,yor,54,elementary_mathematics,1,2.0,,0,0,Answer: C. ṣe ìsọdipúpọ̀ ẹ̀gb�
+microsoft/Phi-3.5-mini-instruct,yor,55,elementary_mathematics,0,2.0,1.0,1,0,"Answer: C
+Confidence: 100"
+microsoft/Phi-3.5-mini-instruct,yor,56,elementary_mathematics,3,2.0,,0,0,"Answer: C. 84 − t = 11; 73°F
+Confidence: "
+microsoft/Phi-3.5-mini-instruct,yor,57,elementary_mathematics,0,1.0,1.0,1,0,"Answer: B
+Confidence: 100
+
+Explanation: The question asks for the result when"
+microsoft/Phi-3.5-mini-instruct,yor,58,elementary_mathematics,3,2.0,1.0,1,0,"Answer: C. 5 páálí
+Confidence: 100"
+microsoft/Phi-3.5-mini-instruct,yor,59,elementary_mathematics,1,0.0,1.0,1,0,"Answer: A
+Confidence: 100
+
+Explanation: The question asks for the sum of"
+microsoft/Phi-3.5-mini-instruct,yor,60,elementary_mathematics,3,2.0,1.0,1,0,"Answer: C. 14 lórí 28
+Confidence: 100"
+microsoft/Phi-3.5-mini-instruct,yor,61,elementary_mathematics,1,1.0,0.85,1,1,"Answer: B
+Confidence: 85
+
+Based on the context of the question, which seems to"
+microsoft/Phi-3.5-mini-instruct,yor,62,elementary_mathematics,2,2.0,,0,0,"Answer: C. ìtiraẹnisókè 1,395
+Confidence:"
+microsoft/Phi-3.5-mini-instruct,yor,63,elementary_mathematics,2,2.0,1.0,1,1,"Answer: C. 10 àti 12
+Confidence: 100"
+microsoft/Phi-3.5-mini-instruct,yor,64,elementary_mathematics,3,0.0,1.0,1,0,"Answer: A
+Confidence: 100
+
+Explanation:
+First, substitute x = "
+microsoft/Phi-3.5-mini-instruct,yor,65,elementary_mathematics,2,1.0,1.0,1,0,"Answer: B
+Confidence: 100
+
+Explanation:
+If kálórì has"
+microsoft/Phi-3.5-mini-instruct,yor,66,elementary_mathematics,3,2.0,1.0,1,0,"Answer: C. 750 àti 1,000
+Confidence: 100"
+microsoft/Phi-3.5-mini-instruct,yor,67,elementary_mathematics,0,2.0,1.0,1,0,"Answer: C
+Confidence: 100
+
+Explanation:
+Arákùnrin K"
+microsoft/Phi-3.5-mini-instruct,yor,68,elementary_mathematics,2,2.0,0.01,1,1,"Answer: C. 1,800 àti 2,800
+Confidence: 1"
+microsoft/Phi-3.5-mini-instruct,yor,69,elementary_mathematics,3,2.0,1.0,1,0,"Answer: C
+Confidence: 100
+
+Explanation: The question seems to be asking for"
+microsoft/Phi-3.5-mini-instruct,yor,70,elementary_mathematics,2,1.0,1.0,1,0,"Answer: B
+Confidence: 100
+
+Explanation:
+First, calculate the total cost"
+microsoft/Phi-3.5-mini-instruct,yor,71,elementary_mathematics,0,2.0,1.0,1,0,"Answer: C. 320
+Confidence: 100"
+microsoft/Phi-3.5-mini-instruct,yor,72,elementary_mathematics,1,1.0,1.0,1,1,"Answer: B. 0.21 àṣetúnṣe
+Confidence: 100"
+microsoft/Phi-3.5-mini-instruct,yor,73,elementary_mathematics,2,1.0,1.0,1,0,"Answer: B
+Confidence: 100
+
+Explanation: The question asks for the total cost"
+microsoft/Phi-3.5-mini-instruct,yor,74,elementary_mathematics,1,1.0,1.0,1,1,"Answer: B. $6,049
+Confidence: 100"
+microsoft/Phi-3.5-mini-instruct,yor,75,elementary_mathematics,3,2.0,0.95,1,0,"Answer: C. SSSSSSSS; AAAA
+Confidence: 95
+
+Explan"
+microsoft/Phi-3.5-mini-instruct,yor,76,elementary_mathematics,0,0.0,1.0,1,1,"Answer: A
+Confidence: 100
+
+Explanation: To find the total cost, multiply"
+microsoft/Phi-3.5-mini-instruct,yor,77,elementary_mathematics,3,1.0,1.0,1,0,"Answer: B. 10 lórí 12
+Confidence: 100
+
+Ex"
+microsoft/Phi-3.5-mini-instruct,yor,78,elementary_mathematics,3,2.0,0.95,1,0,"Answer: C. 2 lórí 12
+Confidence: 95
+
+Explanation"
+microsoft/Phi-3.5-mini-instruct,yor,79,elementary_mathematics,0,2.0,0.95,1,0,"Answer: C. ìwé 10,000
+Confidence: 95
+
+"
+microsoft/Phi-3.5-mini-instruct,yor,80,elementary_mathematics,1,2.0,1.0,1,0,"Answer: C
+Confidence: 100
+
+Explanation:
+The question seems to be asking"
+microsoft/Phi-3.5-mini-instruct,yor,81,elementary_mathematics,0,0.0,1.0,1,1,"Answer: A
+Confidence: 100"
+microsoft/Phi-3.5-mini-instruct,yor,82,elementary_mathematics,3,0.0,1.0,1,0,"Answer: A
+Confidence: 100
+
+Explanation: To find the value of n,"
+microsoft/Phi-3.5-mini-instruct,yor,83,elementary_mathematics,2,2.0,1.0,1,1,"Answer: C. 24 lórí 5
+Confidence: 100"
+microsoft/Phi-3.5-mini-instruct,yor,84,elementary_mathematics,1,1.0,0.95,1,1,"Answer: B. m = e/6
+Confidence: 95
+
+The question seems to be about"
+microsoft/Phi-3.5-mini-instruct,yor,85,elementary_mathematics,3,2.0,1.0,1,0,"Answer: C
+Confidence: 100
+
+Explanation:
+First, follow the order of"
+microsoft/Phi-3.5-mini-instruct,yor,86,elementary_mathematics,0,2.0,1.0,1,0,"Answer: C. 9.1
+Confidence: 100
+
+Explanation: To find"
+microsoft/Phi-3.5-mini-instruct,yor,87,elementary_mathematics,2,1.0,1.0,1,0,"Answer: B. 130°
+Confidence: 100%
+
+Explanation:"
+microsoft/Phi-3.5-mini-instruct,yor,88,elementary_mathematics,1,1.0,1.0,1,1,"Answer: B
+Confidence: 100
+
+Explanation:
+First, add the ì"
+microsoft/Phi-3.5-mini-instruct,yor,89,elementary_mathematics,1,0.0,1.0,1,0,"Answer: A
+Confidence: 100
+
+Explanation:
+To find the value of x"
+microsoft/Phi-3.5-mini-instruct,yor,90,elementary_mathematics,2,2.0,1.0,1,1,"Answer: C
+Confidence: 100"
+microsoft/Phi-3.5-mini-instruct,yor,91,elementary_mathematics,0,2.0,1.0,1,0,"Answer: C. 4:01
+Confidence: 100"
+microsoft/Phi-3.5-mini-instruct,yor,92,elementary_mathematics,1,1.0,1.0,1,1,"Answer: B
+Confidence: 100
+
+Explanation: The question asks for the result when"
+microsoft/Phi-3.5-mini-instruct,yor,93,elementary_mathematics,0,1.0,1.0,1,0,"Answer: B
+Confidence: 100
+
+Explanation:
+First, solve the expression inside"
+microsoft/Phi-3.5-mini-instruct,yor,94,elementary_mathematics,2,1.0,1.0,1,0,"Answer: B
+Confidence: 100
+
+Explanation: The question asks for the difference between"
+microsoft/Phi-3.5-mini-instruct,yor,95,elementary_mathematics,3,1.0,0.95,1,0,"Answer: B
+Confidence: 95
+
+Explanation:
+Ms. Gutierrez'"
+microsoft/Phi-3.5-mini-instruct,yor,96,elementary_mathematics,2,1.0,1.0,1,0,"Answer: B. $5,484
+Confidence: 100
+
+Explanation:"
+microsoft/Phi-3.5-mini-instruct,yor,97,elementary_mathematics,0,1.0,1.0,1,0,"Answer: B. 90
+Confidence: 100
+
+Explanation: There are "
+microsoft/Phi-3.5-mini-instruct,yor,98,elementary_mathematics,0,2.0,1.0,1,0,"Answer: C. 2.61
+Confidence: 100"
+microsoft/Phi-3.5-mini-instruct,yor,99,elementary_mathematics,2,1.0,0.95,1,0,"Answer: B
+Confidence: 95
+
+Explanation:
+First, we need to find the"
+microsoft/Phi-3.5-mini-instruct,yor,100,high_school_geography,1,1.0,,0,0,Answer: B. ohun amáyédẹrùn ìrìnkèr
+microsoft/Phi-3.5-mini-instruct,yor,101,high_school_geography,3,0.0,,0,0,Answer: A. ìdàgbàsókè ònkà ènìyàn 
+microsoft/Phi-3.5-mini-instruct,yor,102,high_school_geography,2,2.0,0.95,1,1,"Answer: C. àdínkù àjọṣepọ̀
+Confidence: 95
+"
+microsoft/Phi-3.5-mini-instruct,yor,103,high_school_geography,0,1.0,0.95,1,0,"Answer: B. Ẹ̀kejì
+Confidence: 95
+
+Explanation"
+microsoft/Phi-3.5-mini-instruct,yor,104,high_school_geography,3,1.0,,0,0,Answer: B. Ìdá àwọn obìnrin tí wọ́n ń
+microsoft/Phi-3.5-mini-instruct,yor,105,high_school_geography,3,2.0,,0,0,"Answer: C. ilé ẹ̀kọ́ tó dára.
+Confidence: "
+microsoft/Phi-3.5-mini-instruct,yor,106,high_school_geography,3,3.0,1.0,1,1,"Answer: D. Bolivia
+Confidence: 100"
+microsoft/Phi-3.5-mini-instruct,yor,107,high_school_geography,2,1.0,,0,0,"Answer: B. Ìṣípòrọpò ẹ̀yà kan
+Confidence"
+microsoft/Phi-3.5-mini-instruct,yor,108,high_school_geography,0,1.0,,0,0,"Answer: B. ọjọ́ ìsinmi orílẹ̀-ède
+Conf"
+microsoft/Phi-3.5-mini-instruct,yor,109,high_school_geography,3,2.0,,0,0,"Answer: C. Ìdàgbàsókè ìpèsè ǹkan
+Conf"
+microsoft/Phi-3.5-mini-instruct,yor,110,high_school_geography,0,2.0,0.95,1,0,"Answer: C
+Confidence: 95
+
+The question is asking for the correct translation of a Yor"
+microsoft/Phi-3.5-mini-instruct,yor,111,high_school_geography,1,0.0,,0,0,Answer: A. iye ọmọ bíbí nínú ẹgb��
+microsoft/Phi-3.5-mini-instruct,yor,112,high_school_geography,0,1.0,0.95,1,0,"Answer: B. Kirisitẹ́nítì
+Confidence: 95
+
+Ex"
+microsoft/Phi-3.5-mini-instruct,yor,113,high_school_geography,3,1.0,0.95,1,0,"Answer: B. òdiwọ̀n.
+Confidence: 95
+
+Explanation"
+microsoft/Phi-3.5-mini-instruct,yor,114,high_school_geography,1,2.0,,0,0,Answer: C. ìlú àárín gbùngbùn àti àwọn
+microsoft/Phi-3.5-mini-instruct,yor,115,high_school_geography,3,1.0,0.95,1,0,"Answer: B. Kirisitẹ́nítì
+Confidence: 95
+
+Ex"
+microsoft/Phi-3.5-mini-instruct,yor,116,high_school_geography,3,2.0,0.95,1,0,"Answer: C
+Confidence: 95
+
+The question asks which statement correctly describes the relationship between the houses"
+microsoft/Phi-3.5-mini-instruct,yor,117,high_school_geography,3,2.0,0.95,1,0,"Answer: C
+Confidence: 95
+
+Explanation: The question asks about the location of Ir"
+microsoft/Phi-3.5-mini-instruct,yor,118,high_school_geography,1,2.0,0.95,1,0,"Answer: C. CBD
+Confidence: 95
+
+Explanation: CBD stands for C"
+microsoft/Phi-3.5-mini-instruct,yor,119,high_school_geography,2,2.0,0.95,1,1,"Answer: C. ààyè kíkún.
+Confidence: 95
+
+I am fairly"
+microsoft/Phi-3.5-mini-instruct,yor,120,high_school_geography,2,2.0,,0,0,Answer: C. àjọṣepọ̀ àwọn orílẹ̀-è
+microsoft/Phi-3.5-mini-instruct,yor,121,high_school_geography,3,1.0,,0,0,Answer: B. gbogbo ònkà ènìyàn ni wọ́n n
+microsoft/Phi-3.5-mini-instruct,yor,122,high_school_geography,3,3.0,0.1,1,1,"Answer: D. Christianity àti Buddhism
+Confidence: 10%
+
+The confidence is low"
+microsoft/Phi-3.5-mini-instruct,yor,123,high_school_geography,3,1.0,,0,0,"Answer: B. Àwòṣe ààyè àárín gbùngbùn
+"
+microsoft/Phi-3.5-mini-instruct,yor,124,high_school_geography,1,1.0,,0,0,"Answer: B. ìjọba ẹlẹ́sìn
+Confidence"
+microsoft/Phi-3.5-mini-instruct,yor,125,high_school_geography,0,1.0,0.95,1,0,"Answer: B. Islam
+Confidence: 95
+
+Explanation: Yoruba people, who"
+microsoft/Phi-3.5-mini-instruct,yor,126,high_school_geography,1,1.0,,0,0,"Answer: B. British (English, Scotch-Irish, Welsh, Scottish)
+Confidence:"
+microsoft/Phi-3.5-mini-instruct,yor,127,high_school_geography,1,2.0,,0,0,"Answer: C. ipa ogun lórí ònkà ènìyàn.
+Conf"
+microsoft/Phi-3.5-mini-instruct,yor,128,high_school_geography,2,1.0,0.95,1,0,"Answer: B. Àtọwọ́dá
+Confidence: 95
+
+The Rhine"
+microsoft/Phi-3.5-mini-instruct,yor,129,high_school_geography,0,2.0,0.95,1,0,"Answer: C. Ẹ̀kẹ́ta
+Confidence: 95
+
+"
+microsoft/Phi-3.5-mini-instruct,yor,130,high_school_geography,0,1.0,0.95,1,0,"Answer: B. Ẹ̀kejì
+Confidence: 95
+
+I am confident"
+microsoft/Phi-3.5-mini-instruct,yor,131,high_school_geography,3,1.0,,0,0,Answer: B. àwọn òṣìṣẹ́ apèsè ìtọ
+microsoft/Phi-3.5-mini-instruct,yor,132,high_school_geography,2,1.0,0.9,1,0,"Answer: B
+Confidence: 90
+
+I chose option B because it directly addresses the action of people"
+microsoft/Phi-3.5-mini-instruct,yor,133,high_school_geography,3,1.0,,0,0,Answer: B. ìjẹgàbá àwọn ìdàg�
+microsoft/Phi-3.5-mini-instruct,yor,134,high_school_geography,1,1.0,0.95,1,1,"Answer: B. Japan
+Confidence: 95
+
+The question is asking about a country known for its"
+microsoft/Phi-3.5-mini-instruct,yor,135,high_school_geography,2,2.0,0.85,1,1,"Answer: C
+Confidence: 85
+
+I chose option C because it directly addresses the geographical and"
+microsoft/Phi-3.5-mini-instruct,yor,136,high_school_geography,2,1.0,0.95,1,0,"Answer: B. Bombay
+Confidence: 95
+
+Explanation: The phrase ""T�"
+microsoft/Phi-3.5-mini-instruct,yor,137,high_school_geography,2,2.0,,0,0,"Answer: C. Ọ̀nfà àárín gbùngbùn
+Conf"
+microsoft/Phi-3.5-mini-instruct,yor,138,high_school_geography,3,2.0,,0,0,Answer: C. Àwòrán ìlà tó ń ṣàfihàn àw
+microsoft/Phi-3.5-mini-instruct,yor,139,high_school_geography,3,2.0,,0,0,Answer: C. Àjọ tó ń rí sí Káràkátà Lágbà
+microsoft/Phi-3.5-mini-instruct,yor,140,high_school_geography,0,0.0,,0,0,"Answer: A. ìfẹ́ orílẹ̀-èdè.
+"
+microsoft/Phi-3.5-mini-instruct,yor,141,high_school_geography,1,2.0,0.95,1,0,"Answer: C. ìbádọ́gba.
+Confidence: 95
+
+I am"
+microsoft/Phi-3.5-mini-instruct,yor,142,high_school_geography,1,2.0,0.95,1,0,"Answer: C. Agbàwòrán oní kóónù
+Confidence: 95"
+microsoft/Phi-3.5-mini-instruct,yor,143,high_school_geography,1,2.0,0.95,1,0,"Answer: C. Ilé ìtàjà bàtà
+Confidence: 95
+
+I"
+microsoft/Phi-3.5-mini-instruct,yor,144,high_school_geography,3,1.0,0.95,1,0,"Answer: B. Ravenstein
+Confidence: 95
+
+Ravenstein's Laws of"
+microsoft/Phi-3.5-mini-instruct,yor,145,high_school_geography,3,1.0,0.95,1,0,"Answer: B. ilẹ̀ àgbáyé.
+Confidence: 95
+
+"
+microsoft/Phi-3.5-mini-instruct,yor,146,high_school_geography,0,0.0,0.95,1,1,"Answer: A
+Confidence: 95
+
+Explanation: The question appears to be in Yor"
+microsoft/Phi-3.5-mini-instruct,yor,147,high_school_geography,0,2.0,0.95,1,0,"Answer: C. ààlà tí ò sí mọ́.
+Confidence: 95
+"
+microsoft/Phi-3.5-mini-instruct,yor,148,high_school_geography,3,1.0,,0,0,Answer: B. òṣìṣẹ́ ilà-títò àwọn 
+microsoft/Phi-3.5-mini-instruct,yor,149,high_school_geography,1,1.0,0.95,1,1,"Answer: B. Amazon Basin
+Confidence: 95
+
+The Amazon Basin is known for its"
+microsoft/Phi-3.5-mini-instruct,yor,150,high_school_geography,0,0.0,,0,0,Answer: A. Ìyapa ẹ̀sìn àti orílẹ
+microsoft/Phi-3.5-mini-instruct,yor,151,high_school_geography,3,2.0,0.95,1,0,"Answer: C. ààyè mímọ̀
+Confidence: 95
+
+I am fairly"
+microsoft/Phi-3.5-mini-instruct,yor,152,high_school_geography,1,0.0,0.95,1,0,"Answer: A
+Confidence: 95
+
+Explanation: The question asks about the ethnic groups"
+microsoft/Phi-3.5-mini-instruct,yor,153,high_school_geography,2,1.0,,0,0,Answer: B. Iṣẹ́ wà fún ọ̀pọ̀ àwọn
+microsoft/Phi-3.5-mini-instruct,yor,154,high_school_geography,3,3.0,0.95,1,1,"Answer: D. Mongolia
+Confidence: 95
+
+Explanation: Oríl��"
+microsoft/Phi-3.5-mini-instruct,yor,155,high_school_geography,2,1.0,0.95,1,0,"Answer: B. Ẹ̀kejì
+Confidence: 95
+
+Explanation"
+microsoft/Phi-3.5-mini-instruct,yor,156,high_school_geography,0,1.0,0.95,1,0,"Answer: B. Ravenstein
+Confidence: 95
+
+Ravenstein's Laws of"
+microsoft/Phi-3.5-mini-instruct,yor,157,high_school_geography,3,3.0,,0,0,Answer: D. àwọn ará ìlú tó farabalẹ̀ t
+microsoft/Phi-3.5-mini-instruct,yor,158,high_school_geography,3,1.0,,0,0,Answer: B. àwọn olùgbé tuntun ń gbé ní àlà
+microsoft/Phi-3.5-mini-instruct,yor,159,high_school_geography,0,2.0,,0,0,Answer: C. Máàpù tó ń ṣàfihàn ọgọ́
+microsoft/Phi-3.5-mini-instruct,yor,160,high_school_geography,3,1.0,0.95,1,0,"Answer: B. àdínkù àjọṣepọ̀
+Confidence: 95
+"
+microsoft/Phi-3.5-mini-instruct,yor,161,high_school_geography,1,2.0,,0,0,Answer: C. Ìjàngbara Iṣẹ́ Àgbẹ̀ k��
+microsoft/Phi-3.5-mini-instruct,yor,162,high_school_geography,2,1.0,0.95,1,0,"Answer: B
+Confidence: 95
+
+Explanation: The question asks about the countries in East"
+microsoft/Phi-3.5-mini-instruct,yor,163,high_school_geography,3,1.0,,0,0,Answer: B. Àwọn orílẹ̀-èdè tó j��
+microsoft/Phi-3.5-mini-instruct,yor,164,high_school_geography,1,2.0,,0,0,"Answer: C. Àwọn ọjà agbègbè Winn-Dixie
+Conf"
+microsoft/Phi-3.5-mini-instruct,yor,165,high_school_geography,2,2.0,0.95,1,1,"Answer: C. àkójọpọ̀
+Confidence: 95
+
+I am confident in"
+microsoft/Phi-3.5-mini-instruct,yor,166,high_school_geography,3,0.0,1.0,1,0,"Answer: A. European
+Confidence: 100"
+microsoft/Phi-3.5-mini-instruct,yor,167,high_school_geography,1,2.0,,0,0,Answer: C. àwọn olú ìlú àwọn agbègbè 
+microsoft/Phi-3.5-mini-instruct,yor,168,high_school_geography,2,1.0,,0,0,Answer: B. Oúnjẹ ilẹ̀ òkèèrè tí
+microsoft/Phi-3.5-mini-instruct,yor,169,high_school_geography,2,2.0,,0,0,Answer: C. tíọ́rì gbùngbùn orílẹ̀
+microsoft/Phi-3.5-mini-instruct,yor,170,high_school_geography,1,3.0,0.95,1,0,"Answer: D. Àwọn àìfọwọ́kàn
+Confidence: 95"
+microsoft/Phi-3.5-mini-instruct,yor,171,high_school_geography,0,2.0,0.95,1,0,"Answer: C
+Confidence: 95
+
+The sentence structure in option C is the most coherent"
+microsoft/Phi-3.5-mini-instruct,yor,172,high_school_geography,3,2.0,0.95,1,0,"Answer: C. Àtáórá.
+Confidence: 95
+
+The term ""Àt"
+microsoft/Phi-3.5-mini-instruct,yor,173,high_school_geography,2,2.0,,0,0,Answer: C. ojúde àárín gbùngbùn tó tóbi t
+microsoft/Phi-3.5-mini-instruct,yor,174,high_school_geography,2,1.0,0.9,1,0,"Answer: B. Russia
+Confidence: 90
+
+Explanation: The question is asking about a"
+microsoft/Phi-3.5-mini-instruct,yor,175,high_school_geography,1,1.0,0.95,1,1,"Answer: B. Ohun mímu ọsàn onígò
+Confidence: 95
+"
+microsoft/Phi-3.5-mini-instruct,yor,176,high_school_geography,3,1.0,,0,0,Answer: B. Àwọn ohun èlò ìmúṣiṣẹ́
+microsoft/Phi-3.5-mini-instruct,yor,177,high_school_geography,3,1.0,,0,0,"Answer: B. Mímọ̀ nílẹ̀ òkèèrè
+Conf"
+microsoft/Phi-3.5-mini-instruct,yor,178,high_school_geography,0,1.0,0.95,1,0,"Answer: B. àdínkù àjọṣepọ̀
+Confidence: 95
+"
+microsoft/Phi-3.5-mini-instruct,yor,179,high_school_geography,3,1.0,0.95,1,0,"Answer: B. ìlú ńlá.
+Confidence: 95
+
+Explanation"
+microsoft/Phi-3.5-mini-instruct,yor,180,high_school_geography,0,2.0,0.95,1,0,"Answer: C. Bálì
+Confidence: 95
+
+I am confident in this answer because B"
+microsoft/Phi-3.5-mini-instruct,yor,181,high_school_geography,1,3.0,,0,0,Answer: D. Gbígba oríṣiríṣi orílẹ̀-
+microsoft/Phi-3.5-mini-instruct,yor,182,high_school_geography,1,2.0,0.95,1,0,"Answer: C. Ọkọ̀ ojú omi
+Confidence: 95
+"
+microsoft/Phi-3.5-mini-instruct,yor,183,high_school_geography,2,2.0,0.01,1,1,"Answer: C. Agbègbè ọjà Winn-Dixie
+Confidence: 1"
+microsoft/Phi-3.5-mini-instruct,yor,184,high_school_geography,3,2.0,,0,0,Answer: C. àwọn ọmọ ìhà ìsàlẹ
+microsoft/Phi-3.5-mini-instruct,yor,185,high_school_geography,2,2.0,0.95,1,1,"Answer: C. Indo-European
+Confidence: 95
+
+The Yoruba language,"
+microsoft/Phi-3.5-mini-instruct,yor,186,high_school_geography,1,2.0,0.95,1,0,"Answer: C
+Confidence: 95
+
+The question is asking about the relationship between the people who are"
+microsoft/Phi-3.5-mini-instruct,yor,187,high_school_geography,3,2.0,0.9,1,0,"Answer: C
+Confidence: 90
+
+Explanation: The question asks about the location of a"
+microsoft/Phi-3.5-mini-instruct,yor,188,high_school_geography,2,2.0,0.95,1,1,"Answer: C. Wíwa bàbà
+Confidence: 95
+
+I am confident in"
+microsoft/Phi-3.5-mini-instruct,yor,189,high_school_geography,2,0.0,,0,0,Answer: A. Wọ́n ń kọjá ní ẹnu ibod
+microsoft/Phi-3.5-mini-instruct,yor,190,high_school_geography,2,1.0,1.0,1,0,"Answer: B. American Samoa
+Confidence: 100
+
+American Samoa is a U."
+microsoft/Phi-3.5-mini-instruct,yor,191,high_school_geography,3,1.0,1.0,1,0,"Answer: B. Epo
+Confidence: 100
+
+Explanation: The question is asking"
+microsoft/Phi-3.5-mini-instruct,yor,192,high_school_geography,2,2.0,0.95,1,1,"Answer: C. àìnígbàgbọ́.
+Confidence: 95
+
+The question"
+microsoft/Phi-3.5-mini-instruct,yor,193,high_school_geography,2,1.0,0.95,1,0,"Answer: B. Òṣìṣẹ́
+Confidence: 95
+
+Explan"
+microsoft/Phi-3.5-mini-instruct,yor,194,high_school_geography,3,1.0,0.95,1,0,"Answer: B. ìlú olórí àgbáyé.
+Confidence: 95"
+microsoft/Phi-3.5-mini-instruct,yor,195,high_school_geography,3,2.0,,0,0,Answer: C. Àwọn orílẹ̀-èdè lè ṣà
+microsoft/Phi-3.5-mini-instruct,yor,196,high_school_geography,3,1.0,,0,0,Answer: B. Àwùjọ tó ní ẹ̀ka iṣẹ
+microsoft/Phi-3.5-mini-instruct,yor,197,high_school_geography,3,2.0,0.95,1,0,"Answer: C. ààlà àtọwọ́dá.
+Confidence: 95
+"
+microsoft/Phi-3.5-mini-instruct,yor,198,high_school_geography,1,2.0,,0,0,Answer: C. Gbogbo ààyè tó wà ní ojú ọ̀
+microsoft/Phi-3.5-mini-instruct,yor,199,high_school_geography,2,2.0,0.95,1,1,"Answer: C. ilà ìbú àgbáyé.
+Confidence: 95
+"
+microsoft/Phi-3.5-mini-instruct,yor,200,international_law,1,1.0,,0,0,Answer: B. Ìpínlẹ̀ ìforúkọsíl��
+microsoft/Phi-3.5-mini-instruct,yor,201,international_law,2,2.0,,0,0,Answer: C. R2P ń wáyé láìnídìí díẹ̀
+microsoft/Phi-3.5-mini-instruct,yor,202,international_law,0,1.0,0.95,1,0,"Answer: B
+Confidence: 95
+
+The passage in option B directly mentions ""ìpìl"
+microsoft/Phi-3.5-mini-instruct,yor,203,international_law,2,1.0,,0,0,Answer: B. Ìwé òfin UK fún ilé ẹjọ́ n
+microsoft/Phi-3.5-mini-instruct,yor,204,international_law,1,1.0,0.95,1,1,"Answer: B
+Confidence: 95
+
+The option B is the most coherent and directly addresses"
+microsoft/Phi-3.5-mini-instruct,yor,205,international_law,2,2.0,0.95,1,1,"Answer: C
+Confidence: 95
+
+The question seems to be in Yoruba, and it"
+microsoft/Phi-3.5-mini-instruct,yor,206,international_law,2,2.0,0.95,1,1,"Answer: C
+Confidence: 95
+
+The question is asking which option correctly describes the rights of fish"
+microsoft/Phi-3.5-mini-instruct,yor,207,international_law,1,1.0,0.95,1,1,"Answer: B
+Confidence: 95
+
+Explanation: Option B is the most relevant to the"
+microsoft/Phi-3.5-mini-instruct,yor,208,international_law,0,1.0,,0,0,Answer: B. Ìgbìmọ̀ UN tó ń rí sí Ẹ̀
+microsoft/Phi-3.5-mini-instruct,yor,209,international_law,2,2.0,0.95,1,1,"Answer: C
+Confidence: 95
+
+Explanation: The question seems to be asking about a"
+microsoft/Phi-3.5-mini-instruct,yor,210,international_law,1,1.0,,0,0,Answer: B. Olórí orísun ìmúnitì fún IO ni àdéh
+microsoft/Phi-3.5-mini-instruct,yor,211,international_law,2,2.0,0.95,1,1,"Answer: C
+Confidence: 95
+
+The question is asking about the United Nations Charter, which"
+microsoft/Phi-3.5-mini-instruct,yor,212,international_law,1,1.0,,0,0,Answer: B. Ìdánimọ̀ ní ṣókí ni ìkéde jí
+microsoft/Phi-3.5-mini-instruct,yor,213,international_law,2,1.0,,0,0,Answer: B. Ìṣètò-ojúlówó túmọ̀ kan jẹ
+microsoft/Phi-3.5-mini-instruct,yor,214,international_law,0,1.0,,0,0,Answer: B. Ìdájọ́ Kadi gba pé gbogbo àwọn 
+microsoft/Phi-3.5-mini-instruct,yor,215,international_law,1,1.0,0.95,1,1,"Answer: B
+Confidence: 95
+
+The Magna Carta was sealed by King John of"
+microsoft/Phi-3.5-mini-instruct,yor,216,international_law,0,1.0,,0,0,Answer: B. Àwọn ènìyàn gbádùn àìníye ì
+microsoft/Phi-3.5-mini-instruct,yor,217,international_law,2,0.0,0.95,1,0,"Answer: A
+Confidence: 95
+
+The option A is the most coherent and contextually"
+microsoft/Phi-3.5-mini-instruct,yor,218,international_law,3,2.0,0.95,1,0,"Answer: C
+Confidence: 95
+
+The option C is the most coherent and contextually"
+microsoft/Phi-3.5-mini-instruct,yor,219,international_law,2,2.0,0.95,1,1,"Answer: C
+Confidence: 95
+
+The question is asking about the actions of Ipinnle"
+microsoft/Phi-3.5-mini-instruct,yor,220,international_law,2,2.0,,0,0,"Answer: C. Ìdájọ́ jẹ́ agbègbè lásán
+"
+microsoft/Phi-3.5-mini-instruct,yor,221,international_law,2,3.0,0.95,1,0,"Answer: D
+Confidence: 95
+
+Explanation: The question asks about the location of the"
+microsoft/Phi-3.5-mini-instruct,yor,222,international_law,1,1.0,0.95,1,1,"Answer: B
+Confidence: 95
+
+The question asks about the process of naming a child after a"
+microsoft/Phi-3.5-mini-instruct,yor,223,international_law,2,2.0,0.95,1,1,"Answer: C
+Confidence: 95
+
+The option C is the most relevant and coherent response"
+microsoft/Phi-3.5-mini-instruct,yor,224,international_law,0,2.0,,0,0,Answer: C. Ìpínlẹ̀ gbọ́dọ̀ gbé à
+microsoft/Phi-3.5-mini-instruct,yor,225,international_law,2,2.0,0.95,1,1,"Answer: C
+Confidence: 95
+
+The option C provides a detailed context about the ICJ and"
+microsoft/Phi-3.5-mini-instruct,yor,226,international_law,2,3.0,0.95,1,0,"Answer: D
+Confidence: 95
+
+Explanation: The question asks about the location of the"
+microsoft/Phi-3.5-mini-instruct,yor,227,international_law,0,2.0,0.95,1,0,"Answer: C
+Confidence: 95
+
+The option C is the most coherent and grammatically"
+microsoft/Phi-3.5-mini-instruct,yor,228,international_law,1,3.0,0.95,1,0,"Answer: D
+Confidence: 95
+
+The question asks about the Vienna Convention on the Law of Tre"
+microsoft/Phi-3.5-mini-instruct,yor,229,international_law,2,1.0,0.95,1,0,"Answer: B
+Confidence: 95
+
+The sentence structure and context suggest that option B is the correct"
+microsoft/Phi-3.5-mini-instruct,yor,230,international_law,2,2.0,,0,0,Answer: C. Àjọ náà bèrè fún ìfọkànsìn
+microsoft/Phi-3.5-mini-instruct,yor,231,international_law,0,1.0,0.95,1,0,"Answer: B
+Confidence: 95
+
+Explanation: Option B is the most straightforward and directly"
+microsoft/Phi-3.5-mini-instruct,yor,232,international_law,0,2.0,0.95,1,0,"Answer: C
+Confidence: 95
+
+The question asks about the actions of Ìpínl"
+microsoft/Phi-3.5-mini-instruct,yor,233,international_law,3,0.0,0.95,1,0,"Answer: A
+Confidence: 95
+
+The question is asking which statement best describes the role of the"
+microsoft/Phi-3.5-mini-instruct,yor,234,international_law,2,2.0,0.95,1,1,"Answer: C
+Confidence: 95
+
+The question is asking about the relationship between the people who are"
+microsoft/Phi-3.5-mini-instruct,yor,235,international_law,0,2.0,0.95,1,0,"Answer: C. Abala òfin 9
+Confidence: 95
+
+I am fairly confident"
+microsoft/Phi-3.5-mini-instruct,yor,236,international_law,0,0.0,0.95,1,1,"Answer: A
+Confidence: 95
+
+Explanation: The question asks about the action of checking"
+microsoft/Phi-3.5-mini-instruct,yor,237,international_law,3,1.0,,0,0,Answer: B. Ìpinnu 678 ṣe tóóró ju ��
+microsoft/Phi-3.5-mini-instruct,yor,238,international_law,2,1.0,0.95,1,0,"Answer: B
+Confidence: 95
+
+Explanation: The question is asking which option best describes"
+microsoft/Phi-3.5-mini-instruct,yor,239,international_law,2,2.0,0.95,1,1,"Answer: C
+Confidence: 95
+
+Explanation: The question asks which statement best describes K"
+microsoft/Phi-3.5-mini-instruct,yor,240,international_law,2,2.0,0.95,1,1,"Answer: C
+Confidence: 95
+
+Explanation: The question asks about the location of "
+microsoft/Phi-3.5-mini-instruct,yor,241,international_law,1,1.0,0.95,1,1,"Answer: B
+Confidence: 95
+
+The question asks for the correct translation of ""Kínni"
+microsoft/Phi-3.5-mini-instruct,yor,242,international_law,1,1.0,0.95,1,1,"Answer: B
+Confidence: 95
+
+Explanation: The question asks which option best describes the"
+microsoft/Phi-3.5-mini-instruct,yor,243,international_law,3,1.0,,0,0,Answer: B. Àwọn ìwà ọ̀daràn àṣà gbọ́
+microsoft/Phi-3.5-mini-instruct,yor,244,international_law,2,2.0,0.95,1,1,"Answer: C
+Confidence: 95
+
+The option C is the most coherent and grammatically"
+microsoft/Phi-3.5-mini-instruct,yor,245,international_law,3,2.0,,0,0,Answer: C. Ìdàgbàsókè e ìlànà òfin láti
+microsoft/Phi-3.5-mini-instruct,yor,246,international_law,3,1.0,0.95,1,0,"Answer: B. Airey v Ireland (1979)
+Confidence: 95
+
+"
+microsoft/Phi-3.5-mini-instruct,yor,247,international_law,0,1.0,0.95,1,0,"Answer: B
+Confidence: 95
+
+The question asks for the correct translation of a statement about children"
+microsoft/Phi-3.5-mini-instruct,yor,248,international_law,0,2.0,0.95,1,0,"Answer: C
+Confidence: 95
+
+The question asks for the translation of ""Kí ni "
+microsoft/Phi-3.5-mini-instruct,yor,249,international_law,3,3.0,0.95,1,1,"Answer: D
+Confidence: 95
+
+Explanation: The question is about the relationship between ind"
+microsoft/Phi-3.5-mini-instruct,yor,250,international_law,1,1.0,0.95,1,1,"Answer: B
+Confidence: 95
+
+The question asks about the relationship between the people and the land"
+microsoft/Phi-3.5-mini-instruct,yor,251,international_law,0,1.0,0.95,1,0,"Answer: B
+Confidence: 95
+
+The question appears to be in Yoruba, a language"
+microsoft/Phi-3.5-mini-instruct,yor,252,international_law,2,2.0,0.95,1,1,"Answer: C
+Confidence: 95
+
+The question asks about the reasons why ṣé ohun"
+microsoft/Phi-3.5-mini-instruct,yor,253,international_law,0,2.0,0.85,1,0,"Answer: C
+Confidence: 85
+
+I chose option C because it directly addresses the context of the"
+microsoft/Phi-3.5-mini-instruct,yor,254,international_law,2,2.0,0.95,1,1,"Answer: C
+Confidence: 95
+
+The question asks about the location of the toilet,"
+microsoft/Phi-3.5-mini-instruct,yor,255,international_law,2,3.0,0.95,1,0,"Answer: D
+Confidence: 95
+
+The question asks about the Igbo phrase for ""Who is"
+microsoft/Phi-3.5-mini-instruct,yor,256,international_law,1,1.0,,0,0,Answer: B. Àwọn ẹ̀tọ́ aráàlú àti 
+microsoft/Phi-3.5-mini-instruct,yor,257,international_law,1,1.0,0.95,1,1,"Answer: B
+Confidence: 95
+
+The option B provides a coherent and contextually relevant"
+microsoft/Phi-3.5-mini-instruct,yor,258,international_law,0,2.0,0.95,1,0,"Answer: C
+Confidence: 95
+
+The option C is the most relevant to the question as it"
+microsoft/Phi-3.5-mini-instruct,yor,259,international_law,3,2.0,0.95,1,0,"Answer: C. John Locke
+Confidence: 95
+
+John Locke was a prominent philos"
+microsoft/Phi-3.5-mini-instruct,yor,260,international_law,0,2.0,0.9,1,0,"Answer: C
+Confidence: 90
+
+The option C directly addresses the question about the reasons why children"
+microsoft/Phi-3.5-mini-instruct,yor,261,international_law,2,2.0,0.95,1,1,"Answer: C
+Confidence: 95
+
+The question is asking which option correctly translates to ""What"
+microsoft/Phi-3.5-mini-instruct,yor,262,international_law,2,1.0,0.85,1,0,"Answer: B
+Confidence: 85
+
+The question seems to be asking about the activities or roles of"
+microsoft/Phi-3.5-mini-instruct,yor,263,international_law,2,2.0,,0,0,Answer: C. Àwọn ẹ̀tọ́ aráàlú àti 
+microsoft/Phi-3.5-mini-instruct,yor,264,international_law,3,2.0,0.95,1,0,"Answer: C
+Confidence: 95
+
+The question asks about the relationship between people and the location of"
+microsoft/Phi-3.5-mini-instruct,yor,265,international_law,1,1.0,,0,0,Answer: B. Àwọn ẹ̀tọ́ àpapọ̀ j��
+microsoft/Phi-3.5-mini-instruct,yor,266,international_law,1,2.0,0.95,1,0,"Answer: C
+Confidence: 95
+
+Explanation: Option C directly addresses the obligation of"
+microsoft/Phi-3.5-mini-instruct,yor,267,international_law,0,0.0,0.9,1,1,"Answer: A
+Confidence: 90
+
+Explanation: Option A directly addresses the relationship between natural"
+microsoft/Phi-3.5-mini-instruct,yor,268,international_law,2,2.0,0.95,1,1,"Answer: C
+Confidence: 95
+
+Explanation: Option C directly addresses the concept of """
+microsoft/Phi-3.5-mini-instruct,yor,269,international_law,3,1.0,0.95,1,0,"Answer: B
+Confidence: 95
+
+Explanation: The question is about the effects doctrine,"
+microsoft/Phi-3.5-mini-instruct,yor,270,international_law,1,1.0,0.95,1,1,"Answer: B
+Confidence: 95
+
+Explanation: The question is about the concept of de"
+microsoft/Phi-3.5-mini-instruct,yor,271,international_law,0,1.0,0.85,1,0,"Answer: B
+Confidence: 85
+
+I am fairly confident in this answer because option B directly addresses"
+microsoft/Phi-3.5-mini-instruct,yor,272,international_law,2,2.0,0.95,1,1,"Answer: C
+Confidence: 95
+
+The United Nations Charter, established in 194"
+microsoft/Phi-3.5-mini-instruct,yor,273,international_law,0,1.0,0.95,1,0,"Answer: B
+Confidence: 95
+
+Explanation: The question asks about the jurisdiction to"
+microsoft/Phi-3.5-mini-instruct,yor,274,international_law,1,1.0,0.95,1,1,"Answer: B
+Confidence: 95
+
+Explanation: The Council of Europe was indeed established in"
+microsoft/Phi-3.5-mini-instruct,yor,275,international_law,2,2.0,0.95,1,1,"Answer: C
+Confidence: 95
+
+Explanation: Option C directly addresses the concept of ach"
+microsoft/Phi-3.5-mini-instruct,yor,276,international_law,2,2.0,0.95,1,1,"Answer: C
+Confidence: 95
+
+Explanation: Option C directly addresses the concept of a"
+microsoft/Phi-3.5-mini-instruct,yor,277,international_law,3,0.0,0.95,1,0,"Answer: A
+Confidence: 95
+
+Explanation: Option A directly addresses the concept of cultural"
+microsoft/Phi-3.5-mini-instruct,yor,278,international_law,1,0.0,,0,0,Answer: A. Ìmọ̀ àwọn ìjọba wọ́pọ̀
+microsoft/Phi-3.5-mini-instruct,yor,279,international_law,1,3.0,0.95,1,0,"Answer: D
+Confidence: 95
+
+The Universal Declaration of Human Rights (UDHR) is"
+microsoft/Phi-3.5-mini-instruct,yor,280,international_law,1,0.0,0.95,1,0,"Answer: A
+Confidence: 95
+
+Explanation: Option A directly addresses the application of the"
+microsoft/Phi-3.5-mini-instruct,yor,281,international_law,2,2.0,0.95,1,1,"Answer: C
+Confidence: 95
+
+The phrase 'pacta sunt servanda' is a"
+microsoft/Phi-3.5-mini-instruct,yor,282,international_law,2,2.0,0.95,1,1,"Answer: C
+Confidence: 95
+
+Explanation: The question is about the legal context of"
+microsoft/Phi-3.5-mini-instruct,yor,283,international_law,0,2.0,0.95,1,0,"Answer: C
+Confidence: 95
+
+The question asks about the scope of the Human Rights Act "
+microsoft/Phi-3.5-mini-instruct,yor,284,international_law,2,2.0,0.95,1,1,"Answer: C
+Confidence: 95
+
+Explanation: The question is about the concept of re"
+microsoft/Phi-3.5-mini-instruct,yor,285,international_law,1,2.0,0.95,1,0,"Answer: C
+Confidence: 95
+
+I am confident in this answer because option C directly addresses the"
+microsoft/Phi-3.5-mini-instruct,yor,286,international_law,0,2.0,0.9,1,0,"Answer: C
+Confidence: 90
+
+The question seems to be about the legal implications of ab"
+microsoft/Phi-3.5-mini-instruct,yor,287,international_law,1,0.0,0.95,1,0,"Answer: A
+Confidence: 95
+
+Explanation: The question is about the concept of secondary"
+microsoft/Phi-3.5-mini-instruct,yor,288,international_law,3,0.0,0.95,1,0,"Answer: A
+Confidence: 95
+
+Explanation: The question appears to be in Yor"
+microsoft/Phi-3.5-mini-instruct,yor,289,international_law,3,1.0,0.95,1,0,"Answer: B
+Confidence: 95
+
+The question pertains to the binding nature of provis"
+microsoft/Phi-3.5-mini-instruct,yor,290,international_law,0,0.0,0.95,1,1,"Answer: A
+Confidence: 95
+
+Explanation: The question appears to be in Yor"
+microsoft/Phi-3.5-mini-instruct,yor,291,international_law,0,0.0,0.95,1,1,"Answer: A
+Confidence: 95
+
+Explanation: Option A provides a comprehensive comparison between"
+microsoft/Phi-3.5-mini-instruct,yor,292,international_law,2,2.0,0.95,1,1,"Answer: C
+Confidence: 95
+
+The question asks about the purpose of the local remedies"
+microsoft/Phi-3.5-mini-instruct,yor,293,international_law,2,2.0,0.95,1,1,"Answer: C. Goodwin v UK (2002)
+Confidence: 95
+
+The"
+microsoft/Phi-3.5-mini-instruct,yor,294,international_law,2,2.0,0.9,1,1,"Answer: C
+Confidence: 90
+
+Explanation: The question pertains to the enfor"
+microsoft/Phi-3.5-mini-instruct,yor,295,international_law,2,2.0,0.95,1,1,"Answer: C
+Confidence: 95
+
+The Pinochet case, formally known as R v"
+microsoft/Phi-3.5-mini-instruct,yor,296,international_law,0,2.0,0.95,1,0,"Answer: C
+Confidence: 95
+
+The question asks about the purpose of war crimes trials"
+microsoft/Phi-3.5-mini-instruct,yor,297,international_law,2,2.0,0.95,1,1,"Answer: C
+Confidence: 95
+
+Explanation: The question is about the jurisdiction of"
+microsoft/Phi-3.5-mini-instruct,yor,298,international_law,2,2.0,0.95,1,1,"Answer: C
+Confidence: 95
+
+Explanation: The question is about the form of treat"
+microsoft/Phi-3.5-mini-instruct,yor,299,international_law,1,1.0,0.95,1,1,"Answer: B
+Confidence: 95
+
+Explanation: Option B accurately describes monism,"
+microsoft/Phi-3.5-mini-instruct,yor,300,global_facts,2,2.0,0.85,1,1,"Answer: C
+Confidence: 85
+
+Based on the context provided, it seems that the percentage"
+microsoft/Phi-3.5-mini-instruct,yor,301,global_facts,1,2.0,0.95,1,0,"Answer: C. Bíi $8k
+Confidence: 95
+
+I based my answer on"
+microsoft/Phi-3.5-mini-instruct,yor,302,global_facts,2,2.0,0.95,1,1,"Answer: C. 72%
+Confidence: 95"
+microsoft/Phi-3.5-mini-instruct,yor,303,global_facts,0,1.0,0.95,1,0,"Answer: B. United States
+Confidence: 95
+
+Explanation: The United States has been"
+microsoft/Phi-3.5-mini-instruct,yor,304,global_facts,2,1.0,,0,0,"Answer: B. pẹ̀lú ìlọ́po 10
+Confidence:"
+microsoft/Phi-3.5-mini-instruct,yor,305,global_facts,0,1.0,,0,0,"Answer: B. Ìnira bíbí láìtọ́jọ́
+Confidence:"
+microsoft/Phi-3.5-mini-instruct,yor,306,global_facts,2,2.0,0.85,1,1,"Answer: C. 30%
+Confidence: 85
+
+Based on available data and context"
+microsoft/Phi-3.5-mini-instruct,yor,307,global_facts,2,2.0,0.9,1,1,"Answer: C. 69%
+Confidence: 90"
+microsoft/Phi-3.5-mini-instruct,yor,308,global_facts,2,1.0,0.95,1,0,"Answer: B. 38%
+Confidence: 95"
+microsoft/Phi-3.5-mini-instruct,yor,309,global_facts,1,1.0,0.95,1,1,"Answer: B. 26%
+Confidence: 95"
+microsoft/Phi-3.5-mini-instruct,yor,310,global_facts,3,2.0,0.85,1,0,"Answer: C. 53%
+Confidence: 85
+
+Based on the context provided,"
+microsoft/Phi-3.5-mini-instruct,yor,311,global_facts,1,1.0,0.85,1,1,"Answer: B. 10%
+Confidence: 85
+
+I chose option B based on the"
+microsoft/Phi-3.5-mini-instruct,yor,312,global_facts,2,2.0,0.95,1,1,"Answer: C. 9%
+Confidence: 95%
+
+Based on available data and context"
+microsoft/Phi-3.5-mini-instruct,yor,313,global_facts,0,2.0,,0,0,"Answer: C. owó orí onítẹ̀síwájú
+Confidence: "
+microsoft/Phi-3.5-mini-instruct,yor,314,global_facts,1,2.0,0.85,1,0,"Answer: C
+Confidence: 85
+
+Based on the context provided, it seems that the question"
+microsoft/Phi-3.5-mini-instruct,yor,315,global_facts,1,2.0,0.95,1,0,"Answer: C. 27%
+Confidence: 95"
+microsoft/Phi-3.5-mini-instruct,yor,316,global_facts,0,2.0,0.85,1,0,"Answer: C. 64%
+Confidence: 85
+
+I am fairly confident in my answer"
+microsoft/Phi-3.5-mini-instruct,yor,317,global_facts,2,2.0,0.9,1,1,"Answer: C. 82%
+Confidence: 90"
+microsoft/Phi-3.5-mini-instruct,yor,318,global_facts,2,2.0,0.9,1,1,"Answer: C. Bíi $15k
+Confidence: 90
+
+I based my answer"
+microsoft/Phi-3.5-mini-instruct,yor,319,global_facts,1,1.0,0.95,1,1,"Answer: B. 550,000
+Confidence: 95
+
+Based on"
+microsoft/Phi-3.5-mini-instruct,yor,320,global_facts,0,2.0,0.9,1,0,"Answer: C
+Confidence: 90
+
+Based on historical context, the majority of Nigerians were"
+microsoft/Phi-3.5-mini-instruct,yor,321,global_facts,0,1.0,0.95,1,0,"Answer: B. 44%
+Confidence: 95
+
+Based on available data and context"
+microsoft/Phi-3.5-mini-instruct,yor,322,global_facts,3,2.0,0.85,1,0,"Answer: C
+Confidence: 85
+
+The provided text suggests a significant portion of the Ìf"
+microsoft/Phi-3.5-mini-instruct,yor,323,global_facts,1,1.0,0.95,1,1,"Answer: B. 16%
+Confidence: 95
+
+Based on available data and reports"
+microsoft/Phi-3.5-mini-instruct,yor,324,global_facts,3,2.0,0.95,1,0,"Answer: C
+Confidence: 95
+
+The sentence structure and context suggest that option C is the most"
+microsoft/Phi-3.5-mini-instruct,yor,325,global_facts,3,1.0,0.9,1,0,"Answer: B
+Confidence: 90
+
+Based on available data and context, the confidence level is"
+microsoft/Phi-3.5-mini-instruct,yor,326,global_facts,3,2.0,0.95,1,0,"Answer: C. 6%
+Confidence: 95
+
+Based on historical data, Saudi"
+microsoft/Phi-3.5-mini-instruct,yor,327,global_facts,2,1.0,0.9,1,0,"Answer: B. 43%
+Confidence: 90%
+
+I am confident in this answer"
+microsoft/Phi-3.5-mini-instruct,yor,328,global_facts,3,1.0,0.85,1,0,"Answer: B
+Confidence: 85
+
+Based on the context provided, it seems that the question"
+microsoft/Phi-3.5-mini-instruct,yor,329,global_facts,2,1.0,0.9,1,0,"Answer: B
+Confidence: 90
+
+Based on the context provided, option B seems the most"
+microsoft/Phi-3.5-mini-instruct,yor,330,global_facts,2,3.0,1.0,1,0,"Answer: D. 690 bílíọ̀nù
+Confidence: 100"
+microsoft/Phi-3.5-mini-instruct,yor,331,global_facts,0,2.0,0.95,1,0,"Answer: C. 59%
+Confidence: 95"
+microsoft/Phi-3.5-mini-instruct,yor,332,global_facts,1,2.0,0.85,1,0,"Answer: C. 71%
+Confidence: 85
+
+Based on the context provided,"
+microsoft/Phi-3.5-mini-instruct,yor,333,global_facts,2,2.0,,0,0,"Answer: C. pẹ̀lú ìlọ́po 16
+Confidence:"
+microsoft/Phi-3.5-mini-instruct,yor,334,global_facts,3,2.0,1.0,1,0,"Answer: C
+Confidence: 100
+
+Explanation: If Ross Perot received 3"
+microsoft/Phi-3.5-mini-instruct,yor,335,global_facts,3,1.0,0.9,1,0,"Answer: B. 69%
+Confidence: 90"
+microsoft/Phi-3.5-mini-instruct,yor,336,global_facts,3,1.0,,0,0,Answer: B. Ìṣẹ̀lẹ̀ ilẹ̀ríru on
+microsoft/Phi-3.5-mini-instruct,yor,337,global_facts,1,2.0,0.85,1,0,"Answer: C. 55%
+Confidence: 85
+
+Based on the context provided,"
+microsoft/Phi-3.5-mini-instruct,yor,338,global_facts,3,2.0,,0,0,"Answer: C. pẹ̀lú ìlọ́po 16
+Confidence:"
+microsoft/Phi-3.5-mini-instruct,yor,339,global_facts,2,2.0,0.9,1,1,"Answer: C. 66%
+Confidence: 90%
+
+Based on available data and"
+microsoft/Phi-3.5-mini-instruct,yor,340,global_facts,1,2.0,0.9,1,0,"Answer: C
+Confidence: 90
+
+Based on the context provided, it seems that the correct"
+microsoft/Phi-3.5-mini-instruct,yor,341,global_facts,0,1.0,0.9,1,0,"Answer: B
+Confidence: 90
+
+I based my confidence on the general knowledge that the percentage of"
+microsoft/Phi-3.5-mini-instruct,yor,342,global_facts,2,2.0,0.95,1,1,"Answer: C. Mexico
+Confidence: 95
+
+Explanation: The 2019"
+microsoft/Phi-3.5-mini-instruct,yor,343,global_facts,0,1.0,0.95,1,0,"Answer: B. 2.4 mílíọ̀nù
+Confidence: 95
+
+"
+microsoft/Phi-3.5-mini-instruct,yor,344,global_facts,2,1.0,0.95,1,0,"Answer: B. Àtọ̀gbẹ
+Confidence: 95
+
+I chose option"
+microsoft/Phi-3.5-mini-instruct,yor,345,global_facts,2,1.0,0.95,1,0,"Answer: B. 14 mílíọ̀nù
+Confidence: 95
+
+I"
+microsoft/Phi-3.5-mini-instruct,yor,346,global_facts,0,1.0,0.9,1,0,"Answer: B
+Confidence: 90
+
+Based on the context provided, it seems that the question"
+microsoft/Phi-3.5-mini-instruct,yor,347,global_facts,1,2.0,0.75,1,0,"Answer: C. 65%
+Confidence: 75"
+microsoft/Phi-3.5-mini-instruct,yor,348,global_facts,2,2.0,0.95,1,1,"Answer: C. 36%
+Confidence: 95"
+microsoft/Phi-3.5-mini-instruct,yor,349,global_facts,1,2.0,0.9,1,0,"Answer: C. 73%
+Confidence: 90"
+microsoft/Phi-3.5-mini-instruct,yor,350,global_facts,1,2.0,0.95,1,0,"Answer: C
+Confidence: 95
+
+Based on historical data, China's GDP growth"
+microsoft/Phi-3.5-mini-instruct,yor,351,global_facts,1,2.0,0.9,1,0,"Answer: C
+Confidence: 90
+
+I chose option C because it most accurately reflects the"
+microsoft/Phi-3.5-mini-instruct,yor,352,global_facts,1,1.0,1.0,1,1,"Answer: B. ọdún 9
+Confidence: 100"
+microsoft/Phi-3.5-mini-instruct,yor,353,global_facts,3,1.0,0.95,1,0,"Answer: B. 1.80%
+Confidence: 95"
+microsoft/Phi-3.5-mini-instruct,yor,354,global_facts,0,1.0,0.95,1,0,"Answer: B. 24%
+Confidence: 95"
+microsoft/Phi-3.5-mini-instruct,yor,355,global_facts,1,2.0,0.85,1,0,"Answer: C
+Confidence: 85
+
+Based on the context provided, it seems that the question"
+microsoft/Phi-3.5-mini-instruct,yor,356,global_facts,3,2.0,0.85,1,0,"Answer: C
+Confidence: 85
+
+Based on the context provided, it seems that the question"
+microsoft/Phi-3.5-mini-instruct,yor,357,global_facts,3,1.0,0.85,1,0,"Answer: B. 25%
+Confidence: 85
+
+I am fairly confident in this answer"
+microsoft/Phi-3.5-mini-instruct,yor,358,global_facts,2,3.0,0.9,1,0,"Answer: D
+Confidence: 90
+
+The question seems to be about the origin of certain oral"
+microsoft/Phi-3.5-mini-instruct,yor,359,global_facts,1,1.0,0.95,1,1,"Answer: B
+Confidence: 95
+
+Explanation:
+To find the percentage of immigr"
+microsoft/Phi-3.5-mini-instruct,yor,360,global_facts,2,1.0,0.95,1,0,"Answer: B. 30 mílíọ̀nù
+Confidence: 95
+
+I"
+microsoft/Phi-3.5-mini-instruct,yor,361,global_facts,0,3.0,0.85,1,0,"Answer: D
+Confidence: 85
+
+I chose option D because it includes Uruguay and Costa Rica,"
+microsoft/Phi-3.5-mini-instruct,yor,362,global_facts,1,2.0,0.85,1,0,"Answer: C
+Confidence: 85
+
+Based on the information provided, it seems that the percentage"
+microsoft/Phi-3.5-mini-instruct,yor,363,global_facts,2,1.0,0.85,1,0,"Answer: B
+Confidence: 85
+
+Based on the information provided, I have selected option B"
+microsoft/Phi-3.5-mini-instruct,yor,364,global_facts,1,1.0,,0,0,"Answer: B. Bẹ́ẹ̀ni, Bẹ́ẹ̀"
+microsoft/Phi-3.5-mini-instruct,yor,365,global_facts,2,1.0,0.95,1,0,"Answer: B. 2,600
+Confidence: 95
+
+I chose option B because"
+microsoft/Phi-3.5-mini-instruct,yor,366,global_facts,0,2.0,0.75,1,0,"Answer: C
+Confidence: 75%
+
+The question asks about the likelihood of a Nigerian"
+microsoft/Phi-3.5-mini-instruct,yor,367,global_facts,1,2.0,0.9,1,0,"Answer: C. Russia
+Confidence: 90
+
+I have a high confidence in this answer because,"
+microsoft/Phi-3.5-mini-instruct,yor,368,global_facts,2,1.0,0.85,1,0,"Answer: B
+Confidence: 85
+
+I based my confidence on the general knowledge that the 2"
+microsoft/Phi-3.5-mini-instruct,yor,369,global_facts,1,1.0,0.95,1,1,"Answer: B. 19%
+Confidence: 95%
+
+I based my answer on the"
+microsoft/Phi-3.5-mini-instruct,yor,370,global_facts,1,1.0,0.9,1,1,"Answer: B
+Confidence: 90
+
+Based on the context provided, it seems that the percentage"
+microsoft/Phi-3.5-mini-instruct,yor,371,global_facts,0,1.0,0.9,1,0,"Answer: B
+Confidence: 90
+
+Based on the context provided, it seems like option B"
+microsoft/Phi-3.5-mini-instruct,yor,372,global_facts,1,1.0,,0,0,"Answer: B. 2.5 ọmọ fún obìnrin kan 
+Confidence:"
+microsoft/Phi-3.5-mini-instruct,yor,373,global_facts,2,2.0,0.85,1,1,"Answer: C. $10,000
+Confidence: 85
+
+The confidence level is"
+microsoft/Phi-3.5-mini-instruct,yor,374,global_facts,2,2.0,0.9,1,1,"Answer: C
+Confidence: 90
+
+I am confident in this answer because the question seems to be"
+microsoft/Phi-3.5-mini-instruct,yor,375,global_facts,1,2.0,0.9,1,0,"Answer: C. 71%
+Confidence: 90"
+microsoft/Phi-3.5-mini-instruct,yor,376,global_facts,2,2.0,0.9,1,1,"Answer: C
+Confidence: 90
+
+Based on available data and trends, Nigeria'"
+microsoft/Phi-3.5-mini-instruct,yor,377,global_facts,0,0.0,1.0,1,1,"Answer: A. US
+Confidence: 100"
+microsoft/Phi-3.5-mini-instruct,yor,378,global_facts,2,1.0,,0,0,Answer: B. tayọ ti àwọn orílẹ̀-èdè t
+microsoft/Phi-3.5-mini-instruct,yor,379,global_facts,1,1.0,0.85,1,1,"Answer: B. 30%
+Confidence: 85
+
+Based on available data and context"
+microsoft/Phi-3.5-mini-instruct,yor,380,global_facts,2,2.0,0.95,1,1,"Answer: C
+Confidence: 95
+
+The sentence structure and context suggest that the correct answer is C"
+microsoft/Phi-3.5-mini-instruct,yor,381,global_facts,2,1.0,0.95,1,0,"Answer: B. 14-Èbìbí
+Confidence: 95
+
+I am"
+microsoft/Phi-3.5-mini-instruct,yor,382,global_facts,0,2.0,0.95,1,0,"Answer: C. 9%
+Confidence: 95%
+
+Based on available data and historical"
+microsoft/Phi-3.5-mini-instruct,yor,383,global_facts,1,1.0,0.9,1,1,"Answer: B. 34%
+Confidence: 90
+
+Based on available data and tr"
+microsoft/Phi-3.5-mini-instruct,yor,384,global_facts,0,1.0,,0,0,"Answer: B. Bẹ́ẹ̀ni, Bẹ́ẹ̀"
+microsoft/Phi-3.5-mini-instruct,yor,385,global_facts,1,2.0,0.85,1,0,"Answer: C. -40%
+Confidence: 85
+
+I am fairly confident in this answer"
+microsoft/Phi-3.5-mini-instruct,yor,386,global_facts,2,2.0,0.9,1,1,"Answer: C. 76%
+Confidence: 90"
+microsoft/Phi-3.5-mini-instruct,yor,387,global_facts,2,2.0,0.9,1,1,"Answer: C. Chile
+Confidence: 90
+
+I am confident in this answer because Chile is known"
+microsoft/Phi-3.5-mini-instruct,yor,388,global_facts,2,1.0,0.95,1,0,"Answer: B. $75,000
+Confidence: 95
+
+I based my confidence"
+microsoft/Phi-3.5-mini-instruct,yor,389,global_facts,1,3.0,0.95,1,0,"Answer: D. 90%
+Confidence: 95%
+
+The Holocaust was a"
+microsoft/Phi-3.5-mini-instruct,yor,390,global_facts,3,2.0,0.9,1,0,"Answer: C. Iran
+Confidence: 90
+
+Iran is known for its significant oil and gas"
+microsoft/Phi-3.5-mini-instruct,yor,391,global_facts,0,2.0,0.95,1,0,"Answer: C
+Confidence: 95
+
+The question seems to be about the countries involved in the Korean"
+microsoft/Phi-3.5-mini-instruct,yor,392,global_facts,3,1.0,0.9,1,0,"Answer: B. 46%
+Confidence: 90%
+
+Based on available data and"
+microsoft/Phi-3.5-mini-instruct,yor,393,global_facts,1,1.0,0.9,1,1,"Answer: B. 31%
+Confidence: 90"
+microsoft/Phi-3.5-mini-instruct,yor,394,global_facts,1,2.0,0.95,1,0,"Answer: C. 6%
+Confidence: 95
+
+Based on historical data, the United"
+microsoft/Phi-3.5-mini-instruct,yor,395,global_facts,1,1.0,0.95,1,1,"Answer: B. 1.40%
+Confidence: 95%
+
+Based on the"
+microsoft/Phi-3.5-mini-instruct,yor,396,global_facts,3,2.0,0.95,1,0,"Answer: C
+Confidence: 95
+
+I chose option C because it directly addresses the actions of the"
+microsoft/Phi-3.5-mini-instruct,yor,397,global_facts,3,2.0,0.95,1,0,"Answer: C. àìsàn àmupara ọtí
+Confidence: 95
+"
+microsoft/Phi-3.5-mini-instruct,yor,398,global_facts,2,2.0,0.85,1,1,"Answer: C
+Confidence: 85
+
+Based on the context provided, it seems that the question"
+microsoft/Phi-3.5-mini-instruct,yor,399,global_facts,3,1.0,0.95,1,0,"Answer: B
+Confidence: 95%
+
+I am confident in my answer because the question seems to"
+microsoft/Phi-3.5-mini-instruct,yor,400,high_school_microeconomics,0,1.0,,0,0,Answer: B. àpapọ̀ ìpawówọlé dọ́gba p��
+microsoft/Phi-3.5-mini-instruct,yor,401,high_school_microeconomics,2,2.0,0.95,1,1,"Answer: C
+Confidence: 95
+
+Explanation: The question asks for the amount of money"
+microsoft/Phi-3.5-mini-instruct,yor,402,high_school_microeconomics,1,1.0,0.95,1,1,"Answer: B
+Confidence: 95
+
+Explanation: The question seems to be asking for the"
+microsoft/Phi-3.5-mini-instruct,yor,403,high_school_microeconomics,3,1.0,,0,0,Answer: B. àwọn ohun èlò X àti Y jẹ́ ohun
+microsoft/Phi-3.5-mini-instruct,yor,404,high_school_microeconomics,3,2.0,,0,0,Answer: C. máa ń wáyé nígbà tí àwọn ọ
+microsoft/Phi-3.5-mini-instruct,yor,405,high_school_microeconomics,3,2.0,0.95,1,0,"Answer: C
+Confidence: 95
+
+The question is asking which option correctly describes the action of people"
+microsoft/Phi-3.5-mini-instruct,yor,406,high_school_microeconomics,3,2.0,,0,0,Answer: C. Ilà ìbéèrè àṣàyípadà tó ga.
+microsoft/Phi-3.5-mini-instruct,yor,407,high_school_microeconomics,2,1.0,,0,0,Answer: B. Ìdókówò nínú ìmọ̀ọ́ṣe àw
+microsoft/Phi-3.5-mini-instruct,yor,408,high_school_microeconomics,3,2.0,,0,0,Answer: C. gbogbo àwọn ohun àmúlò ìbéèr
+microsoft/Phi-3.5-mini-instruct,yor,409,high_school_microeconomics,1,1.0,,0,0,"Answer: B. ẹ̀ka iye owó adúróṣinṣin
+Confidence"
+microsoft/Phi-3.5-mini-instruct,yor,410,high_school_microeconomics,2,2.0,,0,0,"Answer: C. Ìwọn ilé ìdáná McDonald.
+Confidence: "
+microsoft/Phi-3.5-mini-instruct,yor,411,high_school_microeconomics,2,2.0,,0,0,"Answer: C. Iye owó jẹ́ pọ́ọ́na, ṣùgb"
+microsoft/Phi-3.5-mini-instruct,yor,412,high_school_microeconomics,3,3.0,0.95,1,1,"Answer: D
+Confidence: 95
+
+I chose option D because it directly addresses the question about the"
+microsoft/Phi-3.5-mini-instruct,yor,413,high_school_microeconomics,2,2.0,,0,0,Answer: C. Iye owó yóò di mímọ̀ pẹ̀lu ì
+microsoft/Phi-3.5-mini-instruct,yor,414,high_school_microeconomics,1,1.0,,0,0,Answer: B. ẹ̀rọ àti ohun èlò ìmúṣi
+microsoft/Phi-3.5-mini-instruct,yor,415,high_school_microeconomics,3,1.0,0.95,1,0,"Answer: B
+Confidence: 95
+
+Explanation: The question states that Ray has 5"
+microsoft/Phi-3.5-mini-instruct,yor,416,high_school_microeconomics,2,1.0,0.95,1,0,"Answer: B
+Confidence: 95
+
+The question is about understanding the context of the given Yor"
+microsoft/Phi-3.5-mini-instruct,yor,417,high_school_microeconomics,3,2.0,0.9,1,0,"Answer: C
+Confidence: 90
+
+Explanation: The question is asking how many more items"
+microsoft/Phi-3.5-mini-instruct,yor,418,high_school_microeconomics,1,1.0,0.95,1,1,"Answer: B. Ìjákulẹ̀ ọjà
+Confidence: 95
+
+"
+microsoft/Phi-3.5-mini-instruct,yor,419,high_school_microeconomics,2,2.0,,0,0,Answer: C. MC dábu AVC àti ATC ní ipò wọn tó ga
+microsoft/Phi-3.5-mini-instruct,yor,420,high_school_microeconomics,3,2.0,,0,0,Answer: C. jẹ́ ohun èlò kan náà pẹ̀lú
+microsoft/Phi-3.5-mini-instruct,yor,421,high_school_microeconomics,1,1.0,0.95,1,1,"Answer: B
+Confidence: 95
+
+The sentence B is the most coherent and grammatically"
+microsoft/Phi-3.5-mini-instruct,yor,422,high_school_microeconomics,1,0.0,0.95,1,0,"Answer: A
+Confidence: 95
+
+Explanation: The question is asking about the actions of"
+microsoft/Phi-3.5-mini-instruct,yor,423,high_school_microeconomics,3,1.0,,0,0,Answer: B. àwọn ohun èlò tó wà ní agbègbè
+microsoft/Phi-3.5-mini-instruct,yor,424,high_school_microeconomics,1,2.0,0.9,1,0,"Answer: C
+Confidence: 90
+
+I chose option C because it directly translates to ""I"
+microsoft/Phi-3.5-mini-instruct,yor,425,high_school_microeconomics,3,1.0,0.95,1,0,"Answer: B. Sísún lọ sókè MPL.
+Confidence: 95
+
+"
+microsoft/Phi-3.5-mini-instruct,yor,426,high_school_microeconomics,1,1.0,1.0,1,1,"Answer: B
+Confidence: 100
+
+Explanation: The question implies that the cost of"
+microsoft/Phi-3.5-mini-instruct,yor,427,high_school_microeconomics,2,2.0,,0,0,Answer: C. Ilà ìbéèrè máa sún sí apá ọ̀t
+microsoft/Phi-3.5-mini-instruct,yor,428,high_school_microeconomics,0,2.0,,0,0,Answer: C. Ìbéèrè àṣàyípadà tó péye fún
+microsoft/Phi-3.5-mini-instruct,yor,429,high_school_microeconomics,1,3.0,,0,0,Answer: D. ṣíṣe akérépin lórí iye ònkà t
+microsoft/Phi-3.5-mini-instruct,yor,430,high_school_microeconomics,3,1.0,0.95,1,0,"Answer: B
+Confidence: 95
+
+Explanation: Jason initially spent $90 (9"
+microsoft/Phi-3.5-mini-instruct,yor,431,high_school_microeconomics,1,2.0,0.95,1,0,"Answer: C
+Confidence: 95
+
+The question is in Yoruba, and it translates"
+microsoft/Phi-3.5-mini-instruct,yor,432,high_school_microeconomics,0,0.0,0.95,1,1,"Answer: A
+Confidence: 95
+
+Explanation: The question is asking for the total cost"
+microsoft/Phi-3.5-mini-instruct,yor,433,high_school_microeconomics,1,1.0,0.95,1,1,"Answer: B. ipa ìrọ́pò.
+Confidence: 95
+
+I"
+microsoft/Phi-3.5-mini-instruct,yor,434,high_school_microeconomics,3,1.0,,0,0,Answer: B. Owó ọ̀yà ìfẹ̀yìntì al
+microsoft/Phi-3.5-mini-instruct,yor,435,high_school_microeconomics,0,2.0,0.9,1,0,"Answer: C
+Confidence: 90
+
+The question seems to be in Yoruba, and it"
+microsoft/Phi-3.5-mini-instruct,yor,436,high_school_microeconomics,0,1.0,0.95,1,0,"Answer: B
+Confidence: 95
+
+I chose option B because it directly addresses the relationship between An"
+microsoft/Phi-3.5-mini-instruct,yor,437,high_school_microeconomics,3,2.0,,0,0,Answer: C. Ìbéèrè fún àwọn ilé-iṣ��
+microsoft/Phi-3.5-mini-instruct,yor,438,high_school_microeconomics,3,2.0,0.9,1,0,"Answer: C
+Confidence: 90
+
+The question appears to be in Yoruba, a language"
+microsoft/Phi-3.5-mini-instruct,yor,439,high_school_microeconomics,3,2.0,,0,0,Answer: C. Bí àwọn ilé-iṣẹ‌ ṣe ń
+microsoft/Phi-3.5-mini-instruct,yor,440,high_school_microeconomics,3,2.0,0.95,1,0,"Answer: C
+Confidence: 95
+
+Explanation: The question is asking about the total number"
+microsoft/Phi-3.5-mini-instruct,yor,441,high_school_microeconomics,1,2.0,0.95,1,0,"Answer: C
+Confidence: 95
+
+The question appears to be in Yoruba, a language"
+microsoft/Phi-3.5-mini-instruct,yor,442,high_school_microeconomics,3,1.0,,0,0,"Answer: B. Sáà kan ni ile ìtọ́jú ara
+Confidence: "
+microsoft/Phi-3.5-mini-instruct,yor,443,high_school_microeconomics,2,1.0,0.95,1,0,"Answer: B. Kò dára tó
+Confidence: 95
+
+Explanation: The"
+microsoft/Phi-3.5-mini-instruct,yor,444,high_school_microeconomics,1,0.0,0.95,1,0,"Answer: A
+Confidence: 95
+
+The question is asking which option correctly describes the action of "
+microsoft/Phi-3.5-mini-instruct,yor,445,high_school_microeconomics,3,1.0,0.85,1,0,"Answer: B
+Confidence: 85
+
+The option B is the most relevant to the context of the"
+microsoft/Phi-3.5-mini-instruct,yor,446,high_school_microeconomics,1,2.0,0.95,1,0,"Answer: C. Àfikún wá nínú ọjà X
+Confidence: 95
+"
+microsoft/Phi-3.5-mini-instruct,yor,447,high_school_microeconomics,2,2.0,,0,0,Answer: C. Iye pears tí wọ́n béèrè fún dínk
+microsoft/Phi-3.5-mini-instruct,yor,448,high_school_microeconomics,0,1.0,0.85,1,0,"Answer: B
+Confidence: 85
+
+The sentence structure and context suggest that option B is the most"
+microsoft/Phi-3.5-mini-instruct,yor,449,high_school_microeconomics,3,1.0,0.95,1,0,"Answer: B
+Confidence: 95
+
+Explanation: The sentence in question is about someone who"
+microsoft/Phi-3.5-mini-instruct,yor,450,high_school_microeconomics,1,3.0,,0,0,"Answer: D. ìráraràn ọ̀kọ̀ọ̀kan
+Confidence: "
+microsoft/Phi-3.5-mini-instruct,yor,451,high_school_microeconomics,0,2.0,0.95,1,0,"Answer: C. Ìwọn Ètò owó orí
+Confidence: 95
+"
+microsoft/Phi-3.5-mini-instruct,yor,452,high_school_microeconomics,0,1.0,0.95,1,0,"Answer: B
+Confidence: 95
+
+The question is asking which option correctly translates to ""Who"
+microsoft/Phi-3.5-mini-instruct,yor,453,high_school_microeconomics,0,1.0,0.95,1,0,"Answer: B. Owó orí ìjọba.
+Confidence: 95
+
+"
+microsoft/Phi-3.5-mini-instruct,yor,454,high_school_microeconomics,3,1.0,0.95,1,0,"Answer: B
+Confidence: 95
+
+Explanation: The question is about the relationship between den"
+microsoft/Phi-3.5-mini-instruct,yor,455,high_school_microeconomics,1,1.0,,0,0,Answer: B. Àfààní díẹ‌ dọ́gba iye owó dí
+microsoft/Phi-3.5-mini-instruct,yor,456,high_school_microeconomics,1,1.0,0.9,1,1,"Answer: B. I àti II.
+Confidence: 90"
+microsoft/Phi-3.5-mini-instruct,yor,457,high_school_microeconomics,1,1.0,,0,0,Answer: B. Ìbéèrè kò jẹmọ‌ ìrár
+microsoft/Phi-3.5-mini-instruct,yor,458,high_school_microeconomics,3,1.0,0.95,1,0,"Answer: B
+Confidence: 95
+
+I chose option B because it is the most grammatically correct"
+microsoft/Phi-3.5-mini-instruct,yor,459,high_school_microeconomics,1,0.0,,0,0,Answer: A. Ọ̀pọ̀lọpọ̀ iye owó dí��
+microsoft/Phi-3.5-mini-instruct,yor,460,high_school_microeconomics,1,1.0,,0,0,Answer: B. ń ṣàníyàn púpò nípa bí wọ́
+microsoft/Phi-3.5-mini-instruct,yor,461,high_school_microeconomics,0,2.0,1.0,1,0,"Answer: C. AVC + AFC = TC.
+Confidence: 100"
+microsoft/Phi-3.5-mini-instruct,yor,462,high_school_microeconomics,0,2.0,0.9,1,0,"Answer: C
+Confidence: 90
+
+Explanation: The question appears to be in Yor"
+microsoft/Phi-3.5-mini-instruct,yor,463,high_school_microeconomics,0,1.0,0.95,1,0,"Answer: B. ṣe fún àwọn ọjà.
+Confidence: 95"
+microsoft/Phi-3.5-mini-instruct,yor,464,high_school_microeconomics,3,2.0,,0,0,Answer: C. Àpapọ‌ owó tọ́ ń wọlé kò kọ́
+microsoft/Phi-3.5-mini-instruct,yor,465,high_school_microeconomics,3,3.0,,0,0,Answer: D. Owó oṣù = Ọjà owó tí wọ́n
+microsoft/Phi-3.5-mini-instruct,yor,466,high_school_microeconomics,1,0.0,0.9,1,0,"Answer: A
+Confidence: 90
+
+The question seems to be in Yoruba, and it"
+microsoft/Phi-3.5-mini-instruct,yor,467,high_school_microeconomics,0,2.0,,0,0,Answer: C. Ìlọsíwájú nínú àfikún oníbàár
+microsoft/Phi-3.5-mini-instruct,yor,468,high_school_microeconomics,3,1.0,,0,0,Answer: B. Ìdínkù nínú ìpèsè àwọn ò
+microsoft/Phi-3.5-mini-instruct,yor,469,high_school_microeconomics,3,1.0,,0,0,Answer: B. Ilé-iṣẹ‌ náà máa pa tí iye owó
+microsoft/Phi-3.5-mini-instruct,yor,470,high_school_microeconomics,1,2.0,,0,0,Answer: C. Owó oṣù àwọn òṣìṣẹ‌ oko
+microsoft/Phi-3.5-mini-instruct,yor,471,high_school_microeconomics,3,2.0,0.9,1,0,"Answer: C
+Confidence: 90
+
+The choice C is the most relevant to the original statement,"
+microsoft/Phi-3.5-mini-instruct,yor,472,high_school_microeconomics,3,2.0,,0,0,Answer: C. Ìdínkù iye owó nítorí ìbéèr
+microsoft/Phi-3.5-mini-instruct,yor,473,high_school_microeconomics,0,2.0,,0,0,"Answer: C. ìfigagbága lórí iye owó.
+Confidence: "
+microsoft/Phi-3.5-mini-instruct,yor,474,high_school_microeconomics,2,2.0,0.95,1,1,"Answer: C
+Confidence: 95
+
+The option C is the most coherent and contextually"
+microsoft/Phi-3.5-mini-instruct,yor,475,high_school_microeconomics,3,1.0,,0,0,Answer: B. Àwọn ọkọ̀ ayọ́kẹ́l��
+microsoft/Phi-3.5-mini-instruct,yor,476,high_school_microeconomics,2,2.0,0.95,1,1,"Answer: C
+Confidence: 95
+
+The Lorenz Curve is a graphical representation of the"
+microsoft/Phi-3.5-mini-instruct,yor,477,high_school_microeconomics,3,2.0,0.9,1,0,"Answer: C
+Confidence: 90
+
+The question is asking which option correctly describes the situation where È"
+microsoft/Phi-3.5-mini-instruct,yor,478,high_school_microeconomics,1,1.0,,0,0,"Answer: B. Ìdínkù nínú iye owó ice cream, ó dára"
+microsoft/Phi-3.5-mini-instruct,yor,479,high_school_microeconomics,3,0.0,0.95,1,0,"Answer: A
+Confidence: 95
+
+Explanation: The question discusses the actions of Il"
+microsoft/Phi-3.5-mini-instruct,yor,480,high_school_microeconomics,0,2.0,,0,0,Answer: C. Ìsanwó ìrànlọ‌wọ‌ láti ọ‌d
+microsoft/Phi-3.5-mini-instruct,yor,481,high_school_microeconomics,1,1.0,0.95,1,1,"Answer: B. Owó orí ìjọba.
+Confidence: 95
+
+"
+microsoft/Phi-3.5-mini-instruct,yor,482,high_school_microeconomics,0,1.0,0.95,1,0,"Answer: B
+Confidence: 95
+
+Explanation: The question is asking about a group of"
+microsoft/Phi-3.5-mini-instruct,yor,483,high_school_microeconomics,1,1.0,0.95,1,1,"Answer: B
+Confidence: 95
+
+Explanation: The question appears to be in Yor"
+microsoft/Phi-3.5-mini-instruct,yor,484,high_school_microeconomics,2,1.0,,0,0,Answer: B. Ìlọsíwájú nínú àlàáfíà gb
+microsoft/Phi-3.5-mini-instruct,yor,485,high_school_microeconomics,2,1.0,,0,0,Answer: B. Àwọn ìlànà ọmọ ẹgb��
+microsoft/Phi-3.5-mini-instruct,yor,486,high_school_microeconomics,0,2.0,,0,0,Answer: C. Àwọn ilé-iṣẹ‌ jẹ‌ èr
+microsoft/Phi-3.5-mini-instruct,yor,487,high_school_microeconomics,0,1.0,0.95,1,0,"Answer: B
+Confidence: 95
+
+Explanation: The question asks about the actions of """
+microsoft/Phi-3.5-mini-instruct,yor,488,high_school_microeconomics,0,2.0,,0,0,Answer: C. Àwọn ilé-iṣẹ‌ ń lọ‌wọ
+microsoft/Phi-3.5-mini-instruct,yor,489,high_school_microeconomics,3,2.0,0.09,1,0,"Answer: C. Iye owó ọjà tó kéré síi.
+Confidence: 9"
+microsoft/Phi-3.5-mini-instruct,yor,490,high_school_microeconomics,2,1.0,0.95,1,0,"Answer: B
+Confidence: 95
+
+Explanation: The question is about comparing the effects of"
+microsoft/Phi-3.5-mini-instruct,yor,491,high_school_microeconomics,1,1.0,0.9,1,1,"Answer: B
+Confidence: 90
+
+Explanation: The question is asking about the relationship between"
+microsoft/Phi-3.5-mini-instruct,yor,492,high_school_microeconomics,1,1.0,,0,0,"Answer: B. Iye owó ń pọ̀ sí i, ṣùgbọ́n à"
+microsoft/Phi-3.5-mini-instruct,yor,493,high_school_microeconomics,3,2.0,,0,0,Answer: C. Iye tíkẹ́ẹ̀tì ọkọ̀ o
+microsoft/Phi-3.5-mini-instruct,yor,494,high_school_microeconomics,1,2.0,,0,0,Answer: C. Ìlọsọ́kè ninut ìdíyelé tí
+microsoft/Phi-3.5-mini-instruct,yor,495,high_school_microeconomics,3,1.0,,0,0,Answer: B. Gbogbo iye iṣẹ́ náà bẹ̀r
+microsoft/Phi-3.5-mini-instruct,yor,496,high_school_microeconomics,3,1.0,0.95,1,0,"Answer: B. Ilẹ̀.
+Confidence: 95
+
+Explanation: The"
+microsoft/Phi-3.5-mini-instruct,yor,497,high_school_microeconomics,1,1.0,,0,0,"Answer: B. Ìyàtọ̀ nínú àwọn ọjà
+Confidence:"
+microsoft/Phi-3.5-mini-instruct,yor,498,high_school_microeconomics,3,1.0,,0,0,Answer: B. Sanwó kékeré àti gba iye èèyàn kan náà sí
+microsoft/Phi-3.5-mini-instruct,yor,499,high_school_microeconomics,0,2.0,,0,0,Answer: C. Owó oṣù sísan yí ó dúró àmọ́ 

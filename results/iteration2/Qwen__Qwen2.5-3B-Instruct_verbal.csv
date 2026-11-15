@@ -1,0 +1,2689 @@
+model,lang,idx,subject,gold,pred,confidence,parsed,correct,reply
+Qwen/Qwen2.5-3B-Instruct,eng,0,elementary_mathematics,2,1,1.0,1,0,"Answer: B
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,eng,1,elementary_mathematics,2,2,1.0,1,1,"Answer: C
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,eng,2,elementary_mathematics,3,3,1.0,1,1,"Answer: D
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,eng,3,elementary_mathematics,1,2,1.0,1,0,"Answer: C
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,eng,4,elementary_mathematics,1,1,1.0,1,1,"Answer: B
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,eng,5,elementary_mathematics,2,2,1.0,1,1,"Answer: C
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,eng,6,elementary_mathematics,2,2,1.0,1,1,"Answer: C
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,eng,7,elementary_mathematics,1,1,1.0,1,1,"Answer: B
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,eng,8,elementary_mathematics,3,3,1.0,1,1,"Answer: D
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,eng,9,elementary_mathematics,3,3,1.0,1,1,"Answer: D
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,eng,10,elementary_mathematics,2,2,1.0,1,1,"Answer: C
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,eng,11,elementary_mathematics,3,2,1.0,1,0,"Answer: C
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,eng,12,elementary_mathematics,0,0,1.0,1,1,"Answer: A
+Confidence: 100
+
+The calculation is straightforward: 56 miles ÷ "
+Qwen/Qwen2.5-3B-Instruct,eng,13,elementary_mathematics,0,0,1.0,1,1,"Answer: A
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,eng,14,elementary_mathematics,2,1,1.0,1,0,"Answer: B
+Confidence: 100
+
+Explanation: To determine the best buy, we need to calculate"
+Qwen/Qwen2.5-3B-Instruct,eng,15,elementary_mathematics,1,1,1.0,1,1,"Answer: B
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,eng,16,elementary_mathematics,1,2,1.0,1,0,"Answer: C
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,eng,17,elementary_mathematics,1,1,1.0,1,1,"Answer: B
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,eng,18,elementary_mathematics,3,3,1.0,1,1,"Answer: D
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,eng,19,elementary_mathematics,0,1,1.0,1,0,"Answer: B
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,eng,20,elementary_mathematics,2,2,1.0,1,1,"Answer: C
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,eng,21,elementary_mathematics,1,2,1.0,1,0,"Answer: C
+Confidence: 100
+
+The coach rounded the number of runners to the nearest 1"
+Qwen/Qwen2.5-3B-Instruct,eng,22,elementary_mathematics,0,0,1.0,1,1,"Answer: A
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,eng,23,elementary_mathematics,2,2,1.0,1,1,"Answer: C
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,eng,24,elementary_mathematics,1,2,1.0,1,0,"Answer: C
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,eng,25,elementary_mathematics,0,0,1.0,1,1,"Answer: A
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,eng,26,elementary_mathematics,3,3,1.0,1,1,"Answer: D
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,eng,27,elementary_mathematics,3,1,1.0,1,0,"Answer: B
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,eng,28,elementary_mathematics,0,0,1.0,1,1,"Answer: A
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,eng,29,elementary_mathematics,0,0,1.0,1,1,"Answer: A
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,eng,30,elementary_mathematics,1,0,1.0,1,0,"Answer: A
+Confidence: 100
+
+The digit '6' in 186,4"
+Qwen/Qwen2.5-3B-Instruct,eng,31,elementary_mathematics,1,0,1.0,1,0,"Answer: A
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,eng,32,elementary_mathematics,0,2,1.0,1,0,"Answer: C
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,eng,33,elementary_mathematics,2,1,1.0,1,0,"Answer: B
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,eng,34,elementary_mathematics,3,3,1.0,1,1,"Answer: D
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,eng,35,elementary_mathematics,0,0,1.0,1,1,"Answer: A
+Confidence: 100
+
+Answer: C
+Confidence: 100
+
+"
+Qwen/Qwen2.5-3B-Instruct,eng,36,elementary_mathematics,0,0,1.0,1,1,"Answer: A
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,eng,37,elementary_mathematics,3,3,1.0,1,1,"Answer: D
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,eng,38,elementary_mathematics,2,2,1.0,1,1,"Answer: C
+Confidence: 100
+
+The correct expression should represent the same calculation as 6 ×"
+Qwen/Qwen2.5-3B-Instruct,eng,39,elementary_mathematics,2,0,1.0,1,0,"Answer: A
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,eng,40,elementary_mathematics,1,1,1.0,1,1,"Answer: B
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,eng,41,elementary_mathematics,3,0,1.0,1,0,"Answer: A
+Confidence: 100
+
+The correct answer is A because the weights of the books are"
+Qwen/Qwen2.5-3B-Instruct,eng,42,elementary_mathematics,0,0,1.0,1,1,"Answer: A
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,eng,43,elementary_mathematics,2,2,1.0,1,1,"Answer: C
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,eng,44,elementary_mathematics,3,2,1.0,1,0,"Answer: C
+Confidence: 100
+
+The pattern increases by 4 each time (5-1"
+Qwen/Qwen2.5-3B-Instruct,eng,45,elementary_mathematics,1,2,1.0,1,0,"Answer: C
+Confidence: 100
+
+The calculation involves determining the cost per can and then using that"
+Qwen/Qwen2.5-3B-Instruct,eng,46,elementary_mathematics,3,2,1.0,1,0,"Answer: C
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,eng,47,elementary_mathematics,2,2,1.0,1,1,"Answer: C
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,eng,48,elementary_mathematics,3,2,1.0,1,0,"Answer: C
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,eng,49,elementary_mathematics,3,3,1.0,1,1,"Answer: D
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,eng,50,elementary_mathematics,0,2,1.0,1,0,"Answer: C
+Confidence: 100
+
+The problem can be solved by setting up an equation based on"
+Qwen/Qwen2.5-3B-Instruct,eng,51,elementary_mathematics,1,2,1.0,1,0,"Answer: C
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,eng,52,elementary_mathematics,1,1,1.0,1,1,"Answer: B
+Confidence: 100
+
+Explanation: The fraction 20/8 represents a division"
+Qwen/Qwen2.5-3B-Instruct,eng,53,elementary_mathematics,0,0,1.0,1,1,"Answer: A
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,eng,54,elementary_mathematics,1,1,1.0,1,1,"Answer: B
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,eng,55,elementary_mathematics,0,1,1.0,1,0,"Answer: B
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,eng,56,elementary_mathematics,3,0,1.0,1,0,"Answer: A
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,eng,57,elementary_mathematics,0,0,1.0,1,1,"Answer: A
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,eng,58,elementary_mathematics,3,3,1.0,1,1,"Answer: D
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,eng,59,elementary_mathematics,1,1,1.0,1,1,"Answer: B
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,eng,60,elementary_mathematics,3,3,1.0,1,1,"Answer: D
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,eng,61,elementary_mathematics,1,1,1.0,1,1,"Answer: B
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,eng,62,elementary_mathematics,2,2,1.0,1,1,"Answer: C
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,eng,63,elementary_mathematics,2,0,1.0,1,0,"Answer: A
+Confidence: 100
+
+The pair (6, 10) satisfies all conditions"
+Qwen/Qwen2.5-3B-Instruct,eng,64,elementary_mathematics,3,0,1.0,1,0,"Answer: A
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,eng,65,elementary_mathematics,2,1,1.0,1,0,"Answer: B
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,eng,66,elementary_mathematics,3,1,1.0,1,0,"Answer: B
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,eng,67,elementary_mathematics,0,1,1.0,1,0,"Answer: B
+Confidence: 100
+
+The calculation is straightforward: Mr. Kohlberg started with"
+Qwen/Qwen2.5-3B-Instruct,eng,68,elementary_mathematics,2,2,1.0,1,1,"Answer: C
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,eng,69,elementary_mathematics,3,3,1.0,1,1,"Answer: D
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,eng,70,elementary_mathematics,2,1,1.0,1,0,"Answer: B
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,eng,71,elementary_mathematics,0,2,1.0,1,0,"Answer: C
+Confidence: 100
+
+The pattern increases by 20 each time (20"
+Qwen/Qwen2.5-3B-Instruct,eng,72,elementary_mathematics,1,1,1.0,1,1,"Answer: B
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,eng,73,elementary_mathematics,2,2,1.0,1,1,"Answer: C
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,eng,74,elementary_mathematics,1,3,1.0,1,0,"Answer: D
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,eng,75,elementary_mathematics,3,2,1.0,1,0,"Answer: C
+Confidence: 100
+
+The question states that Micah ate an even number of strawberries"
+Qwen/Qwen2.5-3B-Instruct,eng,76,elementary_mathematics,0,1,1.0,1,0,"Answer: B
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,eng,77,elementary_mathematics,3,3,1.0,1,1,"Answer: D
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,eng,78,elementary_mathematics,3,3,1.0,1,1,"Answer: D
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,eng,79,elementary_mathematics,0,0,1.0,1,1,"Answer: A
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,eng,80,elementary_mathematics,1,2,1.0,1,0,"Answer: C
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,eng,81,elementary_mathematics,0,0,1.0,1,1,"Answer: A
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,eng,82,elementary_mathematics,3,3,1.0,1,1,"Answer: D
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,eng,83,elementary_mathematics,2,2,1.0,1,1,"Answer: C
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,eng,84,elementary_mathematics,1,1,1.0,1,1,"Answer: B
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,eng,85,elementary_mathematics,3,2,1.0,1,0,"Answer: C
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,eng,86,elementary_mathematics,0,0,1.0,1,1,"Answer: A
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,eng,87,elementary_mathematics,2,1,1.0,1,0,"Answer: B
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,eng,88,elementary_mathematics,1,1,1.0,1,1,"Answer: B
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,eng,89,elementary_mathematics,1,2,1.0,1,0,"Answer: C
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,eng,90,elementary_mathematics,2,2,1.0,1,1,"Answer: C
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,eng,91,elementary_mathematics,0,1,1.0,1,0,"Answer: B
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,eng,92,elementary_mathematics,1,1,1.0,1,1,"Answer: B
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,eng,93,elementary_mathematics,0,1,1.0,1,0,"Answer: B
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,eng,94,elementary_mathematics,2,1,1.0,1,0,"Answer: B
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,eng,95,elementary_mathematics,3,1,1.0,1,0,"Answer: B
+Confidence: 100
+
+Explanation: First, convert all measurements to the same unit."
+Qwen/Qwen2.5-3B-Instruct,eng,96,elementary_mathematics,2,1,1.0,1,0,"Answer: B
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,eng,97,elementary_mathematics,0,3,1.0,1,0,"Answer: D
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,eng,98,elementary_mathematics,0,2,1.0,1,0,"Answer: C
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,eng,99,elementary_mathematics,2,2,1.0,1,1,"Answer: C
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,eng,100,high_school_geography,1,0,1.0,1,0,"Answer: A
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,eng,101,high_school_geography,3,3,1.0,1,1,"Answer: D
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,eng,102,high_school_geography,2,2,1.0,1,1,"Answer: C
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,eng,103,high_school_geography,0,2,1.0,1,0,"Answer: C
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,eng,104,high_school_geography,3,1,1.0,1,0,"Answer: B
+Confidence: 100
+
+Explanation: Statement B is the only true statement concerning women in"
+Qwen/Qwen2.5-3B-Instruct,eng,105,high_school_geography,3,3,1.0,1,1,"Answer: D
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,eng,106,high_school_geography,3,0,1.0,1,0,"Answer: A
+Confidence: 100
+
+Vietnam is a country that has undergone significant territorial changes over"
+Qwen/Qwen2.5-3B-Instruct,eng,107,high_school_geography,2,2,1.0,1,1,"Answer: C
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,eng,108,high_school_geography,0,3,1.0,1,0,"Answer: D
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,eng,109,high_school_geography,3,0,1.0,1,0,"Answer: A
+Confidence: 100
+
+Explanation: The Mediterranean climate, characterized by hot, dry summers"
+Qwen/Qwen2.5-3B-Instruct,eng,110,high_school_geography,0,0,1.0,1,1,"Answer: A
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,eng,111,high_school_geography,1,3,1.0,1,0,"Answer: D
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,eng,112,high_school_geography,0,0,1.0,1,1,"Answer: A
+Confidence: 100
+
+The data on religious demographics in the United States indicates that Islam"
+Qwen/Qwen2.5-3B-Instruct,eng,113,high_school_geography,3,3,1.0,1,1,"Answer: D
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,eng,114,high_school_geography,1,1,1.0,1,1,"Answer: B
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,eng,115,high_school_geography,3,0,1.0,1,0,"Answer: A
+Confidence: 100
+
+Explanation: Buddhism is generally considered to have been founded earliest,"
+Qwen/Qwen2.5-3B-Instruct,eng,116,high_school_geography,3,3,1.0,1,1,"Answer: D
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,eng,117,high_school_geography,3,3,1.0,1,1,"Answer: D
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,eng,118,high_school_geography,1,1,1.0,1,1,"Answer: B
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,eng,119,high_school_geography,2,2,1.0,1,1,"Answer: C
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,eng,120,high_school_geography,2,2,1.0,1,1,"Answer: C
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,eng,121,high_school_geography,3,2,1.0,1,0,"Answer: C
+Confidence: 100
+
+Thomas Malthus failed to recognize that wars and famine do"
+Qwen/Qwen2.5-3B-Instruct,eng,122,high_school_geography,3,0,1.0,1,0,"Answer: A
+Confidence: 100
+
+Explanation: Islam and Judaism are both considered universalizing religions because"
+Qwen/Qwen2.5-3B-Instruct,eng,123,high_school_geography,3,3,1.0,1,1,"Answer: D
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,eng,124,high_school_geography,1,1,1.0,1,1,"Answer: B
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,eng,125,high_school_geography,0,0,1.0,1,1,"Answer: A
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,eng,126,high_school_geography,1,1,1.0,1,1,"Answer: B
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,eng,127,high_school_geography,1,0,1.0,1,0,"Answer: A
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,eng,128,high_school_geography,2,2,1.0,1,1,"Answer: C
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,eng,129,high_school_geography,0,0,1.0,1,1,"Answer: A
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,eng,130,high_school_geography,0,0,1.0,1,1,"Answer: A
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,eng,131,high_school_geography,3,0,1.0,1,0,"Answer: A
+Confidence: 100
+
+Explanation: City firefighters are considered essential public safety personnel and are"
+Qwen/Qwen2.5-3B-Instruct,eng,132,high_school_geography,2,2,1.0,1,1,"Answer: C
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,eng,133,high_school_geography,3,0,1.0,1,0,"Answer: A
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,eng,134,high_school_geography,1,0,1.0,1,0,"Answer: A
+Confidence: 100
+
+The United States is the largest economy in the world and has"
+Qwen/Qwen2.5-3B-Instruct,eng,135,high_school_geography,2,1,1.0,1,0,"Answer: B
+Confidence: 100
+
+Explanation: The east-west orientation of the Alpine mountain system and"
+Qwen/Qwen2.5-3B-Instruct,eng,136,high_school_geography,2,0,1.0,1,0,"Answer: A
+Confidence: 100
+
+Explanation: The largest Hindu temple complex in the world is the"
+Qwen/Qwen2.5-3B-Instruct,eng,137,high_school_geography,2,2,1.0,1,1,"Answer: C
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,eng,138,high_school_geography,3,1,1.0,1,0,"Answer: B
+Confidence: 100
+
+The S-curve, also known as the logistic curve,"
+Qwen/Qwen2.5-3B-Instruct,eng,139,high_school_geography,3,1,1.0,1,0,"Answer: B
+Confidence: 100
+
+Explanation: The EU (European Union) is not typically considered"
+Qwen/Qwen2.5-3B-Instruct,eng,140,high_school_geography,0,0,0.0,1,1,"Answer: A, B, C, D
+Confidence: 0"
+Qwen/Qwen2.5-3B-Instruct,eng,141,high_school_geography,1,1,1.0,1,1,"Answer: B. acculturation.
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,eng,142,high_school_geography,1,1,1.0,1,1,"Answer: B
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,eng,143,high_school_geography,1,0,1.0,1,0,"Answer: A
+Confidence: 100
+
+Explanation: A higher-order central place function typically refers to a"
+Qwen/Qwen2.5-3B-Instruct,eng,144,high_school_geography,3,3,1.0,1,1,"Answer: D
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,eng,145,high_school_geography,3,3,1.0,1,1,"Answer: D. mental map.
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,eng,146,high_school_geography,0,2,1.0,1,0,"Answer: C
+Confidence: 100
+
+Explanation: Map scales are typically represented as fractions or ratios where"
+Qwen/Qwen2.5-3B-Instruct,eng,147,high_school_geography,0,2,1.0,1,0,"Answer: C. a relict boundary.
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,eng,148,high_school_geography,3,3,1.0,1,1,"Answer: D
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,eng,149,high_school_geography,1,2,1.0,1,0,"Answer: C
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,eng,150,high_school_geography,0,0,1.0,1,1,"Answer: A
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,eng,151,high_school_geography,3,3,1.0,1,1,"Answer: D
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,eng,152,high_school_geography,1,1,1.0,1,1,"Answer: B
+Confidence: 100
+
+Explanation: The statement ""1870–19"
+Qwen/Qwen2.5-3B-Instruct,eng,153,high_school_geography,2,1,1.0,1,0,"Answer: B
+Confidence: 100
+
+Explanation: Most African cities face significant challenges such as inadequate job"
+Qwen/Qwen2.5-3B-Instruct,eng,154,high_school_geography,3,3,1.0,1,1,"Answer: D
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,eng,155,high_school_geography,2,2,1.0,1,1,"Answer: C
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,eng,156,high_school_geography,0,0,1.0,1,1,"Answer: A
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,eng,157,high_school_geography,3,3,1.0,1,1,"Answer: D
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,eng,158,high_school_geography,3,3,1.0,1,1,"Answer: D
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,eng,159,high_school_geography,0,0,1.0,1,1,"Answer: A
+Confidence: 100
+
+Explanation: A functional region is defined by its economic or social"
+Qwen/Qwen2.5-3B-Instruct,eng,160,high_school_geography,3,2,1.0,1,0,"Answer: C
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,eng,161,high_school_geography,1,0,1.0,1,0,"Answer: A
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,eng,162,high_school_geography,2,2,1.0,1,1,"Answer: C
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,eng,163,high_school_geography,3,3,1.0,1,1,"Answer: D
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,eng,164,high_school_geography,1,0,1.0,1,0,"Answer: A
+Confidence: 100
+
+Explanation: Dixie is a well-known informal region in the"
+Qwen/Qwen2.5-3B-Instruct,eng,165,high_school_geography,2,2,1.0,1,1,"Answer: C
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,eng,166,high_school_geography,3,3,1.0,1,1,"Answer: D
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,eng,167,high_school_geography,1,2,1.0,1,0,"Answer: C
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,eng,168,high_school_geography,2,0,1.0,1,0,"Answer: A
+Confidence: 100
+
+Explanation: Syncretism refers to the fusion and blending of"
+Qwen/Qwen2.5-3B-Instruct,eng,169,high_school_geography,2,2,1.0,1,1,"Answer: C
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,eng,170,high_school_geography,1,1,1.0,1,1,"Answer: B
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,eng,171,high_school_geography,0,3,1.0,1,0,"Answer: D
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,eng,172,high_school_geography,3,3,1.0,1,1,"Answer: D. Veda.
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,eng,173,high_school_geography,2,2,1.0,1,1,"Answer: C
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,eng,174,high_school_geography,2,2,1.0,1,1,"Answer: C
+Confidence: 100
+
+Japan is known for its efforts to preserve its native language,"
+Qwen/Qwen2.5-3B-Instruct,eng,175,high_school_geography,1,0,1.0,1,0,"Answer: A
+Confidence: 100
+
+Explanation: The steel industry is a bulk-gaining industry because"
+Qwen/Qwen2.5-3B-Instruct,eng,176,high_school_geography,3,3,1.0,1,1,"Answer: D
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,eng,177,high_school_geography,3,0,1.0,1,0,"Answer: A
+Confidence: 100
+
+Explanation: A state typically has boundaries, is internationally recognized,"
+Qwen/Qwen2.5-3B-Instruct,eng,178,high_school_geography,0,3,1.0,1,0,"Answer: D. push-pull factors.
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,eng,179,high_school_geography,3,3,1.0,1,1,"Answer: D. edge city.
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,eng,180,high_school_geography,0,3,1.0,1,0,"Answer: D
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,eng,181,high_school_geography,1,1,1.0,1,1,"Answer: B
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,eng,182,high_school_geography,1,1,1.0,1,1,"Answer: B
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,eng,183,high_school_geography,2,0,1.0,1,0,"Answer: A
+Confidence: 100
+
+Explanation: Dixie is a term used to refer to the"
+Qwen/Qwen2.5-3B-Instruct,eng,184,high_school_geography,3,0,1.0,1,0,"Answer: A
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,eng,185,high_school_geography,2,2,1.0,1,1,"Answer: C
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,eng,186,high_school_geography,1,1,1.0,1,1,"Answer: B
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,eng,187,high_school_geography,3,3,1.0,1,1,"Answer: D
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,eng,188,high_school_geography,2,2,1.0,1,1,"Answer: C
+Confidence: 100
+
+Mining copper is a primary economic activity, while assembling automotive parts"
+Qwen/Qwen2.5-3B-Instruct,eng,189,high_school_geography,2,0,1.0,1,0,"Answer: A
+Confidence: 100
+
+Explanation: The term ""migration"" typically refers to the movement"
+Qwen/Qwen2.5-3B-Instruct,eng,190,high_school_geography,2,2,1.0,1,1,"Answer: C
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,eng,191,high_school_geography,3,3,1.0,1,1,"Answer: D
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,eng,192,high_school_geography,2,2,1.0,1,1,"Answer: C
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,eng,193,high_school_geography,2,2,1.0,1,1,"Answer: C
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,eng,194,high_school_geography,3,3,1.0,1,1,"Answer: D. primate city.
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,eng,195,high_school_geography,3,3,1.0,1,1,"Answer: D
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,eng,196,high_school_geography,3,3,1.0,1,1,"Answer: D
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,eng,197,high_school_geography,3,3,1.0,1,1,"Answer: D. a natural boundary.
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,eng,198,high_school_geography,1,1,1.0,1,1,"Answer: B
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,eng,199,high_school_geography,2,2,1.0,1,1,"Answer: C
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,eng,200,international_law,1,1,1.0,1,1,"Answer: B
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,eng,201,international_law,2,0,1.0,1,0,"Answer: A
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,eng,202,international_law,0,0,1.0,1,1,"Answer: A
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,eng,203,international_law,2,2,1.0,1,1,"Answer: C
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,eng,204,international_law,1,1,1.0,1,1,"Answer: B
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,eng,205,international_law,2,2,1.0,1,1,"Answer: C
+Confidence: 100
+
+Protocol 14 did not abolish the Commission of Human Rights"
+Qwen/Qwen2.5-3B-Instruct,eng,206,international_law,2,2,1.0,1,1,"Answer: C
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,eng,207,international_law,1,1,1.0,1,1,"Answer: B
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,eng,208,international_law,0,0,1.0,1,1,"Answer: A
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,eng,209,international_law,2,2,1.0,1,1,"Answer: C
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,eng,210,international_law,1,1,1.0,1,1,"Answer: B
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,eng,211,international_law,2,2,1.0,1,1,"Answer: C
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,eng,212,international_law,1,1,1.0,1,1,"Answer: B
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,eng,213,international_law,2,0,1.0,1,0,"Answer: A
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,eng,214,international_law,0,0,1.0,1,1,"Answer: A
+Confidence: 100
+
+The Kadi judgment introduced the requirement that UN Security Council ("
+Qwen/Qwen2.5-3B-Instruct,eng,215,international_law,1,1,1.0,1,1,"Answer: B
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,eng,216,international_law,0,2,1.0,1,0,"Answer: C
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,eng,217,international_law,2,2,1.0,1,1,"Answer: C
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,eng,218,international_law,3,0,1.0,1,0,"Answer: A
+Confidence: 100
+
+Explanation: The statement in option A is false. There is"
+Qwen/Qwen2.5-3B-Instruct,eng,219,international_law,2,2,1.0,1,1,"Answer: C
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,eng,220,international_law,2,2,1.0,1,1,"Answer: C
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,eng,221,international_law,2,2,1.0,1,1,"Answer: C
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,eng,222,international_law,1,1,1.0,1,1,"Answer: B
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,eng,223,international_law,2,2,1.0,1,1,"Answer: C
+Confidence: 100
+
+Explanation: The correct answer is C. In conciliation,"
+Qwen/Qwen2.5-3B-Instruct,eng,224,international_law,0,0,1.0,1,1,"Answer: A
+Confidence: 100
+
+Explanation: The Osman test includes the following elements:
+- A"
+Qwen/Qwen2.5-3B-Instruct,eng,225,international_law,2,3,1.0,1,0,"Answer: D
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,eng,226,international_law,2,2,1.0,1,1,"Answer: C
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,eng,227,international_law,0,0,1.0,1,1,"Answer: A
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,eng,228,international_law,1,1,1.0,1,1,"Answer: B
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,eng,229,international_law,2,1,1.0,1,0,"Answer: B
+Confidence: 100
+
+The Al-Adsani case involved an Iraqi national who was"
+Qwen/Qwen2.5-3B-Instruct,eng,230,international_law,2,2,1.0,1,1,"Answer: C
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,eng,231,international_law,0,0,1.0,1,1,"Answer: A
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,eng,232,international_law,0,0,1.0,1,1,"Answer: A
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,eng,233,international_law,3,3,1.0,1,1,"Answer: D
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,eng,234,international_law,2,2,1.0,1,1,"Answer: C
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,eng,235,international_law,0,0,1.0,1,1,"Answer: A
+Confidence: 100
+
+Explanation: In China's Constitution, Articles 3, "
+Qwen/Qwen2.5-3B-Instruct,eng,236,international_law,0,0,1.0,1,1,"Answer: A
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,eng,237,international_law,3,3,1.0,1,1,"Answer: D
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,eng,238,international_law,2,2,1.0,1,1,"Answer: C
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,eng,239,international_law,2,2,1.0,1,1,"Answer: C
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,eng,240,international_law,2,3,1.0,1,0,"Answer: D
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,eng,241,international_law,1,0,0.0,1,0,"Answer: A
+Confidence: 0
+
+Answer: B
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,eng,242,international_law,1,1,1.0,1,1,"Answer: B
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,eng,243,international_law,3,3,1.0,1,1,"Answer: D
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,eng,244,international_law,2,2,1.0,1,1,"Answer: C
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,eng,245,international_law,3,2,1.0,1,0,"Answer: C
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,eng,246,international_law,3,1,1.0,1,0,"Answer: B
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,eng,247,international_law,0,2,1.0,1,0,"Answer: C
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,eng,248,international_law,0,0,1.0,1,1,"Answer: A
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,eng,249,international_law,3,3,1.0,1,1,"Answer: D
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,eng,250,international_law,1,1,1.0,1,1,"Answer: B
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,eng,251,international_law,0,1,1.0,1,0,"Answer: B
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,eng,252,international_law,2,2,1.0,1,1,"Answer: C
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,eng,253,international_law,0,1,1.0,1,0,"Answer: B
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,eng,254,international_law,2,2,1.0,1,1,"Answer: C
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,eng,255,international_law,2,1,1.0,1,0,"Answer: B
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,eng,256,international_law,1,1,1.0,1,1,"Answer: B
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,eng,257,international_law,1,1,1.0,1,1,"Answer: B
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,eng,258,international_law,0,0,1.0,1,1,"Answer: A
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,eng,259,international_law,3,3,1.0,1,1,"Answer: D
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,eng,260,international_law,0,0,1.0,1,1,"Answer: A
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,eng,261,international_law,2,2,1.0,1,1,"Answer: C
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,eng,262,international_law,2,0,1.0,1,0,"Answer: A
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,eng,263,international_law,2,2,1.0,1,1,"Answer: C
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,eng,264,international_law,3,2,1.0,1,0,"Answer: C
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,eng,265,international_law,1,1,1.0,1,1,"Answer: B
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,eng,266,international_law,1,0,1.0,1,0,"Answer: A
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,eng,267,international_law,0,0,1.0,1,1,"Answer: A
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,eng,268,international_law,2,2,1.0,1,1,"Answer: C
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,eng,269,international_law,3,1,1.0,1,0,"Answer: B
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,eng,270,international_law,1,1,1.0,1,1,"Answer: B
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,eng,271,international_law,0,0,1.0,1,1,"Answer: A
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,eng,272,international_law,2,3,1.0,1,0,"Answer: D
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,eng,273,international_law,0,1,1.0,1,0,"Answer: B
+Confidence: 100
+
+Explanation: The protective principle of jurisdiction refers to the exercise of"
+Qwen/Qwen2.5-3B-Instruct,eng,274,international_law,1,1,1.0,1,1,"Answer: B
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,eng,275,international_law,2,1,1.0,1,0,"Answer: B
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,eng,276,international_law,2,2,1.0,1,1,"Answer: C
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,eng,277,international_law,3,3,1.0,1,1,"Answer: D
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,eng,278,international_law,1,0,1.0,1,0,"Answer: A
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,eng,279,international_law,1,1,1.0,1,1,"Answer: B
+Confidence: 100
+
+The Universal Declaration of Human Rights (UDHR) was adopted"
+Qwen/Qwen2.5-3B-Instruct,eng,280,international_law,1,1,1.0,1,1,"Answer: B
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,eng,281,international_law,2,2,1.0,1,1,"Answer: C
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,eng,282,international_law,2,2,1.0,1,1,"Answer: C
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,eng,283,international_law,0,0,1.0,1,1,"Answer: A
+Confidence: 100
+
+Explanation: The Human Rights Act 1998 ("
+Qwen/Qwen2.5-3B-Instruct,eng,284,international_law,2,2,1.0,1,1,"Answer: C
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,eng,285,international_law,1,1,1.0,1,1,"Answer: B
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,eng,286,international_law,0,3,1.0,1,0,"Answer: D
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,eng,287,international_law,1,1,1.0,1,1,"Answer: B
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,eng,288,international_law,3,3,1.0,1,1,"Answer: D
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,eng,289,international_law,3,3,1.0,1,1,"Answer: D
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,eng,290,international_law,0,0,1.0,1,1,"Answer: A
+Confidence: 100
+
+Explanation: According to international law, countermeasures are generally"
+Qwen/Qwen2.5-3B-Instruct,eng,291,international_law,0,0,1.0,1,1,"Answer: A
+Confidence: 100
+
+Explanation: Option A correctly identifies the key difference between political and"
+Qwen/Qwen2.5-3B-Instruct,eng,292,international_law,2,2,1.0,1,1,"Answer: C
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,eng,293,international_law,2,1,1.0,1,0,"Answer: B
+Confidence: 100
+
+The 'living instrument principle' refers to the idea that the"
+Qwen/Qwen2.5-3B-Instruct,eng,294,international_law,2,3,1.0,1,0,"Answer: D
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,eng,295,international_law,2,2,1.0,1,1,"Answer: C
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,eng,296,international_law,0,0,1.0,1,1,"Answer: A
+Confidence: 100
+
+The statement ""The war crimes trials at Nuremberg"
+Qwen/Qwen2.5-3B-Instruct,eng,297,international_law,2,2,1.0,1,1,"Answer: C
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,eng,298,international_law,2,2,1.0,1,1,"Answer: C
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,eng,299,international_law,1,1,1.0,1,1,"Answer: B
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,eng,300,global_facts,2,2,1.0,1,1,"Answer: C
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,eng,301,global_facts,1,2,1.0,1,0,"Answer: C
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,eng,302,global_facts,2,3,1.0,1,0,"Answer: D
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,eng,303,global_facts,0,0,1.0,1,1,"Answer: A
+Confidence: 100
+
+China consistently leads in global solar energy generation due to its large"
+Qwen/Qwen2.5-3B-Instruct,eng,304,global_facts,2,0,1.0,1,0,"Answer: A
+Confidence: 100
+
+The question asks about the increase in GDP per capita in Japan"
+Qwen/Qwen2.5-3B-Instruct,eng,305,global_facts,0,0,1.0,1,1,"Answer: A
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,eng,306,global_facts,2,2,1.0,1,1,"Answer: C
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,eng,307,global_facts,2,3,1.0,1,0,"Answer: D
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,eng,308,global_facts,2,3,1.0,1,0,"Answer: D
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,eng,309,global_facts,1,2,1.0,1,0,"Answer: C
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,eng,310,global_facts,3,3,1.0,1,1,"Answer: D
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,eng,311,global_facts,1,0,1.0,1,0,"Answer: A
+Confidence: 100
+
+The World Bank defines extreme poverty as living on less than $"
+Qwen/Qwen2.5-3B-Instruct,eng,312,global_facts,2,0,1.0,1,0,"Answer: A
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,eng,313,global_facts,0,0,1.0,1,1,"Answer: A
+Confidence: 100
+
+Explanation: The redistribution-with-growth policy approach typically includes measures"
+Qwen/Qwen2.5-3B-Instruct,eng,314,global_facts,1,0,1.0,1,0,"Answer: A
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,eng,315,global_facts,1,3,1.0,1,0,"Answer: D
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,eng,316,global_facts,0,3,1.0,1,0,"Answer: D
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,eng,317,global_facts,2,2,1.0,1,1,"Answer: C
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,eng,318,global_facts,2,2,1.0,1,1,"Answer: C
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,eng,319,global_facts,1,2,1.0,1,0,"Answer: C
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,eng,320,global_facts,0,2,1.0,1,0,"Answer: C
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,eng,321,global_facts,0,3,1.0,1,0,"Answer: D
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,eng,322,global_facts,3,3,1.0,1,1,"Answer: D
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,eng,323,global_facts,1,1,1.0,1,1,"Answer: B
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,eng,324,global_facts,3,0,1.0,1,0,"Answer: A
+Confidence: 100
+
+Explanation: As of 2020, according to"
+Qwen/Qwen2.5-3B-Instruct,eng,325,global_facts,3,3,1.0,1,1,"Answer: D
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,eng,326,global_facts,3,2,1.0,1,0,"Answer: C
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,eng,327,global_facts,2,3,1.0,1,0,"Answer: D
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,eng,328,global_facts,3,1,1.0,1,0,"Answer: B
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,eng,329,global_facts,2,3,1.0,1,0,"Answer: D
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,eng,330,global_facts,2,1,1.0,1,0,"Answer: B
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,eng,331,global_facts,0,0,1.0,1,1,"Answer: A
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,eng,332,global_facts,1,2,1.0,1,0,"Answer: C
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,eng,333,global_facts,2,2,1.0,1,1,"Answer: C
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,eng,334,global_facts,3,2,1.0,1,0,"Answer: C
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,eng,335,global_facts,3,2,1.0,1,0,"Answer: C
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,eng,336,global_facts,3,0,1.0,1,0,"Answer: A
+Confidence: 100
+
+Earthquakes have been historically responsible for the highest number of"
+Qwen/Qwen2.5-3B-Instruct,eng,337,global_facts,1,1,1.0,1,1,"Answer: B
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,eng,338,global_facts,3,2,1.0,1,0,"Answer: C
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,eng,339,global_facts,2,3,1.0,1,0,"Answer: D
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,eng,340,global_facts,1,1,1.0,1,1,"Answer: B
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,eng,341,global_facts,0,2,1.0,1,0,"Answer: C
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,eng,342,global_facts,2,0,1.0,1,0,"Answer: A
+Confidence: 100
+
+As of 2019, according to reliable global"
+Qwen/Qwen2.5-3B-Instruct,eng,343,global_facts,0,2,1.0,1,0,"Answer: C
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,eng,344,global_facts,2,0,1.0,1,0,"Answer: A
+Confidence: 100
+
+Diarrheal diseases cause more deaths globally each year than"
+Qwen/Qwen2.5-3B-Instruct,eng,345,global_facts,2,2,1.0,1,1,"Answer: C
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,eng,346,global_facts,0,0,1.0,1,1,"Answer: A
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,eng,347,global_facts,1,2,1.0,1,0,"Answer: C
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,eng,348,global_facts,2,1,1.0,1,0,"Answer: B
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,eng,349,global_facts,1,2,1.0,1,0,"Answer: C
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,eng,350,global_facts,1,0,1.0,1,0,"Answer: A
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,eng,351,global_facts,1,3,1.0,1,0,"Answer: D
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,eng,352,global_facts,1,2,1.0,1,0,"Answer: C
+Confidence: 100
+
+The information provided only mentions the average schooling duration for 3"
+Qwen/Qwen2.5-3B-Instruct,eng,353,global_facts,3,1,1.0,1,0,"Answer: B
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,eng,354,global_facts,0,3,1.0,1,0,"Answer: D
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,eng,355,global_facts,1,1,1.0,1,1,"Answer: B
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,eng,356,global_facts,3,3,1.0,1,1,"Answer: D
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,eng,357,global_facts,3,0,1.0,1,0,"Answer: A
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,eng,358,global_facts,2,2,1.0,1,1,"Answer: C
+Confidence: 100
+
+Explanation: The statement in option C is accurate based on economic"
+Qwen/Qwen2.5-3B-Instruct,eng,359,global_facts,1,2,1.0,1,0,"Answer: C
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,eng,360,global_facts,2,2,1.0,1,1,"Answer: C
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,eng,361,global_facts,0,0,1.0,1,1,"Answer: A
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,eng,362,global_facts,1,2,1.0,1,0,"Answer: C
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,eng,363,global_facts,2,0,1.0,1,0,"Answer: A
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,eng,364,global_facts,1,1,1.0,1,1,"Answer: B. True, False
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,eng,365,global_facts,2,1,1.0,1,0,"Answer: B
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,eng,366,global_facts,0,0,1.0,1,1,"Answer: A
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,eng,367,global_facts,1,0,1.0,1,0,"Answer: A
+Confidence: 100
+
+Japan consistently ranks among the top emitters per capita due to"
+Qwen/Qwen2.5-3B-Instruct,eng,368,global_facts,2,2,1.0,1,1,"Answer: C
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,eng,369,global_facts,1,2,1.0,1,0,"Answer: C
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,eng,370,global_facts,1,3,1.0,1,0,"Answer: D
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,eng,371,global_facts,0,3,1.0,1,0,"Answer: D
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,eng,372,global_facts,1,0,1.0,1,0,"Answer: A
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,eng,373,global_facts,2,3,1.0,1,0,"Answer: D
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,eng,374,global_facts,2,3,1.0,1,0,"Answer: D
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,eng,375,global_facts,1,3,1.0,1,0,"Answer: D
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,eng,376,global_facts,2,2,1.0,1,1,"Answer: C
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,eng,377,global_facts,0,0,1.0,1,1,"Answer: A
+Confidence: 100
+
+As of 2013, the United States had"
+Qwen/Qwen2.5-3B-Instruct,eng,378,global_facts,2,3,1.0,1,0,"Answer: D
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,eng,379,global_facts,1,0,1.0,1,0,"Answer: A
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,eng,380,global_facts,2,2,1.0,1,1,"Answer: C
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,eng,381,global_facts,2,2,1.0,1,1,"Answer: C
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,eng,382,global_facts,0,0,1.0,1,1,"Answer: A
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,eng,383,global_facts,1,3,1.0,1,0,"Answer: D
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,eng,384,global_facts,0,0,1.0,1,1,"Answer: A, True
+Confidence: 100
+
+Statement (1) is generally considered true based on"
+Qwen/Qwen2.5-3B-Instruct,eng,385,global_facts,1,3,1.0,1,0,"Answer: D
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,eng,386,global_facts,2,2,1.0,1,1,"Answer: C
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,eng,387,global_facts,2,0,1.0,1,0,"Answer: A
+Confidence: 100
+
+China invested the largest fraction of its GDP in renewable energy in"
+Qwen/Qwen2.5-3B-Instruct,eng,388,global_facts,2,0,1.0,1,0,"Answer: A
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,eng,389,global_facts,1,2,1.0,1,0,"Answer: C
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,eng,390,global_facts,3,1,1.0,1,0,"Answer: B
+Confidence: 100
+
+Japan is widely recognized for being one of the top emitters"
+Qwen/Qwen2.5-3B-Instruct,eng,391,global_facts,0,0,1.0,1,1,"Answer: A
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,eng,392,global_facts,3,2,1.0,1,0,"Answer: C
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,eng,393,global_facts,1,3,1.0,1,0,"Answer: D
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,eng,394,global_facts,1,2,1.0,1,0,"Answer: C
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,eng,395,global_facts,1,1,1.0,1,1,"Answer: B
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,eng,396,global_facts,3,3,1.0,1,1,"Answer: D
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,eng,397,global_facts,3,3,1.0,1,1,"Answer: D
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,eng,398,global_facts,2,3,1.0,1,0,"Answer: D
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,eng,399,global_facts,3,1,1.0,1,0,"Answer: B
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,eng,400,high_school_microeconomics,0,1,1.0,1,0,"Answer: B
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,eng,401,high_school_microeconomics,2,3,1.0,1,0,"Answer: D
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,eng,402,high_school_microeconomics,1,1,1.0,1,1,"Answer: B
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,eng,403,high_school_microeconomics,3,3,1.0,1,1,"Answer: D
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,eng,404,high_school_microeconomics,3,3,1.0,1,1,"Answer: D
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,eng,405,high_school_microeconomics,3,0,1.0,1,0,"Answer: A
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,eng,406,high_school_microeconomics,3,3,1.0,1,1,"Answer: D
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,eng,407,high_school_microeconomics,2,2,1.0,1,1,"Answer: C
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,eng,408,high_school_microeconomics,3,3,1.0,1,1,"Answer: D
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,eng,409,high_school_microeconomics,1,2,1.0,1,0,"Answer: C
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,eng,410,high_school_microeconomics,2,2,1.0,1,1,"Answer: C
+Confidence: 100
+
+Explanation: In the context of microeconomics, production inputs"
+Qwen/Qwen2.5-3B-Instruct,eng,411,high_school_microeconomics,2,2,1.0,1,1,"Answer: C
+Confidence: 100
+
+Explanation: When apple growers use more pesticides to increase production,"
+Qwen/Qwen2.5-3B-Instruct,eng,412,high_school_microeconomics,3,0,1.0,1,0,"Answer: A
+Confidence: 100
+
+Explanation: A bumper crop of oranges in Florida would lead to"
+Qwen/Qwen2.5-3B-Instruct,eng,413,high_school_microeconomics,2,2,1.0,1,1,"Answer: C
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,eng,414,high_school_microeconomics,1,1,1.0,1,1,"Answer: B
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,eng,415,high_school_microeconomics,3,3,1.0,1,1,"Answer: D
+Confidence: 100
+
+Explanation: The question asks about comparative advantage, not absolute advantage"
+Qwen/Qwen2.5-3B-Instruct,eng,416,high_school_microeconomics,2,3,1.0,1,0,"Answer: D
+Confidence: 100
+
+Explanation: If a new study reveals that apples increase your risk"
+Qwen/Qwen2.5-3B-Instruct,eng,417,high_school_microeconomics,3,3,1.0,1,1,"Answer: D
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,eng,418,high_school_microeconomics,1,1,1.0,1,1,"Answer: B
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,eng,419,high_school_microeconomics,2,2,1.0,1,1,"Answer: C
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,eng,420,high_school_microeconomics,3,3,1.0,1,1,"Answer: D
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,eng,421,high_school_microeconomics,1,1,1.0,1,1,"Answer: B
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,eng,422,high_school_microeconomics,1,1,1.0,1,1,"Answer: B
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,eng,423,high_school_microeconomics,3,1,1.0,1,0,"Answer: B
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,eng,424,high_school_microeconomics,1,1,1.0,1,1,"Answer: B
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,eng,425,high_school_microeconomics,3,3,1.0,1,1,"Answer: D
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,eng,426,high_school_microeconomics,1,0,1.0,1,0,"Answer: A
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,eng,427,high_school_microeconomics,2,2,1.0,1,1,"Answer: C
+Confidence: 100
+
+Explanation: If consumers are advised that multigrained bread will"
+Qwen/Qwen2.5-3B-Instruct,eng,428,high_school_microeconomics,0,0,1.0,1,1,"Answer: A
+Confidence: 100
+
+Explanation: In perfect competition, there are many firms and buyers"
+Qwen/Qwen2.5-3B-Instruct,eng,429,high_school_microeconomics,1,1,1.0,1,1,"Answer: B
+Confidence: 100
+
+Explanation: A negative externality occurs when the production of a"
+Qwen/Qwen2.5-3B-Instruct,eng,430,high_school_microeconomics,3,0,1.0,1,0,"Answer: A
+Confidence: 100
+
+Explanation: In a perfectly competitive market, a firm maximizes"
+Qwen/Qwen2.5-3B-Instruct,eng,431,high_school_microeconomics,1,1,1.0,1,1,"Answer: B
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,eng,432,high_school_microeconomics,0,0,1.0,1,1,"Answer: A
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,eng,433,high_school_microeconomics,1,1,1.0,1,1,"Answer: B
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,eng,434,high_school_microeconomics,3,3,1.0,1,1,"Answer: D
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,eng,435,high_school_microeconomics,0,2,1.0,1,0,"Answer: C
+Confidence: 100
+
+Explanation: Price elasticity of demand measures the responsiveness of quantity demanded"
+Qwen/Qwen2.5-3B-Instruct,eng,436,high_school_microeconomics,0,3,1.0,1,0,"Answer: D
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,eng,437,high_school_microeconomics,3,2,1.0,1,0,"Answer: C
+Confidence: 100
+
+Explanation: In a monopolistically competitive market, firms face downward"
+Qwen/Qwen2.5-3B-Instruct,eng,438,high_school_microeconomics,3,1,1.0,1,0,"Answer: B
+Confidence: 100
+
+Explanation: The Law of Diminishing Marginal Returns affects"
+Qwen/Qwen2.5-3B-Instruct,eng,439,high_school_microeconomics,3,3,1.0,1,1,"Answer: D
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,eng,440,high_school_microeconomics,3,3,1.0,1,1,"Answer: D
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,eng,441,high_school_microeconomics,1,1,1.0,1,1,"Answer: B
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,eng,442,high_school_microeconomics,3,3,1.0,1,1,"Answer: D
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,eng,443,high_school_microeconomics,2,2,1.0,1,1,"Answer: C
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,eng,444,high_school_microeconomics,1,1,1.0,1,1,"Answer: B
+Confidence: 100
+
+Explanation: In a competitive labor market in equilibrium, the market"
+Qwen/Qwen2.5-3B-Instruct,eng,445,high_school_microeconomics,3,3,1.0,1,1,"Answer: D
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,eng,446,high_school_microeconomics,1,1,1.0,1,1,"Answer: B
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,eng,447,high_school_microeconomics,2,2,1.0,1,1,"Answer: C
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,eng,448,high_school_microeconomics,0,0,1.0,1,1,"Answer: A
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,eng,449,high_school_microeconomics,3,3,1.0,1,1,"Answer: D
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,eng,450,high_school_microeconomics,1,1,1.0,1,1,"Answer: B
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,eng,451,high_school_microeconomics,0,0,1.0,1,1,"Answer: A
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,eng,452,high_school_microeconomics,0,0,1.0,1,1,"Answer: A
+Confidence: 100
+
+Explanation: In option A, Brent's decision to buy bread"
+Qwen/Qwen2.5-3B-Instruct,eng,453,high_school_microeconomics,0,0,1.0,1,1,"Answer: A
+Confidence: 100
+
+Explanation: A positive externality occurs when the production or consumption"
+Qwen/Qwen2.5-3B-Instruct,eng,454,high_school_microeconomics,3,3,1.0,1,1,"Answer: D
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,eng,455,high_school_microeconomics,1,1,1.0,1,1,"Answer: B
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,eng,456,high_school_microeconomics,1,1,1.0,1,1,"Answer: B
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,eng,457,high_school_microeconomics,1,1,1.0,1,1,"Answer: B
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,eng,458,high_school_microeconomics,3,2,1.0,1,0,"Answer: C
+Confidence: 100
+
+The long-run average cost (LRAC) curve represents the"
+Qwen/Qwen2.5-3B-Instruct,eng,459,high_school_microeconomics,1,1,1.0,1,1,"Answer: B
+Confidence: 100
+
+Explanation: The kinked demand curve model suggests that firms"
+Qwen/Qwen2.5-3B-Instruct,eng,460,high_school_microeconomics,1,1,1.0,1,1,"Answer: B
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,eng,461,high_school_microeconomics,0,1,1.0,1,0,"Answer: B
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,eng,462,high_school_microeconomics,0,0,1.0,1,1,"Answer: A
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,eng,463,high_school_microeconomics,0,0,1.0,1,1,"Answer: A
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,eng,464,high_school_microeconomics,3,3,1.0,1,1,"Answer: D
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,eng,465,high_school_microeconomics,3,3,1.0,1,1,"Answer: D
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,eng,466,high_school_microeconomics,1,1,1.0,1,1,"Answer: B
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,eng,467,high_school_microeconomics,0,1,1.0,1,0,"Answer: B
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,eng,468,high_school_microeconomics,3,2,1.0,1,0,"Answer: C
+Confidence: 100
+
+Explanation: A minimum wage increase would make it more expensive for"
+Qwen/Qwen2.5-3B-Instruct,eng,469,high_school_microeconomics,3,0,1.0,1,0,"Answer: A
+Confidence: 100
+
+Explanation: In the short run, a perfectly competitive firm will"
+Qwen/Qwen2.5-3B-Instruct,eng,470,high_school_microeconomics,1,1,1.0,1,1,"Answer: B
+Confidence: 100
+
+Explanation: In a competitive market for a normal good like coffee"
+Qwen/Qwen2.5-3B-Instruct,eng,471,high_school_microeconomics,3,3,1.0,1,1,"Answer: D
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,eng,472,high_school_microeconomics,3,2,1.0,1,0,"Answer: C
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,eng,473,high_school_microeconomics,0,0,1.0,1,1,"Answer: A
+Confidence: 100
+
+Explanation: In monopolistic competition, firms produce differentiated products,"
+Qwen/Qwen2.5-3B-Instruct,eng,474,high_school_microeconomics,2,2,1.0,1,1,"Answer: C
+Confidence: 100
+
+Explanation: The backward bending supply curve refers to the phenomenon where"
+Qwen/Qwen2.5-3B-Instruct,eng,475,high_school_microeconomics,3,3,1.0,1,1,"Answer: D
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,eng,476,high_school_microeconomics,2,2,1.0,1,1,"Answer: C
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,eng,477,high_school_microeconomics,3,0,1.0,1,0,"Answer: A
+Confidence: 100
+
+Explanation: In an excise tax scenario, the burden of"
+Qwen/Qwen2.5-3B-Instruct,eng,478,high_school_microeconomics,1,2,1.0,1,0,"Answer: C
+Confidence: 100
+
+Explanation: An increase in the price of a complementary good ("
+Qwen/Qwen2.5-3B-Instruct,eng,479,high_school_microeconomics,3,3,1.0,1,1,"Answer: D
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,eng,480,high_school_microeconomics,0,0,1.0,1,1,"Answer: A
+Confidence: 100
+
+Explanation: Economic rent refers to payments made above the cost of"
+Qwen/Qwen2.5-3B-Instruct,eng,481,high_school_microeconomics,1,1,1.0,1,1,"Answer: B
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,eng,482,high_school_microeconomics,0,0,1.0,1,1,"Answer: A
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,eng,483,high_school_microeconomics,1,3,1.0,1,0,"Answer: D
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,eng,484,high_school_microeconomics,2,2,1.0,1,1,"Answer: C
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,eng,485,high_school_microeconomics,2,2,1.0,1,1,"Answer: C
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,eng,486,high_school_microeconomics,0,0,1.0,1,1,"Answer: A
+Confidence: 100
+
+Explanation: In perfect competition, firms produce a homogeneous product ("
+Qwen/Qwen2.5-3B-Instruct,eng,487,high_school_microeconomics,0,0,0.0,1,1,"Answer: A
+Confidence: 0
+
+Answer: B
+Confidence: 100
+
+Explanation:
+"
+Qwen/Qwen2.5-3B-Instruct,eng,488,high_school_microeconomics,0,0,1.0,1,1,"Answer: A
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,eng,489,high_school_microeconomics,3,3,1.0,1,1,"Answer: D
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,eng,490,high_school_microeconomics,2,0,1.0,1,0,"Answer: A
+Confidence: 100
+
+Explanation: The increase in the quantity demanded for firm B's"
+Qwen/Qwen2.5-3B-Instruct,eng,491,high_school_microeconomics,1,0,1.0,1,0,"Answer: A
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,eng,492,high_school_microeconomics,1,1,1.0,1,1,"Answer: B
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,eng,493,high_school_microeconomics,3,3,1.0,1,1,"Answer: D
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,eng,494,high_school_microeconomics,1,1,1.0,1,1,"Answer: B
+Confidence: 100
+
+Explanation: An increase in the price of tubas directly increases"
+Qwen/Qwen2.5-3B-Instruct,eng,495,high_school_microeconomics,3,2,1.0,1,0,"Answer: C
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,eng,496,high_school_microeconomics,3,3,1.0,1,1,"Answer: D
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,eng,497,high_school_microeconomics,1,1,1.0,1,1,"Answer: B
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,eng,498,high_school_microeconomics,3,0,1.0,1,0,"Answer: A
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,eng,499,high_school_microeconomics,0,3,1.0,1,0,"Answer: D
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,yor,0,elementary_mathematics,2,0,1.0,1,0,"Answer: A
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,yor,1,elementary_mathematics,2,2,1.0,1,1,"Answer: C
+Confidence: 100
+
+The sentence indicates that Ms. Perez missed 40 out"
+Qwen/Qwen2.5-3B-Instruct,yor,2,elementary_mathematics,3,0,1.0,1,0,"Answer: A
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,yor,3,elementary_mathematics,1,0,1.0,1,0,"Answer: A
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,yor,4,elementary_mathematics,1,0,1.0,1,0,"Answer: A
+Confidence: 100
+
+Explanation: The question appears to be about solving an equation related"
+Qwen/Qwen2.5-3B-Instruct,yor,5,elementary_mathematics,2,3,1.0,1,0,"Answer: D
+Confidence: 100
+
+The given expression translates to: ""How much money is left"
+Qwen/Qwen2.5-3B-Instruct,yor,6,elementary_mathematics,2,2,1.0,1,1,"Answer: C
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,yor,7,elementary_mathematics,1,3,1.0,1,0,"Answer: D
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,yor,8,elementary_mathematics,3,3,1.0,1,1,"Answer: D
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,yor,9,elementary_mathematics,3,1,1.0,1,0,"Answer: B
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,yor,10,elementary_mathematics,2,2,1.0,1,1,"Answer: C
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,yor,11,elementary_mathematics,3,3,1.0,1,1,"Answer: D
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,yor,12,elementary_mathematics,0,3,1.0,1,0,"Answer: D
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,yor,13,elementary_mathematics,0,1,1.0,1,0,"Answer: B
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,yor,14,elementary_mathematics,2,2,1.0,1,1,"Answer: C
+Confidence: 100
+
+The question ""Èwo ló dára jùl"
+Qwen/Qwen2.5-3B-Instruct,yor,15,elementary_mathematics,1,2,1.0,1,0,"Answer: C
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,yor,16,elementary_mathematics,1,1,1.0,1,1,"Answer: B
+Confidence: 100
+
+The given sequence appears to be a list of numbers without any"
+Qwen/Qwen2.5-3B-Instruct,yor,17,elementary_mathematics,1,1,1.0,1,1,"Answer: B
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,yor,18,elementary_mathematics,3,2,1.0,1,0,"Answer: C
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,yor,19,elementary_mathematics,0,2,1.0,1,0,"Answer: C
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,yor,20,elementary_mathematics,2,2,1.0,1,1,"Answer: C
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,yor,21,elementary_mathematics,1,3,1.0,1,0,"Answer: D
+Confidence: 100
+
+The question translates to: ""Olùkọ́ni"
+Qwen/Qwen2.5-3B-Instruct,yor,22,elementary_mathematics,0,0,1.0,1,1,"Answer: A
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,yor,23,elementary_mathematics,2,3,1.0,1,0,"Answer: D
+Confidence: 100
+
+The total number of people is 22 + 3"
+Qwen/Qwen2.5-3B-Instruct,yor,24,elementary_mathematics,1,2,1.0,1,0,"Answer: C
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,yor,25,elementary_mathematics,0,0,1.0,1,1,"Answer: A
+Confidence: 100
+
+Explanation: The conversion factor between grams (g) and cent"
+Qwen/Qwen2.5-3B-Instruct,yor,26,elementary_mathematics,3,2,1.0,1,0,"Answer: C
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,yor,27,elementary_mathematics,3,0,1.0,1,0,"Answer: A
+Confidence: 100
+
+The division of 2,324 by 4"
+Qwen/Qwen2.5-3B-Instruct,yor,28,elementary_mathematics,0,0,1.0,1,1,"Answer: A
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,yor,29,elementary_mathematics,0,0,1.0,1,1,"Answer: A
+Confidence: 100
+
+The given question seems to be in Yoruba and appears"
+Qwen/Qwen2.5-3B-Instruct,yor,30,elementary_mathematics,1,0,1.0,1,0,"Answer: A
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,yor,31,elementary_mathematics,1,0,1.0,1,0,"Answer: A
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,yor,32,elementary_mathematics,0,2,1.0,1,0,"Answer: C
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,yor,33,elementary_mathematics,2,0,1.0,1,0,"Answer: A
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,yor,34,elementary_mathematics,3,1,1.0,1,0,"Answer: B
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,yor,35,elementary_mathematics,0,0,1.0,1,1,"Answer: A
+Confidence: 100
+
+Explanation: The Yoruba text provided translates to English as"
+Qwen/Qwen2.5-3B-Instruct,yor,36,elementary_mathematics,0,2,1.0,1,0,"Answer: C
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,yor,37,elementary_mathematics,3,2,1.0,1,0,"Answer: C
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,yor,38,elementary_mathematics,2,2,1.0,1,1,"Answer: C
+Confidence: 100
+
+Explanation: The question translates to: ""The orisha house"
+Qwen/Qwen2.5-3B-Instruct,yor,39,elementary_mathematics,2,1,1.0,1,0,"Answer: B
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,yor,40,elementary_mathematics,1,1,1.0,1,1,"Answer: B
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,yor,41,elementary_mathematics,3,1,1.0,1,0,"Answer: B
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,yor,42,elementary_mathematics,0,0,1.0,1,1,"Answer: A
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,yor,43,elementary_mathematics,2,0,1.0,1,0,"Answer: A
+Confidence: 100
+
+The expression given is \(2(3(4^2"
+Qwen/Qwen2.5-3B-Instruct,yor,44,elementary_mathematics,3,2,1.0,1,0,"Answer: C
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,yor,45,elementary_mathematics,1,2,1.0,1,0,"Answer: C
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,yor,46,elementary_mathematics,3,3,1.0,1,1,"Answer: D
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,yor,47,elementary_mathematics,2,1,1.0,1,0,"Answer: B
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,yor,48,elementary_mathematics,3,2,1.0,1,0,"Answer: C
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,yor,49,elementary_mathematics,3,3,1.0,1,1,"Answer: D
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,yor,50,elementary_mathematics,0,2,1.0,1,0,"Answer: C
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,yor,51,elementary_mathematics,1,2,1.0,1,0,"Answer: C
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,yor,52,elementary_mathematics,1,0,1.0,1,0,"Answer: A
+Confidence: 100
+
+Explanation: The question translates to ""Leslie has $2"
+Qwen/Qwen2.5-3B-Instruct,yor,53,elementary_mathematics,0,2,1.0,1,0,"Answer: C
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,yor,54,elementary_mathematics,1,2,1.0,1,0,"Answer: C
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,yor,55,elementary_mathematics,0,2,1.0,1,0,"Answer: C
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,yor,56,elementary_mathematics,3,0,1.0,1,0,"Answer: A
+Confidence: 100
+
+The question translates to: ""If the temperature at 1"
+Qwen/Qwen2.5-3B-Instruct,yor,57,elementary_mathematics,0,0,1.0,1,1,"Answer: A
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,yor,58,elementary_mathematics,3,2,1.0,1,0,"Answer: C
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,yor,59,elementary_mathematics,1,0,1.0,1,0,"Answer: A
+Confidence: 100
+
+The question translates to ""Kínni ìs"
+Qwen/Qwen2.5-3B-Instruct,yor,60,elementary_mathematics,3,0,1.0,1,0,"Answer: A
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,yor,61,elementary_mathematics,1,0,1.0,1,0,"Answer: A
+Confidence: 100
+
+The question ""Iye ọdún mélò"
+Qwen/Qwen2.5-3B-Instruct,yor,62,elementary_mathematics,2,2,1.0,1,1,"Answer: C
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,yor,63,elementary_mathematics,2,2,1.0,1,1,"Answer: C
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,yor,64,elementary_mathematics,3,2,1.0,1,0,"Answer: C
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,yor,65,elementary_mathematics,2,1,1.0,1,0,"Answer: B
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,yor,66,elementary_mathematics,3,2,1.0,1,0,"Answer: C
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,yor,67,elementary_mathematics,0,2,1.0,1,0,"Answer: C
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,yor,68,elementary_mathematics,2,2,1.0,1,1,"Answer: C
+Confidence: 100
+
+The calculation for 32 × 68 is "
+Qwen/Qwen2.5-3B-Instruct,yor,69,elementary_mathematics,3,2,1.0,1,0,"Answer: C
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,yor,70,elementary_mathematics,2,1,1.0,1,0,"Answer: B
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,yor,71,elementary_mathematics,0,0,1.0,1,1,"Answer: A
+Confidence: 100
+
+The given sequence appears to be an arithmetic progression where each term"
+Qwen/Qwen2.5-3B-Instruct,yor,72,elementary_mathematics,1,2,1.0,1,0,"Answer: C
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,yor,73,elementary_mathematics,2,2,1.0,1,1,"Answer: C
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,yor,74,elementary_mathematics,1,3,1.0,1,0,"Answer: D
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,yor,75,elementary_mathematics,3,2,1.0,1,0,"Answer: C
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,yor,76,elementary_mathematics,0,1,1.0,1,0,"Answer: B
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,yor,77,elementary_mathematics,3,2,1.0,1,0,"Answer: C
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,yor,78,elementary_mathematics,3,0,1.0,1,0,"Answer: A
+Confidence: 100
+
+The sentence translates to ""Kọ́ọ́pù"
+Qwen/Qwen2.5-3B-Instruct,yor,79,elementary_mathematics,0,0,1.0,1,1,"Answer: A
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,yor,80,elementary_mathematics,1,2,1.0,1,0,"Answer: C
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,yor,81,elementary_mathematics,0,0,1.0,1,1,"Answer: A
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,yor,82,elementary_mathematics,3,3,1.0,1,1,"Answer: D
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,yor,83,elementary_mathematics,2,0,1.0,1,0,"Answer: A
+Confidence: 100
+
+Explanation: The Yoruba sentence ""Kọ 4"
+Qwen/Qwen2.5-3B-Instruct,yor,84,elementary_mathematics,1,0,1.0,1,0,"Answer: A
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,yor,85,elementary_mathematics,3,2,1.0,1,0,"Answer: C
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,yor,86,elementary_mathematics,0,0,1.0,1,1,"Answer: A
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,yor,87,elementary_mathematics,2,1,1.0,1,0,"Answer: B
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,yor,88,elementary_mathematics,1,0,1.0,1,0,"Answer: A
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,yor,89,elementary_mathematics,1,2,1.0,1,0,"Answer: C
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,yor,90,elementary_mathematics,2,2,1.0,1,1,"Answer: C
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,yor,91,elementary_mathematics,0,0,1.0,1,1,"Answer: A
+Confidence: 100
+
+The question translates to: ""In a relay race with "
+Qwen/Qwen2.5-3B-Instruct,yor,92,elementary_mathematics,1,1,1.0,1,1,"Answer: B
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,yor,93,elementary_mathematics,0,1,1.0,1,0,"Answer: B
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,yor,94,elementary_mathematics,2,1,1.0,1,0,"Answer: B
+Confidence: 100
+
+The question translates to ""Kínni nọ́"
+Qwen/Qwen2.5-3B-Instruct,yor,95,elementary_mathematics,3,2,1.0,1,0,"Answer: C
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,yor,96,elementary_mathematics,2,3,1.0,1,0,"Answer: D
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,yor,97,elementary_mathematics,0,3,1.0,1,0,"Answer: D
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,yor,98,elementary_mathematics,0,2,1.0,1,0,"Answer: C
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,yor,99,elementary_mathematics,2,2,1.0,1,1,"Answer: C
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,yor,100,high_school_geography,1,1,1.0,1,1,"Answer: B
+Confidence: 100
+
+The provided text appears to be in Yoruba and translates"
+Qwen/Qwen2.5-3B-Instruct,yor,101,high_school_geography,3,3,1.0,1,1,"Answer: D
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,yor,102,high_school_geography,2,2,1.0,1,1,"Answer: C. àdínkù àjọṣepọ̀.
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,yor,103,high_school_geography,0,0,1.0,1,1,"Answer: A
+Confidence: 100
+
+The question translates to English as: ""Which of the following"
+Qwen/Qwen2.5-3B-Instruct,yor,104,high_school_geography,3,0,1.0,1,0,"Answer: A
+Confidence: 100
+
+Explanation: The question translates to ""What did the Obir"
+Qwen/Qwen2.5-3B-Instruct,yor,105,high_school_geography,3,0,1.0,1,0,"Answer: A. ààbò.
+Confidence: 100
+
+The sentence translates to English as """
+Qwen/Qwen2.5-3B-Instruct,yor,106,high_school_geography,3,0,1.0,1,0,"Answer: A
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,yor,107,high_school_geography,2,0,1.0,1,0,"Answer: A
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,yor,108,high_school_geography,0,0,1.0,1,1,"Answer: A
+Confidence: 100
+
+The question translates to English as ""Which of the following is"
+Qwen/Qwen2.5-3B-Instruct,yor,109,high_school_geography,3,0,1.0,1,0,"Answer: A
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,yor,110,high_school_geography,0,2,1.0,1,0,"Answer: C
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,yor,111,high_school_geography,1,1,1.0,1,1,"Answer: B
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,yor,112,high_school_geography,0,1,1.0,1,0,"Answer: B
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,yor,113,high_school_geography,3,2,1.0,1,0,"Answer: C. sàkánì.
+Confidence: 100
+
+The sentence appears to be in"
+Qwen/Qwen2.5-3B-Instruct,yor,114,high_school_geography,1,0,1.0,1,0,"Answer: A
+Confidence: 100
+
+Explanation: The phrase ""Oríkì tó dá"
+Qwen/Qwen2.5-3B-Instruct,yor,115,high_school_geography,3,2,1.0,1,0,"Answer: C
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,yor,116,high_school_geography,3,0,1.0,1,0,"Answer: A
+Confidence: 100
+
+Explanation: The question translates to ""Why do the towns compete"
+Qwen/Qwen2.5-3B-Instruct,yor,117,high_school_geography,3,2,1.0,1,0,"Answer: C
+Confidence: 100
+
+The question translates to: ""Which of the following best describes"
+Qwen/Qwen2.5-3B-Instruct,yor,118,high_school_geography,1,0,1.0,1,0,"Answer: A
+Confidence: 100
+
+The question translates to English as ""Which of the following is"
+Qwen/Qwen2.5-3B-Instruct,yor,119,high_school_geography,2,1,,0,0,"Answer: B. ẹkùn tó ń ṣiṣẹ́.
+Confidence:"
+Qwen/Qwen2.5-3B-Instruct,yor,120,high_school_geography,2,2,1.0,1,1,"Answer: C
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,yor,121,high_school_geography,3,0,1.0,1,0,"Answer: A
+Confidence: 100
+
+Explanation: The sentence ""Kókó pàtà"
+Qwen/Qwen2.5-3B-Instruct,yor,122,high_school_geography,3,0,1.0,1,0,"Answer: A
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,yor,123,high_school_geography,3,1,1.0,1,0,"Answer: B
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,yor,124,high_school_geography,1,2,1.0,1,0,"Answer: C. ìjọba alágbádá
+Confidence: 100
+
+"
+Qwen/Qwen2.5-3B-Instruct,yor,125,high_school_geography,0,0,1.0,1,1,"Answer: A
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,yor,126,high_school_geography,1,1,1.0,1,1,"Answer: B
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,yor,127,high_school_geography,1,0,1.0,1,0,"Answer: A
+Confidence: 100
+
+Explanation: The given Yoruba text translates to English as"
+Qwen/Qwen2.5-3B-Instruct,yor,128,high_school_geography,2,0,1.0,1,0,"Answer: A
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,yor,129,high_school_geography,0,0,1.0,1,1,"Answer: A. Àkọ́kọ́
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,yor,130,high_school_geography,0,0,1.0,1,1,"Answer: A. Àkọ́kọ́
+Confidence: 100
+
+The question translates to"
+Qwen/Qwen2.5-3B-Instruct,yor,131,high_school_geography,3,2,1.0,1,0,"Answer: C. alágbáfọ̀.
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,yor,132,high_school_geography,2,0,1.0,1,0,"Answer: A
+Confidence: 100
+
+Explanation: The Yoruba sentence ""Awon ile i"
+Qwen/Qwen2.5-3B-Instruct,yor,133,high_school_geography,3,0,1.0,1,0,"Answer: A
+Confidence: 100
+
+The question translates to English as: ""Which of the following"
+Qwen/Qwen2.5-3B-Instruct,yor,134,high_school_geography,1,0,1.0,1,0,"Answer: A
+Confidence: 100
+
+The question translates to English as: ""Which country has not"
+Qwen/Qwen2.5-3B-Instruct,yor,135,high_school_geography,2,3,1.0,1,0,"Answer: D
+Confidence: 100
+
+Explanation: The sentence translates to ""Ọ̀kan (O"
+Qwen/Qwen2.5-3B-Instruct,yor,136,high_school_geography,2,1,1.0,1,0,"Answer: B. Bombay.
+Confidence: 100
+
+The sentence ""Tẹ́ḿpìl"
+Qwen/Qwen2.5-3B-Instruct,yor,137,high_school_geography,2,0,1.0,1,0,"Answer: A
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,yor,138,high_school_geography,3,2,1.0,1,0,"Answer: C
+Confidence: 100
+
+The question translates to English as: ""Which of the following"
+Qwen/Qwen2.5-3B-Instruct,yor,139,high_school_geography,3,2,1.0,1,0,"Answer: C
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,yor,140,high_school_geography,0,0,0.01,1,1,"Answer: A. ìfẹ́ orílẹ̀-èdè.
+Confidence: 1"
+Qwen/Qwen2.5-3B-Instruct,yor,141,high_school_geography,1,0,1.0,1,0,"Answer: A. gbígba ìrísí.
+Confidence: 100
+
+The sentence appears"
+Qwen/Qwen2.5-3B-Instruct,yor,142,high_school_geography,1,0,1.0,1,0,"Answer: A
+Confidence: 100
+
+The question translates to English as ""Which of the following is"
+Qwen/Qwen2.5-3B-Instruct,yor,143,high_school_geography,1,0,1.0,1,0,"Answer: A
+Confidence: 100
+
+The question translates to English as ""Which of the following is"
+Qwen/Qwen2.5-3B-Instruct,yor,144,high_school_geography,3,0,1.0,1,0,"Answer: A
+Confidence: 100
+
+The question translates to English as: ""Who proposed the stages"
+Qwen/Qwen2.5-3B-Instruct,yor,145,high_school_geography,3,0,1.0,1,0,"Answer: A
+Confidence: 100
+
+Explanation: The sentence appears to be in Yoruba and"
+Qwen/Qwen2.5-3B-Instruct,yor,146,high_school_geography,0,2,1.0,1,0,"Answer: C. Main Street, Small Town, Ohio.
+Confidence: 100
+
+The sentence translates to"
+Qwen/Qwen2.5-3B-Instruct,yor,147,high_school_geography,0,0,1.0,1,1,"Answer: A
+Confidence: 100
+
+The provided text appears to be in Yoruba and translates"
+Qwen/Qwen2.5-3B-Instruct,yor,148,high_school_geography,3,0,1.0,1,0,"Answer: A
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,yor,149,high_school_geography,1,1,1.0,1,1,"Answer: B
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,yor,150,high_school_geography,0,0,,0,0,Answer: A. Ìyapa ẹ̀sìn àti orílẹ̀-èdè
+Qwen/Qwen2.5-3B-Instruct,yor,151,high_school_geography,3,2,1.0,1,0,"Answer: C. ààyè mímọ̀.
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,yor,152,high_school_geography,1,2,1.0,1,0,"Answer: C
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,yor,153,high_school_geography,2,0,1.0,1,0,"Answer: A
+Confidence: 100
+
+The question translates to English as: ""How did they bury"
+Qwen/Qwen2.5-3B-Instruct,yor,154,high_school_geography,3,0,1.0,1,0,"Answer: A
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,yor,155,high_school_geography,2,0,1.0,1,0,"Answer: A
+Confidence: 100
+
+The question translates to English as: ""Which of the following"
+Qwen/Qwen2.5-3B-Instruct,yor,156,high_school_geography,0,3,1.0,1,0,"Answer: D. Burgess.
+Confidence: 100
+
+The question appears to be asking about urban growth theories"
+Qwen/Qwen2.5-3B-Instruct,yor,157,high_school_geography,3,0,1.0,1,0,"Answer: A
+Confidence: 100
+
+The question translates to English as: ""Which of the following"
+Qwen/Qwen2.5-3B-Instruct,yor,158,high_school_geography,3,2,1.0,1,0,"Answer: C
+Confidence: 100
+
+The sentence translates to English as: ""The police arrested and"
+Qwen/Qwen2.5-3B-Instruct,yor,159,high_school_geography,0,3,1.0,1,0,"Answer: D
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,yor,160,high_school_geography,3,2,1.0,1,0,"Answer: C. ìnílò ara ẹni.
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,yor,161,high_school_geography,1,0,1.0,1,0,"Answer: A
+Confidence: 100
+
+The sentence ""Ìṣẹ̀dá àwọn"
+Qwen/Qwen2.5-3B-Instruct,yor,162,high_school_geography,2,1,1.0,1,0,"Answer: B
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,yor,163,high_school_geography,3,0,1.0,1,0,"Answer: A
+Confidence: 100
+
+Explanation: The question translates to ""Which of the following statements"
+Qwen/Qwen2.5-3B-Instruct,yor,164,high_school_geography,1,2,1.0,1,0,"Answer: C
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,yor,165,high_school_geography,2,0,1.0,1,0,"Answer: A
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,yor,166,high_school_geography,3,3,1.0,1,1,"Answer: D
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,yor,167,high_school_geography,1,2,1.0,1,0,"Answer: C
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,yor,168,high_school_geography,2,0,1.0,1,0,"Answer: A
+Confidence: 100
+
+Explanation: The question appears to be asking about a holiday or"
+Qwen/Qwen2.5-3B-Instruct,yor,169,high_school_geography,2,2,,0,0,"Answer: C. tíọ́rì gbùngbùn orílẹ̀-èdè.
+"
+Qwen/Qwen2.5-3B-Instruct,yor,170,high_school_geography,1,0,1.0,1,0,"Answer: A
+Confidence: 100
+
+The question translates to English as: ""Which religion does the"
+Qwen/Qwen2.5-3B-Instruct,yor,171,high_school_geography,0,0,1.0,1,1,"Answer: A
+Confidence: 100
+
+Explanation: The phrase ""Ipa ìsọd"
+Qwen/Qwen2.5-3B-Instruct,yor,172,high_school_geography,3,1,1.0,1,0,"Answer: B. Bíbélì.
+Confidence: 100
+
+The question translates to ""Which of"
+Qwen/Qwen2.5-3B-Instruct,yor,173,high_school_geography,2,2,1.0,1,1,"Answer: C
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,yor,174,high_school_geography,2,0,1.0,1,0,"Answer: A
+Confidence: 100
+
+The question translates to English as: ""Which of the following"
+Qwen/Qwen2.5-3B-Instruct,yor,175,high_school_geography,1,2,1.0,1,0,"Answer: C. Ìwé
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,yor,176,high_school_geography,3,0,1.0,1,0,"Answer: A
+Confidence: 100
+
+Explanation: The question appears to be asking about the location of"
+Qwen/Qwen2.5-3B-Instruct,yor,177,high_school_geography,3,0,1.0,1,0,"Answer: A
+Confidence: 100
+
+The question translates to English as ""Which of the following is"
+Qwen/Qwen2.5-3B-Instruct,yor,178,high_school_geography,0,0,1.0,1,1,"Answer: A
+Confidence: 100
+
+Explanation: The given text appears to be in Yoruba"
+Qwen/Qwen2.5-3B-Instruct,yor,179,high_school_geography,3,3,1.0,1,1,"Answer: D. ìlú ìṣòwò.
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,yor,180,high_school_geography,0,0,1.0,1,1,"Answer: A
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,yor,181,high_school_geography,1,1,1.0,1,1,"Answer: B
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,yor,182,high_school_geography,1,1,1.0,1,1,"Answer: B. Òfurufú
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,yor,183,high_school_geography,2,2,1.0,1,1,"Answer: C
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,yor,184,high_school_geography,3,2,1.0,1,0,"Answer: C
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,yor,185,high_school_geography,2,2,1.0,1,1,"Answer: C
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,yor,186,high_school_geography,1,2,1.0,1,0,"Answer: C
+Confidence: 100
+
+Explanation: The question appears to be asking about a historical event"
+Qwen/Qwen2.5-3B-Instruct,yor,187,high_school_geography,3,0,1.0,1,0,"Answer: A
+Confidence: 100
+
+Explanation: The question translates to ""Why did the Muslims attack"
+Qwen/Qwen2.5-3B-Instruct,yor,188,high_school_geography,2,0,1.0,1,0,"Answer: A
+Confidence: 100
+
+The question translates to English as ""Which of the following is"
+Qwen/Qwen2.5-3B-Instruct,yor,189,high_school_geography,2,0,1.0,1,0,"Answer: A
+Confidence: 100
+
+Explanation: The question appears to be asking about Johnny and Sus"
+Qwen/Qwen2.5-3B-Instruct,yor,190,high_school_geography,2,1,1.0,1,0,"Answer: B
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,yor,191,high_school_geography,3,0,1.0,1,0,"Answer: A
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,yor,192,high_school_geography,2,0,,0,0,"Answer: A. Ọlọ́pọ̀ ìgbàgbọ́.
+Confidence: "
+Qwen/Qwen2.5-3B-Instruct,yor,193,high_school_geography,2,2,1.0,1,1,"Answer: C
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,yor,194,high_school_geography,3,0,1.0,1,0,"Answer: A. ìlú àgbáyé.
+Confidence: 100
+
+The sentence"
+Qwen/Qwen2.5-3B-Instruct,yor,195,high_school_geography,3,2,1.0,1,0,"Answer: C
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,yor,196,high_school_geography,3,0,1.0,1,0,"Answer: A
+Confidence: 100
+
+The question translates to English as: ""What kind of land"
+Qwen/Qwen2.5-3B-Instruct,yor,197,high_school_geography,3,2,1.0,1,0,"Answer: C. ààlà àtọwọ́dá.
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,yor,198,high_school_geography,1,2,1.0,1,0,"Answer: C
+Confidence: 100
+
+The question translates to: ""Which of the following is NOT"
+Qwen/Qwen2.5-3B-Instruct,yor,199,high_school_geography,2,0,1.0,1,0,"Answer: A
+Confidence: 100
+
+The sentence ""Àlàfo tó wà láà"
+Qwen/Qwen2.5-3B-Instruct,yor,200,international_law,1,1,1.0,1,1,"Answer: B
+Confidence: 100
+
+The question translates to: ""Which of the following is not"
+Qwen/Qwen2.5-3B-Instruct,yor,201,international_law,2,2,1.0,1,1,"Answer: C
+Confidence: 100
+
+Explanation: The question appears to be asking about the role of"
+Qwen/Qwen2.5-3B-Instruct,yor,202,international_law,0,0,1.0,1,1,"Answer: A
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,yor,203,international_law,2,0,1.0,1,0,"Answer: A
+Confidence: 100
+
+The question translates to English as: ""Which of the following"
+Qwen/Qwen2.5-3B-Instruct,yor,204,international_law,1,0,1.0,1,0,"Answer: A
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,yor,205,international_law,2,0,1.0,1,0,"Answer: A
+Confidence: 100
+
+Explanation: The question appears to be asking about the date of"
+Qwen/Qwen2.5-3B-Instruct,yor,206,international_law,2,2,1.0,1,1,"Answer: C
+Confidence: 100
+
+The question appears to be asking about the territorial waters under the"
+Qwen/Qwen2.5-3B-Instruct,yor,207,international_law,1,1,1.0,1,1,"Answer: B
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,yor,208,international_law,0,2,1.0,1,0,"Answer: C
+Confidence: 100
+
+The question translates to ""Which organization does the United Nations deal"
+Qwen/Qwen2.5-3B-Instruct,yor,209,international_law,2,0,1.0,1,0,"Answer: A
+Confidence: 100
+
+The question ""Ìkéde Vienna UN 19"
+Qwen/Qwen2.5-3B-Instruct,yor,210,international_law,1,1,1.0,1,1,"Answer: B
+Confidence: 100
+
+The question appears to be asking about the role of the International"
+Qwen/Qwen2.5-3B-Instruct,yor,211,international_law,2,2,1.0,1,1,"Answer: C
+Confidence: 100
+
+The question appears to be asking about the United Nations Security Council"
+Qwen/Qwen2.5-3B-Instruct,yor,212,international_law,1,1,1.0,1,1,"Answer: B
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,yor,213,international_law,2,0,1.0,1,0,"Answer: A
+Confidence: 100
+
+The question appears to be asking about the correct translation of """
+Qwen/Qwen2.5-3B-Instruct,yor,214,international_law,0,0,1.0,1,1,"Answer: A
+Confidence: 100
+
+The question appears to be in Yoruba and seems to"
+Qwen/Qwen2.5-3B-Instruct,yor,215,international_law,1,1,1.0,1,1,"Answer: B
+Confidence: 100
+
+The Magna Carta was indeed signed in 12"
+Qwen/Qwen2.5-3B-Instruct,yor,216,international_law,0,0,1.0,1,1,"Answer: A
+Confidence: 100
+
+Explanation: The question appears to be asking about the status of"
+Qwen/Qwen2.5-3B-Instruct,yor,217,international_law,2,0,1.0,1,0,"Answer: A
+Confidence: 100
+
+The question appears to be asking about the legal status of football"
+Qwen/Qwen2.5-3B-Instruct,yor,218,international_law,3,0,1.0,1,0,"Answer: A
+Confidence: 100
+
+The question appears to be asking about an event related to European"
+Qwen/Qwen2.5-3B-Instruct,yor,219,international_law,2,0,1.0,1,0,"Answer: A
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,yor,220,international_law,2,0,1.0,1,0,"Answer: A
+Confidence: 100
+
+Explanation: The question ""Kínni òdi"
+Qwen/Qwen2.5-3B-Instruct,yor,221,international_law,2,0,1.0,1,0,"Answer: A
+Confidence: 100
+
+The question translates to ""What is the main ingredient of the"
+Qwen/Qwen2.5-3B-Instruct,yor,222,international_law,1,1,1.0,1,1,"Answer: B
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,yor,223,international_law,2,0,1.0,1,0,"Answer: A
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,yor,224,international_law,0,1,1.0,1,0,"Answer: B
+Confidence: 100
+
+Explanation: The question translates to ""In the case of N"
+Qwen/Qwen2.5-3B-Instruct,yor,225,international_law,2,2,1.0,1,1,"Answer: C
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,yor,226,international_law,2,0,1.0,1,0,"Answer: A
+Confidence: 100
+
+The question ""Kínni ànfàní �"
+Qwen/Qwen2.5-3B-Instruct,yor,227,international_law,0,0,1.0,1,1,"Answer: A
+Confidence: 100
+
+The question appears to be in Yoruba and translates roughly"
+Qwen/Qwen2.5-3B-Instruct,yor,228,international_law,1,0,1.0,1,0,"Answer: A
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,yor,229,international_law,2,0,1.0,1,0,"Answer: A
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,yor,230,international_law,2,0,1.0,1,0,"Answer: A
+Confidence: 100
+
+The question appears to be asking about the reason for the judgment"
+Qwen/Qwen2.5-3B-Instruct,yor,231,international_law,0,0,1.0,1,1,"Answer: A
+Confidence: 100
+
+The question ""Báwo ni a ṣe"
+Qwen/Qwen2.5-3B-Instruct,yor,232,international_law,0,0,1.0,1,1,"Answer: A
+Confidence: 100
+
+Explanation: The question appears to be asking about the role of"
+Qwen/Qwen2.5-3B-Instruct,yor,233,international_law,3,0,1.0,1,0,"Answer: A
+Confidence: 100
+
+Explanation: The question appears to be asking about the governance of"
+Qwen/Qwen2.5-3B-Instruct,yor,234,international_law,2,1,1.0,1,0,"Answer: B
+Confidence: 100
+
+Explanation: The question translates to ""Which of the following statements"
+Qwen/Qwen2.5-3B-Instruct,yor,235,international_law,0,2,1.0,1,0,"Answer: C
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,yor,236,international_law,0,0,1.0,1,1,"Answer: A
+Confidence: 100
+
+The question translates to ""Who invented the modern calendar?"" The"
+Qwen/Qwen2.5-3B-Instruct,yor,237,international_law,3,0,1.0,1,0,"Answer: A
+Confidence: 100
+
+Explanation: The question appears to be asking about Resolution 6"
+Qwen/Qwen2.5-3B-Instruct,yor,238,international_law,2,2,1.0,1,1,"Answer: C
+Confidence: 100
+
+Explanation: The question appears to be asking about the function of"
+Qwen/Qwen2.5-3B-Instruct,yor,239,international_law,2,0,1.0,1,0,"Answer: A
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,yor,240,international_law,2,2,1.0,1,1,"Answer: C
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,yor,241,international_law,1,1,1.0,1,1,"Answer: B
+Confidence: 100
+
+Explanation: The question appears to be asking about the meaning of"
+Qwen/Qwen2.5-3B-Instruct,yor,242,international_law,1,1,1.0,1,1,"Answer: B
+Confidence: 100
+
+Explanation: The question asks about the type of constitution for the"
+Qwen/Qwen2.5-3B-Instruct,yor,243,international_law,3,0,1.0,1,0,"Answer: A
+Confidence: 100
+
+Explanation: The question translates to ""Who owns the land where"
+Qwen/Qwen2.5-3B-Instruct,yor,244,international_law,2,1,1.0,1,0,"Answer: B
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,yor,245,international_law,3,0,1.0,1,0,"Answer: A
+Confidence: 100
+
+Explanation: The question appears to be asking about the reason for"
+Qwen/Qwen2.5-3B-Instruct,yor,246,international_law,3,2,1.0,1,0,"Answer: C
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,yor,247,international_law,0,2,1.0,1,0,"Answer: C
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,yor,248,international_law,0,2,1.0,1,0,"Answer: C
+Confidence: 100
+
+The question ""Kí ni ìlànà �"
+Qwen/Qwen2.5-3B-Instruct,yor,249,international_law,3,3,1.0,1,1,"Answer: D
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,yor,250,international_law,1,0,1.0,1,0,"Answer: A
+Confidence: 100
+
+Explanation: The question ""Kí ni àwọn à"
+Qwen/Qwen2.5-3B-Instruct,yor,251,international_law,0,1,1.0,1,0,"Answer: B
+Confidence: 100
+
+Explanation: The given text appears to be in Yoruba"
+Qwen/Qwen2.5-3B-Instruct,yor,252,international_law,2,2,1.0,1,1,"Answer: C
+Confidence: 100
+
+Explanation: The question appears to be asking about the legal status"
+Qwen/Qwen2.5-3B-Instruct,yor,253,international_law,0,0,1.0,1,1,"Answer: A
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,yor,254,international_law,2,2,1.0,1,1,"Answer: C
+Confidence: 100
+
+The question ""Kí ní ojúṣe"
+Qwen/Qwen2.5-3B-Instruct,yor,255,international_law,2,0,1.0,1,0,"Answer: A
+Confidence: 100
+
+The question ""Kí ni àṣẹ lórí"
+Qwen/Qwen2.5-3B-Instruct,yor,256,international_law,1,0,1.0,1,0,"Answer: A
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,yor,257,international_law,1,1,1.0,1,1,"Answer: B
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,yor,258,international_law,0,0,1.0,1,1,"Answer: A
+Confidence: 100
+
+Explanation: The question ""Kí ni ìtum"
+Qwen/Qwen2.5-3B-Instruct,yor,259,international_law,3,3,1.0,1,1,"Answer: D
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,yor,260,international_law,0,0,1.0,1,1,"Answer: A
+Confidence: 100
+
+Explanation: The question appears to be asking about who has the"
+Qwen/Qwen2.5-3B-Instruct,yor,261,international_law,2,2,1.0,1,1,"Answer: C
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,yor,262,international_law,2,0,1.0,1,0,"Answer: A
+Confidence: 100
+
+Explanation: The question ""Kí ni ìtum"
+Qwen/Qwen2.5-3B-Instruct,yor,263,international_law,2,2,1.0,1,1,"Answer: C
+Confidence: 100
+
+The question appears to be asking about the type of land used"
+Qwen/Qwen2.5-3B-Instruct,yor,264,international_law,3,0,1.0,1,0,"Answer: A
+Confidence: 100
+
+Explanation: The question translates to ""Which of the following statements"
+Qwen/Qwen2.5-3B-Instruct,yor,265,international_law,1,0,1.0,1,0,"Answer: A
+Confidence: 100
+
+Explanation: The Yoruba phrase ""Kí ni �"
+Qwen/Qwen2.5-3B-Instruct,yor,266,international_law,1,1,1.0,1,1,"Answer: B
+Confidence: 100
+
+Explanation: The question appears to be in Yoruba and"
+Qwen/Qwen2.5-3B-Instruct,yor,267,international_law,0,1,1.0,1,0,"Answer: B
+Confidence: 100
+
+Explanation: The question asks about the scope of naturalism and"
+Qwen/Qwen2.5-3B-Instruct,yor,268,international_law,2,2,1.0,1,1,"Answer: C
+Confidence: 100
+
+Explanation: The question ""Kí ni 'ìwà"
+Qwen/Qwen2.5-3B-Instruct,yor,269,international_law,3,1,1.0,1,0,"Answer: B
+Confidence: 100
+
+Explanation: The question ""Kí ni àwọn ip"
+Qwen/Qwen2.5-3B-Instruct,yor,270,international_law,1,1,1.0,1,1,"Answer: B
+Confidence: 100
+
+Explanation: The question appears to be asking about ""de facto"
+Qwen/Qwen2.5-3B-Instruct,yor,271,international_law,0,0,1.0,1,1,"Answer: A
+Confidence: 100
+
+Explanation: The question appears to be asking about the relationship between"
+Qwen/Qwen2.5-3B-Instruct,yor,272,international_law,2,2,1.0,1,1,"Answer: C
+Confidence: 100
+
+Explanation: The question translates to ""Did they allow armed forces"
+Qwen/Qwen2.5-3B-Instruct,yor,273,international_law,0,0,1.0,1,1,"Answer: A
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,yor,274,international_law,1,1,1.0,1,1,"Answer: B
+Confidence: 100
+
+Explanation: The correct statement is ""The Council of Europe was"
+Qwen/Qwen2.5-3B-Instruct,yor,275,international_law,2,1,1.0,1,0,"Answer: B
+Confidence: 100
+
+Explanation: The question appears to be asking about the concept of"
+Qwen/Qwen2.5-3B-Instruct,yor,276,international_law,2,2,1.0,1,1,"Answer: C
+Confidence: 100
+
+Explanation: The question ""Kí ni ìdá"
+Qwen/Qwen2.5-3B-Instruct,yor,277,international_law,3,1,1.0,1,0,"Answer: B
+Confidence: 100
+
+Explanation: The question ""Kí ni ìtum"
+Qwen/Qwen2.5-3B-Instruct,yor,278,international_law,1,0,1.0,1,0,"Answer: A
+Confidence: 100
+
+Explanation: The question appears to be in Yoruba and"
+Qwen/Qwen2.5-3B-Instruct,yor,279,international_law,1,0,1.0,1,0,"Answer: A
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,yor,280,international_law,1,1,1.0,1,1,"Answer: B
+Confidence: 100
+
+Explanation: The question appears to be asking about the extrat"
+Qwen/Qwen2.5-3B-Instruct,yor,281,international_law,2,2,1.0,1,1,"Answer: C
+Confidence: 100
+
+Explanation: The phrase ""pacta sunt servanda"""
+Qwen/Qwen2.5-3B-Instruct,yor,282,international_law,2,0,1.0,1,0,"Answer: A
+Confidence: 100
+
+Explanation: The question appears to be asking about a specific case"
+Qwen/Qwen2.5-3B-Instruct,yor,283,international_law,0,1,1.0,1,0,"Answer: B
+Confidence: 100
+
+Explanation: The question appears to be asking about the Human Rights"
+Qwen/Qwen2.5-3B-Instruct,yor,284,international_law,2,2,1.0,1,1,"Answer: C
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,yor,285,international_law,1,1,1.0,1,1,"Answer: B
+Confidence: 100
+
+Explanation: The question ""Kí ni 'òfin t"
+Qwen/Qwen2.5-3B-Instruct,yor,286,international_law,0,1,1.0,1,0,"Answer: B
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,yor,287,international_law,1,1,1.0,1,1,"Answer: B
+Confidence: 100
+
+Explanation: The question appears to be in Yoruba and"
+Qwen/Qwen2.5-3B-Instruct,yor,288,international_law,3,0,1.0,1,0,"Answer: A
+Confidence: 100
+
+Explanation: The question appears to be in Yoruba and"
+Qwen/Qwen2.5-3B-Instruct,yor,289,international_law,3,2,1.0,1,0,"Answer: C
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,yor,290,international_law,0,1,1.0,1,0,"Answer: B
+Confidence: 100
+
+Explanation: The question appears to be asking about countermeasures"
+Qwen/Qwen2.5-3B-Instruct,yor,291,international_law,0,2,1.0,1,0,"Answer: C
+Confidence: 100
+
+Explanation: The question appears to be in Yoruba and"
+Qwen/Qwen2.5-3B-Instruct,yor,292,international_law,2,2,1.0,1,1,"Answer: C
+Confidence: 100
+
+Explanation: The question appears to be in Yoruba and"
+Qwen/Qwen2.5-3B-Instruct,yor,293,international_law,2,3,1.0,1,0,"Answer: D
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,yor,294,international_law,2,2,1.0,1,1,"Answer: C
+Confidence: 100
+
+Explanation: The question appears to be in Yoruba and"
+Qwen/Qwen2.5-3B-Instruct,yor,295,international_law,2,2,1.0,1,1,"Answer: C
+Confidence: 100
+
+The question translates to: ""Kí ni àwár"
+Qwen/Qwen2.5-3B-Instruct,yor,296,international_law,0,2,1.0,1,0,"Answer: C
+Confidence: 100
+
+Explanation: The question appears to be asking about the nature of"
+Qwen/Qwen2.5-3B-Instruct,yor,297,international_law,2,2,1.0,1,1,"Answer: C
+Confidence: 100
+
+Explanation: The question appears to be asking about jurisdiction over foreign"
+Qwen/Qwen2.5-3B-Instruct,yor,298,international_law,2,2,1.0,1,1,"Answer: C
+Confidence: 100
+
+Explanation: The question appears to be in Yoruba and"
+Qwen/Qwen2.5-3B-Instruct,yor,299,international_law,1,1,1.0,1,1,"Answer: B
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,yor,300,global_facts,2,3,1.0,1,0,"Answer: D
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,yor,301,global_facts,1,2,1.0,1,0,"Answer: C
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,yor,302,global_facts,2,3,1.0,1,0,"Answer: D
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,yor,303,global_facts,0,1,1.0,1,0,"Answer: B
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,yor,304,global_facts,2,2,1.0,1,1,"Answer: C
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,yor,305,global_facts,0,0,1.0,1,1,"Answer: A
+Confidence: 100
+
+The question translates to English as ""Which of the following was"
+Qwen/Qwen2.5-3B-Instruct,yor,306,global_facts,2,2,1.0,1,1,"Answer: C
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,yor,307,global_facts,2,3,1.0,1,0,"Answer: D
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,yor,308,global_facts,2,3,1.0,1,0,"Answer: D
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,yor,309,global_facts,1,2,1.0,1,0,"Answer: C
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,yor,310,global_facts,3,3,1.0,1,1,"Answer: D
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,yor,311,global_facts,1,3,1.0,1,0,"Answer: D
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,yor,312,global_facts,2,3,1.0,1,0,"Answer: D
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,yor,313,global_facts,0,2,0.01,1,0,"Answer: C. owó orí onítẹ̀síwájú
+Confidence: 1"
+Qwen/Qwen2.5-3B-Instruct,yor,314,global_facts,1,2,1.0,1,0,"Answer: C
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,yor,315,global_facts,1,2,1.0,1,0,"Answer: C
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,yor,316,global_facts,0,3,1.0,1,0,"Answer: D
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,yor,317,global_facts,2,3,1.0,1,0,"Answer: D
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,yor,318,global_facts,2,3,1.0,1,0,"Answer: D
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,yor,319,global_facts,1,3,1.0,1,0,"Answer: D
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,yor,320,global_facts,0,3,1.0,1,0,"Answer: D
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,yor,321,global_facts,0,3,1.0,1,0,"Answer: D
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,yor,322,global_facts,3,3,1.0,1,1,"Answer: D
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,yor,323,global_facts,1,2,1.0,1,0,"Answer: C
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,yor,324,global_facts,3,0,1.0,1,0,"Answer: A
+Confidence: 100
+
+The question translates to English as ""Who did the government promise"
+Qwen/Qwen2.5-3B-Instruct,yor,325,global_facts,3,3,1.0,1,1,"Answer: D
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,yor,326,global_facts,3,2,1.0,1,0,"Answer: C
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,yor,327,global_facts,2,3,1.0,1,0,"Answer: D
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,yor,328,global_facts,3,3,1.0,1,1,"Answer: D
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,yor,329,global_facts,2,3,1.0,1,0,"Answer: D
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,yor,330,global_facts,2,0,1.0,1,0,"Answer: A
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,yor,331,global_facts,0,3,1.0,1,0,"Answer: D
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,yor,332,global_facts,1,3,1.0,1,0,"Answer: D
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,yor,333,global_facts,2,2,1.0,1,1,"Answer: C
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,yor,334,global_facts,3,3,1.0,1,1,"Answer: D
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,yor,335,global_facts,3,3,1.0,1,1,"Answer: D
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,yor,336,global_facts,3,0,1.0,1,0,"Answer: A
+Confidence: 100
+
+The question translates to English as ""Which of the following is"
+Qwen/Qwen2.5-3B-Instruct,yor,337,global_facts,1,3,1.0,1,0,"Answer: D
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,yor,338,global_facts,3,2,1.0,1,0,"Answer: C
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,yor,339,global_facts,2,3,1.0,1,0,"Answer: D
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,yor,340,global_facts,1,2,1.0,1,0,"Answer: C
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,yor,341,global_facts,0,3,1.0,1,0,"Answer: D
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,yor,342,global_facts,2,0,1.0,1,0,"Answer: A
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,yor,343,global_facts,0,1,1.0,1,0,"Answer: B
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,yor,344,global_facts,2,2,1.0,1,1,"Answer: C
+Confidence: 100
+
+The question translates to English as ""Which of the following was"
+Qwen/Qwen2.5-3B-Instruct,yor,345,global_facts,2,1,1.0,1,0,"Answer: B
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,yor,346,global_facts,0,2,1.0,1,0,"Answer: C
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,yor,347,global_facts,1,3,1.0,1,0,"Answer: D
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,yor,348,global_facts,2,2,1.0,1,1,"Answer: C
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,yor,349,global_facts,1,3,1.0,1,0,"Answer: D
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,yor,350,global_facts,1,2,1.0,1,0,"Answer: C
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,yor,351,global_facts,1,1,1.0,1,1,"Answer: B
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,yor,352,global_facts,1,2,1.0,1,0,"Answer: C
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,yor,353,global_facts,3,2,1.0,1,0,"Answer: C
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,yor,354,global_facts,0,3,1.0,1,0,"Answer: D
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,yor,355,global_facts,1,2,1.0,1,0,"Answer: C
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,yor,356,global_facts,3,3,1.0,1,1,"Answer: D
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,yor,357,global_facts,3,3,1.0,1,1,"Answer: D
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,yor,358,global_facts,2,3,1.0,1,0,"Answer: D
+Confidence: 100
+
+Explanation: The question appears to be asking about the status of"
+Qwen/Qwen2.5-3B-Instruct,yor,359,global_facts,1,2,1.0,1,0,"Answer: C
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,yor,360,global_facts,2,0,1.0,1,0,"Answer: A
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,yor,361,global_facts,0,3,1.0,1,0,"Answer: D
+Confidence: 100
+
+The question appears to be asking about countries where indigenous peoples live"
+Qwen/Qwen2.5-3B-Instruct,yor,362,global_facts,1,3,1.0,1,0,"Answer: D
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,yor,363,global_facts,2,2,1.0,1,1,"Answer: C
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,yor,364,global_facts,1,0,1.0,1,0,"Answer: A
+Confidence: 100
+
+The question appears to be asking about the correct translation of two"
+Qwen/Qwen2.5-3B-Instruct,yor,365,global_facts,2,2,1.0,1,1,"Answer: C
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,yor,366,global_facts,0,2,1.0,1,0,"Answer: C
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,yor,367,global_facts,1,2,1.0,1,0,"Answer: C
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,yor,368,global_facts,2,3,1.0,1,0,"Answer: D
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,yor,369,global_facts,1,2,1.0,1,0,"Answer: C
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,yor,370,global_facts,1,3,1.0,1,0,"Answer: D
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,yor,371,global_facts,0,3,1.0,1,0,"Answer: D
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,yor,372,global_facts,1,2,1.0,1,0,"Answer: C
+Confidence: 100
+
+The question appears to be asking about casualties from an earthquake in"
+Qwen/Qwen2.5-3B-Instruct,yor,373,global_facts,2,2,1.0,1,1,"Answer: C
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,yor,374,global_facts,2,3,1.0,1,0,"Answer: D
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,yor,375,global_facts,1,3,1.0,1,0,"Answer: D
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,yor,376,global_facts,2,2,1.0,1,1,"Answer: C
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,yor,377,global_facts,0,0,1.0,1,1,"Answer: A
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,yor,378,global_facts,2,2,1.0,1,1,"Answer: C
+Confidence: 100
+
+The question translates to: ""Lápapọ̀,"
+Qwen/Qwen2.5-3B-Instruct,yor,379,global_facts,1,3,1.0,1,0,"Answer: D
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,yor,380,global_facts,2,2,1.0,1,1,"Answer: C
+Confidence: 100
+
+The sentence ""Iye ìdàgbàs"
+Qwen/Qwen2.5-3B-Instruct,yor,381,global_facts,2,2,1.0,1,1,"Answer: C
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,yor,382,global_facts,0,2,1.0,1,0,"Answer: C
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,yor,383,global_facts,1,2,1.0,1,0,"Answer: C
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,yor,384,global_facts,0,1,1.0,1,0,"Answer: B
+Confidence: 100
+
+The question translates to English as follows: ""Which of the"
+Qwen/Qwen2.5-3B-Instruct,yor,385,global_facts,1,3,1.0,1,0,"Answer: D
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,yor,386,global_facts,2,2,1.0,1,1,"Answer: C
+Confidence: 100
+
+The question translates to: ""In 2013"
+Qwen/Qwen2.5-3B-Instruct,yor,387,global_facts,2,0,1.0,1,0,"Answer: A
+Confidence: 100
+
+The question translates to: ""Which of the following countries had"
+Qwen/Qwen2.5-3B-Instruct,yor,388,global_facts,2,0,1.0,1,0,"Answer: A
+Confidence: 100
+
+The question translates to English as: ""In 20"
+Qwen/Qwen2.5-3B-Instruct,yor,389,global_facts,1,3,1.0,1,0,"Answer: D
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,yor,390,global_facts,3,0,1.0,1,0,"Answer: A
+Confidence: 100
+
+The question translates to ""Which country emitted the most carbon dioxide"
+Qwen/Qwen2.5-3B-Instruct,yor,391,global_facts,0,1,1.0,1,0,"Answer: B
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,yor,392,global_facts,3,2,1.0,1,0,"Answer: C
+Confidence: 100
+
+The question translates to: ""In 2013"
+Qwen/Qwen2.5-3B-Instruct,yor,393,global_facts,1,3,1.0,1,0,"Answer: D
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,yor,394,global_facts,1,1,1.0,1,1,"Answer: B
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,yor,395,global_facts,1,2,1.0,1,0,"Answer: C
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,yor,396,global_facts,3,3,1.0,1,1,"Answer: D
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,yor,397,global_facts,3,0,1.0,1,0,"Answer: A
+Confidence: 100
+
+The question translates to English as ""Which type of àì"
+Qwen/Qwen2.5-3B-Instruct,yor,398,global_facts,2,3,1.0,1,0,"Answer: D
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,yor,399,global_facts,3,1,1.0,1,0,"Answer: B
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,yor,400,high_school_microeconomics,0,0,1.0,1,1,"Answer: A
+Confidence: 100
+
+Explanation: The phrase ""Ìpawówọlé a"
+Qwen/Qwen2.5-3B-Instruct,yor,401,high_school_microeconomics,2,0,1.0,1,0,"Answer: A
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,yor,402,high_school_microeconomics,1,1,1.0,1,1,"Answer: B
+Confidence: 100
+
+The question ""Ní ìdọ́gba Nash"
+Qwen/Qwen2.5-3B-Instruct,yor,403,high_school_microeconomics,3,2,1.0,1,0,"Answer: C
+Confidence: 100
+
+The question translates roughly to: ""Wọ́n s"
+Qwen/Qwen2.5-3B-Instruct,yor,404,high_school_microeconomics,3,0,1.0,1,0,"Answer: A
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,yor,405,high_school_microeconomics,3,0,1.0,1,0,"Answer: A
+Confidence: 100
+
+Explanation: The question appears to be asking about a scenario where"
+Qwen/Qwen2.5-3B-Instruct,yor,406,high_school_microeconomics,3,2,1.0,1,0,"Answer: C
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,yor,407,high_school_microeconomics,2,0,1.0,1,0,"Answer: A
+Confidence: 100
+
+The question translates to English as ""What kind of car does"
+Qwen/Qwen2.5-3B-Instruct,yor,408,high_school_microeconomics,3,0,1.0,1,0,"Answer: A
+Confidence: 100
+
+Explanation: The Yoruba phrase ""Ìpilẹ"
+Qwen/Qwen2.5-3B-Instruct,yor,409,high_school_microeconomics,1,0,1.0,1,0,"Answer: A
+Confidence: 100
+
+Explanation: The sentence describes a situation where a sacred object ("
+Qwen/Qwen2.5-3B-Instruct,yor,410,high_school_microeconomics,2,3,1.0,1,0,"Answer: D
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,yor,411,high_school_microeconomics,2,0,1.0,1,0,"Answer: A
+Confidence: 100
+
+Explanation: The question translates to ""When the king dies,"
+Qwen/Qwen2.5-3B-Instruct,yor,412,high_school_microeconomics,3,2,1.0,1,0,"Answer: C
+Confidence: 100
+
+The question translates to English as: ""Which region has the"
+Qwen/Qwen2.5-3B-Instruct,yor,413,high_school_microeconomics,2,2,1.0,1,1,"Answer: C
+Confidence: 100
+
+The question translates to English as: ""What does the king"
+Qwen/Qwen2.5-3B-Instruct,yor,414,high_school_microeconomics,1,1,1.0,1,1,"Answer: B
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,yor,415,high_school_microeconomics,3,3,1.0,1,1,"Answer: D
+Confidence: 100
+
+The sentence translates to: ""Ray and Dorothy were supposed to"
+Qwen/Qwen2.5-3B-Instruct,yor,416,high_school_microeconomics,2,0,1.0,1,0,"Answer: A
+Confidence: 100
+
+Explanation: The question appears to be about a scenario involving a"
+Qwen/Qwen2.5-3B-Instruct,yor,417,high_school_microeconomics,3,2,1.0,1,0,"Answer: C
+Confidence: 100
+
+The question describes a scenario where Abilékọ Johnson has"
+Qwen/Qwen2.5-3B-Instruct,yor,418,high_school_microeconomics,1,0,1.0,1,0,"Answer: A
+Confidence: 100
+
+The question appears to be asking about traditional Nigerian titles or honor"
+Qwen/Qwen2.5-3B-Instruct,yor,419,high_school_microeconomics,2,2,1.0,1,1,"Answer: C
+Confidence: 100
+
+The question seems to be asking about the relationship between different versions"
+Qwen/Qwen2.5-3B-Instruct,yor,420,high_school_microeconomics,3,2,1.0,1,0,"Answer: C
+Confidence: 100
+
+The sentence translates to English as ""When Julia was attacked by"
+Qwen/Qwen2.5-3B-Instruct,yor,421,high_school_microeconomics,1,0,1.0,1,0,"Answer: A
+Confidence: 100
+
+Explanation: The sentence ""Ànìkanṣe k"
+Qwen/Qwen2.5-3B-Instruct,yor,422,high_school_microeconomics,1,0,1.0,1,0,"Answer: A
+Confidence: 100
+
+Explanation: The question appears to be asking about the reasons for"
+Qwen/Qwen2.5-3B-Instruct,yor,423,high_school_microeconomics,3,1,1.0,1,0,"Answer: B
+Confidence: 100
+
+The provided text appears to be in Yoruba and translates"
+Qwen/Qwen2.5-3B-Instruct,yor,424,high_school_microeconomics,1,2,1.0,1,0,"Answer: C
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,yor,425,high_school_microeconomics,3,0,1.0,1,0,"Answer: A
+Confidence: 100
+
+Explanation: The question appears to be asking about a sports team"
+Qwen/Qwen2.5-3B-Instruct,yor,426,high_school_microeconomics,1,0,1.0,1,0,"Answer: A
+Confidence: 100
+
+The question translates to: ""What day of the week was"
+Qwen/Qwen2.5-3B-Instruct,yor,427,high_school_microeconomics,2,0,1.0,1,0,"Answer: A
+Confidence: 100
+
+Explanation: The Yoruba sentence translates to ""Which of"
+Qwen/Qwen2.5-3B-Instruct,yor,428,high_school_microeconomics,0,0,1.0,1,1,"Answer: A
+Confidence: 100
+
+Explanation: The question appears to be asking about the reason for"
+Qwen/Qwen2.5-3B-Instruct,yor,429,high_school_microeconomics,1,2,1.0,1,0,"Answer: C
+Confidence: 100
+
+The question translates to English as: ""Which of the following"
+Qwen/Qwen2.5-3B-Instruct,yor,430,high_school_microeconomics,3,0,1.0,1,0,"Answer: A
+Confidence: 100
+
+The question translates to: ""Jason lost money when he played"
+Qwen/Qwen2.5-3B-Instruct,yor,431,high_school_microeconomics,1,0,1.0,1,0,"Answer: A
+Confidence: 100
+
+Explanation: The Yoruba sentence translates to English as """
+Qwen/Qwen2.5-3B-Instruct,yor,432,high_school_microeconomics,0,0,1.0,1,1,"Answer: A
+Confidence: 100
+
+Explanation: The Yoruba sentence translates to ""When ten"
+Qwen/Qwen2.5-3B-Instruct,yor,433,high_school_microeconomics,1,1,1.0,1,1,"Answer: B. ipa ìrọ́pò.
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,yor,434,high_school_microeconomics,3,0,1.0,1,0,"Answer: A
+Confidence: 100
+
+Explanation: The question translates to ""What was the outcome of"
+Qwen/Qwen2.5-3B-Instruct,yor,435,high_school_microeconomics,0,0,1.0,1,1,"Answer: A
+Confidence: 100
+
+Explanation: The sentence describes a situation where a ritual (i"
+Qwen/Qwen2.5-3B-Instruct,yor,436,high_school_microeconomics,0,0,1.0,1,1,"Answer: A
+Confidence: 100
+
+Explanation: The phrase ""Ọjà Anìkanjọ"
+Qwen/Qwen2.5-3B-Instruct,yor,437,high_school_microeconomics,3,0,1.0,1,0,"Answer: A
+Confidence: 100
+
+The sentence translates to English as: ""If there were houses"
+Qwen/Qwen2.5-3B-Instruct,yor,438,high_school_microeconomics,3,0,1.0,1,0,"Answer: A
+Confidence: 100
+
+Explanation: The phrase ""òfin ìdínk"
+Qwen/Qwen2.5-3B-Instruct,yor,439,high_school_microeconomics,3,0,1.0,1,0,"Answer: A
+Confidence: 100
+
+Explanation: The question appears to be asking about a proverb related"
+Qwen/Qwen2.5-3B-Instruct,yor,440,high_school_microeconomics,3,2,1.0,1,0,"Answer: C
+Confidence: 100
+
+Explanation: The question describes a scenario where 3 individuals receive"
+Qwen/Qwen2.5-3B-Instruct,yor,441,high_school_microeconomics,1,2,1.0,1,0,"Answer: C
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,yor,442,high_school_microeconomics,3,0,1.0,1,0,"Answer: A
+Confidence: 100
+
+Explanation: The question translates to ""Which of the following is"
+Qwen/Qwen2.5-3B-Instruct,yor,443,high_school_microeconomics,2,0,1.0,1,0,"Answer: A. déédéé
+Confidence: 100
+
+The phrase ""nígbàtí"
+Qwen/Qwen2.5-3B-Instruct,yor,444,high_school_microeconomics,1,0,1.0,1,0,"Answer: A
+Confidence: 100
+
+Explanation: The question appears to be asking about the consequences of"
+Qwen/Qwen2.5-3B-Instruct,yor,445,high_school_microeconomics,3,0,1.0,1,0,"Answer: A
+Confidence: 100
+
+Explanation: The Yoruba sentence translates to ""The police"
+Qwen/Qwen2.5-3B-Instruct,yor,446,high_school_microeconomics,1,2,1.0,1,0,"Answer: C
+Confidence: 100
+
+Explanation: The question translates to ""Which of the following statements"
+Qwen/Qwen2.5-3B-Instruct,yor,447,high_school_microeconomics,2,0,1.0,1,0,"Answer: A
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,yor,448,high_school_microeconomics,0,0,1.0,1,1,"Answer: A
+Confidence: 100
+
+Explanation: The Yoruba text provided translates roughly to """
+Qwen/Qwen2.5-3B-Instruct,yor,449,high_school_microeconomics,3,0,1.0,1,0,"Answer: A
+Confidence: 100
+
+The question translates to English as: ""If the king said"
+Qwen/Qwen2.5-3B-Instruct,yor,450,high_school_microeconomics,1,0,1.0,1,0,"Answer: A
+Confidence: 100
+
+Explanation: The Yoruba sentence ""Nígbà"
+Qwen/Qwen2.5-3B-Instruct,yor,451,high_school_microeconomics,0,0,1.0,1,1,"Answer: A
+Confidence: 100
+
+Explanation: The question appears to be asking about a specific og"
+Qwen/Qwen2.5-3B-Instruct,yor,452,high_school_microeconomics,0,2,1.0,1,0,"Answer: C
+Confidence: 100
+
+This answer is certain based on the provided Yoruba text"
+Qwen/Qwen2.5-3B-Instruct,yor,453,high_school_microeconomics,0,0,1.0,1,1,"Answer: A
+Confidence: 100
+
+Explanation: The Yoruba sentence ""Pẹ́l"
+Qwen/Qwen2.5-3B-Instruct,yor,454,high_school_microeconomics,3,0,1.0,1,0,"Answer: A
+Confidence: 100
+
+Explanation: The question appears to be asking about the durability of"
+Qwen/Qwen2.5-3B-Instruct,yor,455,high_school_microeconomics,1,0,1.0,1,0,"Answer: A
+Confidence: 100
+
+Explanation: The sentence appears to be in Yoruba and"
+Qwen/Qwen2.5-3B-Instruct,yor,456,high_school_microeconomics,1,0,1.0,1,0,"Answer: A
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,yor,457,high_school_microeconomics,1,2,1.0,1,0,"Answer: C
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,yor,458,high_school_microeconomics,3,0,1.0,1,0,"Answer: A
+Confidence: 100
+
+Explanation: The phrase ""Atọ́kùn i"
+Qwen/Qwen2.5-3B-Instruct,yor,459,high_school_microeconomics,1,0,1.0,1,0,"Answer: A
+Confidence: 100
+
+Explanation: The question appears to be asking about economic principles related"
+Qwen/Qwen2.5-3B-Instruct,yor,460,high_school_microeconomics,1,2,1.0,1,0,"Answer: C
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,yor,461,high_school_microeconomics,0,0,1.0,1,1,"Answer: A
+Confidence: 100
+
+Explanation: The question appears to be asking about economic concepts related"
+Qwen/Qwen2.5-3B-Instruct,yor,462,high_school_microeconomics,0,2,1.0,1,0,"Answer: C
+Confidence: 100
+
+Explanation: The question appears to be asking about a monop"
+Qwen/Qwen2.5-3B-Instruct,yor,463,high_school_microeconomics,0,1,1.0,1,0,"Answer: B
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,yor,464,high_school_microeconomics,3,0,1.0,1,0,"Answer: A
+Confidence: 100
+
+Explanation: The question translates to ""What does the king do"
+Qwen/Qwen2.5-3B-Instruct,yor,465,high_school_microeconomics,3,1,1.0,1,0,"Answer: B
+Confidence: 100
+
+Explanation: The Yoruba phrase ""Agbanisẹ"
+Qwen/Qwen2.5-3B-Instruct,yor,466,high_school_microeconomics,1,2,1.0,1,0,"Answer: C
+Confidence: 100
+
+The question translates to: ""Anìkanjọp"
+Qwen/Qwen2.5-3B-Instruct,yor,467,high_school_microeconomics,0,2,1.0,1,0,"Answer: C
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,yor,468,high_school_microeconomics,3,0,1.0,1,0,"Answer: A
+Confidence: 100
+
+Explanation: The Yoruba phrase ""Owó o"
+Qwen/Qwen2.5-3B-Instruct,yor,469,high_school_microeconomics,3,3,1.0,1,1,"Answer: D
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,yor,470,high_school_microeconomics,1,2,1.0,1,0,"Answer: C
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,yor,471,high_school_microeconomics,3,0,1.0,1,0,"Answer: A
+Confidence: 100
+
+Explanation: The sentence appears to be in Yoruba and"
+Qwen/Qwen2.5-3B-Instruct,yor,472,high_school_microeconomics,3,0,1.0,1,0,"Answer: A
+Confidence: 100
+
+The provided text appears to be in Yoruba and translates"
+Qwen/Qwen2.5-3B-Instruct,yor,473,high_school_microeconomics,0,2,1.0,1,0,"Answer: C
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,yor,474,high_school_microeconomics,2,0,1.0,1,0,"Answer: A
+Confidence: 100
+
+Explanation: The question appears to be asking about a situation where"
+Qwen/Qwen2.5-3B-Instruct,yor,475,high_school_microeconomics,3,0,1.0,1,0,"Answer: A
+Confidence: 100
+
+The question translates to English as ""Which of the following is"
+Qwen/Qwen2.5-3B-Instruct,yor,476,high_school_microeconomics,2,0,1.0,1,0,"Answer: A
+Confidence: 100
+
+Explanation: The Lorenz Curve is used to represent income distribution"
+Qwen/Qwen2.5-3B-Instruct,yor,477,high_school_microeconomics,3,0,1.0,1,0,"Answer: A
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,yor,478,high_school_microeconomics,1,2,1.0,1,0,"Answer: C
+Confidence: 100
+
+Explanation: The sentence translates to ""When the ice cream was"
+Qwen/Qwen2.5-3B-Instruct,yor,479,high_school_microeconomics,3,0,1.0,1,0,"Answer: A
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,yor,480,high_school_microeconomics,0,2,1.0,1,0,"Answer: C
+Confidence: 100
+
+The question translates to English as ""Which of the following best"
+Qwen/Qwen2.5-3B-Instruct,yor,481,high_school_microeconomics,1,0,1.0,1,0,"Answer: A. Ìrànwọ ìjọba.
+Confidence: 100
+
+The"
+Qwen/Qwen2.5-3B-Instruct,yor,482,high_school_microeconomics,0,0,1.0,1,1,"Answer: A
+Confidence: 100
+
+Explanation: The question ""Èwo nínú àw"
+Qwen/Qwen2.5-3B-Instruct,yor,483,high_school_microeconomics,1,1,1.0,1,1,"Answer: B
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,yor,484,high_school_microeconomics,2,0,1.0,1,0,"Answer: A
+Confidence: 100
+
+The sentence ""Àbájáde ilẹ i"
+Qwen/Qwen2.5-3B-Instruct,yor,485,high_school_microeconomics,2,2,1.0,1,1,"Answer: C
+Confidence: 100
+
+The question translates to English as: ""Which of the following"
+Qwen/Qwen2.5-3B-Instruct,yor,486,high_school_microeconomics,0,2,1.0,1,0,"Answer: C
+Confidence: 100
+
+The question translates to English as ""Which of the following best"
+Qwen/Qwen2.5-3B-Instruct,yor,487,high_school_microeconomics,0,0,1.0,1,1,"Answer: A
+Confidence: 100
+
+Explanation: The question ""Èwo nínú àw"
+Qwen/Qwen2.5-3B-Instruct,yor,488,high_school_microeconomics,0,0,1.0,1,1,"Answer: A
+Confidence: 100
+
+Explanation: The Yoruba text provided translates to ""The"
+Qwen/Qwen2.5-3B-Instruct,yor,489,high_school_microeconomics,3,2,1.0,1,0,"Answer: C
+Confidence: 100
+
+The sentence appears to be in Yoruba and translates to"
+Qwen/Qwen2.5-3B-Instruct,yor,490,high_school_microeconomics,2,2,1.0,1,1,"Answer: C
+Confidence: 100
+
+Explanation: The question describes a scenario where there's a change"
+Qwen/Qwen2.5-3B-Instruct,yor,491,high_school_microeconomics,1,0,1.0,1,0,"Answer: A
+Confidence: 100
+
+Explanation: The question appears to be asking about the type of"
+Qwen/Qwen2.5-3B-Instruct,yor,492,high_school_microeconomics,1,0,1.0,1,0,"Answer: A
+Confidence: 100
+
+Explanation: The sentence translates to ""The roses were in bloom"
+Qwen/Qwen2.5-3B-Instruct,yor,493,high_school_microeconomics,3,3,1.0,1,1,"Answer: D
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,yor,494,high_school_microeconomics,1,0,1.0,1,0,"Answer: A
+Confidence: 100
+
+The question translates to English as: ""Where does the king"
+Qwen/Qwen2.5-3B-Instruct,yor,495,high_school_microeconomics,3,0,1.0,1,0,"Answer: A
+Confidence: 100
+
+Explanation: The sentence appears to be in Yoruba and"
+Qwen/Qwen2.5-3B-Instruct,yor,496,high_school_microeconomics,3,0,1.0,1,0,"Answer: A. owó ìdókówò.
+Confidence: 100"
+Qwen/Qwen2.5-3B-Instruct,yor,497,high_school_microeconomics,1,2,1.0,1,0,"Answer: C
+Confidence: 100
+
+The question translates to English as ""Which of the following best"
+Qwen/Qwen2.5-3B-Instruct,yor,498,high_school_microeconomics,3,0,1.0,1,0,"Answer: A
+Confidence: 100
+
+Explanation: The Yoruba sentence ""Ní ò"
+Qwen/Qwen2.5-3B-Instruct,yor,499,high_school_microeconomics,0,2,1.0,1,0,"Answer: C
+Confidence: 100
+
+The question translates to: ""When the king died, if"

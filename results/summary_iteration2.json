@@ -1,0 +1,591 @@
+{
+  "verbal": {
+    "Qwen/Qwen2.5-3B-Instruct": {
+      "eng": {
+        "n": 500,
+        "parse_rate": 1.0,
+        "accuracy": 0.608,
+        "mean_confidence": 0.994,
+        "overconfidence": 0.386,
+        "ECE": 0.394,
+        "AUROC": 0.499,
+        "most_common_conf": 1.0,
+        "share_most_common_conf": 0.994,
+        "rank_corr_with_hidden_conf": 0.042
+      },
+      "yor": {
+        "n": 500,
+        "parse_rate": 0.992,
+        "accuracy": 0.317,
+        "mean_confidence": 0.996,
+        "overconfidence": 0.679,
+        "ECE": 0.683,
+        "AUROC": 0.498,
+        "most_common_conf": 1.0,
+        "share_most_common_conf": 0.996,
+        "rank_corr_with_hidden_conf": 0.017
+      },
+      "yor_minus_eng": {
+        "parse_rate": {
+          "diff": -0.008,
+          "ci95": [
+            -0.016,
+            -0.002
+          ]
+        },
+        "accuracy": {
+          "diff": -0.291,
+          "ci95": [
+            -0.345,
+            -0.236
+          ]
+        },
+        "mean_confidence": {
+          "diff": 0.002,
+          "ci95": [
+            -0.004,
+            0.01
+          ]
+        },
+        "overconfidence": {
+          "diff": 0.293,
+          "ci95": [
+            0.238,
+            0.347
+          ]
+        },
+        "AUROC": {
+          "diff": -0.001,
+          "ci95": [
+            -0.008,
+            0.006
+          ]
+        }
+      }
+    },
+    "Qwen/Qwen2.5-1.5B-Instruct": {
+      "eng": {
+        "n": 500,
+        "parse_rate": 0.992,
+        "accuracy": 0.538,
+        "mean_confidence": 0.997,
+        "overconfidence": 0.458,
+        "ECE": 0.458,
+        "AUROC": 0.521,
+        "most_common_conf": 1.0,
+        "share_most_common_conf": 0.966,
+        "rank_corr_with_hidden_conf": 0.14
+      },
+      "yor": {
+        "n": 500,
+        "parse_rate": 1.0,
+        "accuracy": 0.242,
+        "mean_confidence": 0.996,
+        "overconfidence": 0.754,
+        "ECE": 0.754,
+        "AUROC": 0.521,
+        "most_common_conf": 1.0,
+        "share_most_common_conf": 0.96,
+        "rank_corr_with_hidden_conf": 0.168
+      },
+      "yor_minus_eng": {
+        "parse_rate": {
+          "diff": 0.008,
+          "ci95": [
+            0.002,
+            0.018
+          ]
+        },
+        "accuracy": {
+          "diff": -0.296,
+          "ci95": [
+            -0.346,
+            -0.248
+          ]
+        },
+        "mean_confidence": {
+          "diff": -0.0,
+          "ci95": [
+            -0.003,
+            0.002
+          ]
+        },
+        "overconfidence": {
+          "diff": 0.296,
+          "ci95": [
+            0.248,
+            0.345
+          ]
+        },
+        "AUROC": {
+          "diff": 0.0,
+          "ci95": [
+            -0.021,
+            0.02
+          ]
+        }
+      }
+    },
+    "microsoft/Phi-3.5-mini-instruct": {
+      "eng": {
+        "n": 500,
+        "parse_rate": 0.978,
+        "accuracy": 0.611,
+        "mean_confidence": 0.944,
+        "overconfidence": 0.333,
+        "ECE": 0.34,
+        "AUROC": 0.508,
+        "most_common_conf": 0.95,
+        "share_most_common_conf": 0.605,
+        "rank_corr_with_hidden_conf": 0.176
+      },
+      "yor": {
+        "n": 500,
+        "parse_rate": 0.75,
+        "accuracy": 0.349,
+        "mean_confidence": 0.936,
+        "overconfidence": 0.586,
+        "ECE": 0.606,
+        "AUROC": 0.483,
+        "most_common_conf": 0.95,
+        "share_most_common_conf": 0.552,
+        "rank_corr_with_hidden_conf": -0.011
+      },
+      "yor_minus_eng": {
+        "parse_rate": {
+          "diff": -0.228,
+          "ci95": [
+            -0.268,
+            -0.188
+          ]
+        },
+        "accuracy": {
+          "diff": -0.262,
+          "ci95": [
+            -0.319,
+            -0.205
+          ]
+        },
+        "mean_confidence": {
+          "diff": -0.009,
+          "ci95": [
+            -0.022,
+            0.003
+          ]
+        },
+        "overconfidence": {
+          "diff": 0.253,
+          "ci95": [
+            0.194,
+            0.313
+          ]
+        },
+        "AUROC": {
+          "diff": -0.026,
+          "ci95": [
+            -0.089,
+            0.037
+          ]
+        }
+      }
+    },
+    "google/gemma-2-2b-it": {
+      "eng": {
+        "n": 500,
+        "parse_rate": 1.0,
+        "accuracy": 0.53,
+        "mean_confidence": 0.948,
+        "overconfidence": 0.418,
+        "ECE": 0.421,
+        "AUROC": 0.512,
+        "most_common_conf": 0.95,
+        "share_most_common_conf": 0.934,
+        "rank_corr_with_hidden_conf": 0.117
+      },
+      "yor": {
+        "n": 500,
+        "parse_rate": 1.0,
+        "accuracy": 0.334,
+        "mean_confidence": 0.948,
+        "overconfidence": 0.614,
+        "ECE": 0.614,
+        "AUROC": 0.507,
+        "most_common_conf": 0.95,
+        "share_most_common_conf": 0.966,
+        "rank_corr_with_hidden_conf": 0.025
+      },
+      "yor_minus_eng": {
+        "parse_rate": {
+          "diff": 0.0,
+          "ci95": [
+            0.0,
+            0.0
+          ]
+        },
+        "accuracy": {
+          "diff": -0.196,
+          "ci95": [
+            -0.248,
+            -0.144
+          ]
+        },
+        "mean_confidence": {
+          "diff": 0.001,
+          "ci95": [
+            -0.005,
+            0.007
+          ]
+        },
+        "overconfidence": {
+          "diff": 0.197,
+          "ci95": [
+            0.143,
+            0.249
+          ]
+        },
+        "AUROC": {
+          "diff": -0.005,
+          "ci95": [
+            -0.029,
+            0.02
+          ]
+        }
+      }
+    },
+    "meta-llama/Llama-3.2-3B-Instruct": {
+      "eng": {
+        "n": 500,
+        "parse_rate": 0.96,
+        "accuracy": 0.492,
+        "mean_confidence": 0.825,
+        "overconfidence": 0.333,
+        "ECE": 0.381,
+        "AUROC": 0.592,
+        "most_common_conf": 0.8,
+        "share_most_common_conf": 0.569,
+        "rank_corr_with_hidden_conf": 0.241
+      },
+      "yor": {
+        "n": 500,
+        "parse_rate": 0.804,
+        "accuracy": 0.301,
+        "mean_confidence": 0.718,
+        "overconfidence": 0.417,
+        "ECE": 0.472,
+        "AUROC": 0.523,
+        "most_common_conf": 0.8,
+        "share_most_common_conf": 0.736,
+        "rank_corr_with_hidden_conf": 0.166
+      },
+      "yor_minus_eng": {
+        "parse_rate": {
+          "diff": -0.156,
+          "ci95": [
+            -0.194,
+            -0.12
+          ]
+        },
+        "accuracy": {
+          "diff": -0.191,
+          "ci95": [
+            -0.246,
+            -0.139
+          ]
+        },
+        "mean_confidence": {
+          "diff": -0.107,
+          "ci95": [
+            -0.138,
+            -0.076
+          ]
+        },
+        "overconfidence": {
+          "diff": 0.084,
+          "ci95": [
+            0.024,
+            0.151
+          ]
+        },
+        "AUROC": {
+          "diff": -0.069,
+          "ci95": [
+            -0.132,
+            -0.005
+          ]
+        }
+      }
+    }
+  },
+  "abstain": {
+    "Qwen/Qwen2.5-3B-Instruct": {
+      "eng": {
+        "n": 500,
+        "abstain_rate": 0.768,
+        "accuracy_all": 0.526,
+        "accuracy_answered": 0.819,
+        "answered_wrong_rate": 0.042,
+        "abstain_precision": 0.562,
+        "mean_p_idk": 0.766,
+        "AUROC_idk": 0.685,
+        "mean_letter_mass": 1.0
+      },
+      "yor": {
+        "n": 500,
+        "abstain_rate": 0.978,
+        "accuracy_all": 0.288,
+        "accuracy_answered": 0.364,
+        "answered_wrong_rate": 0.014,
+        "abstain_precision": 0.714,
+        "mean_p_idk": 0.978,
+        "AUROC_idk": 0.554,
+        "mean_letter_mass": 1.0
+      },
+      "yor_minus_eng": {
+        "abstain_rate": {
+          "diff": 0.21,
+          "ci95": [
+            0.172,
+            0.248
+          ]
+        },
+        "accuracy_answered": {
+          "diff": -0.455,
+          "ci95": [
+            -0.725,
+            -0.124
+          ]
+        },
+        "answered_wrong_rate": {
+          "diff": -0.028,
+          "ci95": [
+            -0.048,
+            -0.008
+          ]
+        },
+        "AUROC_idk": {
+          "diff": -0.131,
+          "ci95": [
+            -0.197,
+            -0.063
+          ]
+        }
+      }
+    },
+    "Qwen/Qwen2.5-1.5B-Instruct": {
+      "eng": {
+        "n": 500,
+        "abstain_rate": 0.606,
+        "accuracy_all": 0.53,
+        "accuracy_answered": 0.675,
+        "answered_wrong_rate": 0.128,
+        "abstain_precision": 0.564,
+        "mean_p_idk": 0.593,
+        "AUROC_idk": 0.651,
+        "mean_letter_mass": 1.0
+      },
+      "yor": {
+        "n": 500,
+        "abstain_rate": 0.99,
+        "accuracy_all": 0.278,
+        "accuracy_answered": 0.8,
+        "answered_wrong_rate": 0.002,
+        "abstain_precision": 0.727,
+        "mean_p_idk": 0.985,
+        "AUROC_idk": 0.55,
+        "mean_letter_mass": 1.0
+      },
+      "yor_minus_eng": {
+        "abstain_rate": {
+          "diff": 0.384,
+          "ci95": [
+            0.344,
+            0.426
+          ]
+        },
+        "accuracy_answered": {
+          "diff": 0.125,
+          "ci95": [
+            -0.355,
+            0.368
+          ]
+        },
+        "answered_wrong_rate": {
+          "diff": -0.126,
+          "ci95": [
+            -0.154,
+            -0.098
+          ]
+        },
+        "AUROC_idk": {
+          "diff": -0.101,
+          "ci95": [
+            -0.168,
+            -0.031
+          ]
+        }
+      }
+    },
+    "microsoft/Phi-3.5-mini-instruct": {
+      "eng": {
+        "n": 500,
+        "abstain_rate": 0.052,
+        "accuracy_all": 0.652,
+        "accuracy_answered": 0.667,
+        "answered_wrong_rate": 0.316,
+        "abstain_precision": 0.615,
+        "mean_p_idk": 0.053,
+        "AUROC_idk": 0.754,
+        "mean_letter_mass": 0.979
+      },
+      "yor": {
+        "n": 500,
+        "abstain_rate": 0.426,
+        "accuracy_all": 0.318,
+        "accuracy_answered": 0.366,
+        "answered_wrong_rate": 0.364,
+        "abstain_precision": 0.746,
+        "mean_p_idk": 0.42,
+        "AUROC_idk": 0.577,
+        "mean_letter_mass": 0.997
+      },
+      "yor_minus_eng": {
+        "abstain_rate": {
+          "diff": 0.374,
+          "ci95": [
+            0.33,
+            0.42
+          ]
+        },
+        "accuracy_answered": {
+          "diff": -0.301,
+          "ci95": [
+            -0.36,
+            -0.238
+          ]
+        },
+        "answered_wrong_rate": {
+          "diff": 0.048,
+          "ci95": [
+            -0.004,
+            0.1
+          ]
+        },
+        "AUROC_idk": {
+          "diff": -0.177,
+          "ci95": [
+            -0.243,
+            -0.113
+          ]
+        }
+      }
+    },
+    "google/gemma-2-2b-it": {
+      "eng": {
+        "n": 500,
+        "abstain_rate": 0.166,
+        "accuracy_all": 0.52,
+        "accuracy_answered": 0.552,
+        "answered_wrong_rate": 0.374,
+        "abstain_precision": 0.639,
+        "mean_p_idk": 0.177,
+        "AUROC_idk": 0.679,
+        "mean_letter_mass": 0.999
+      },
+      "yor": {
+        "n": 500,
+        "abstain_rate": 0.74,
+        "accuracy_all": 0.33,
+        "accuracy_answered": 0.408,
+        "answered_wrong_rate": 0.154,
+        "abstain_precision": 0.697,
+        "mean_p_idk": 0.692,
+        "AUROC_idk": 0.538,
+        "mean_letter_mass": 0.999
+      },
+      "yor_minus_eng": {
+        "abstain_rate": {
+          "diff": 0.574,
+          "ci95": [
+            0.53,
+            0.62
+          ]
+        },
+        "accuracy_answered": {
+          "diff": -0.144,
+          "ci95": [
+            -0.232,
+            -0.061
+          ]
+        },
+        "answered_wrong_rate": {
+          "diff": -0.22,
+          "ci95": [
+            -0.264,
+            -0.176
+          ]
+        },
+        "AUROC_idk": {
+          "diff": -0.141,
+          "ci95": [
+            -0.209,
+            -0.077
+          ]
+        }
+      }
+    },
+    "meta-llama/Llama-3.2-3B-Instruct": {
+      "eng": {
+        "n": 500,
+        "abstain_rate": 0.694,
+        "accuracy_all": 0.506,
+        "accuracy_answered": 0.654,
+        "answered_wrong_rate": 0.106,
+        "abstain_precision": 0.559,
+        "mean_p_idk": 0.565,
+        "AUROC_idk": 0.594,
+        "mean_letter_mass": 1.0
+      },
+      "yor": {
+        "n": 500,
+        "abstain_rate": 0.988,
+        "accuracy_all": 0.308,
+        "accuracy_answered": 0.5,
+        "answered_wrong_rate": 0.006,
+        "abstain_precision": 0.694,
+        "mean_p_idk": 0.913,
+        "AUROC_idk": 0.498,
+        "mean_letter_mass": 1.0
+      },
+      "yor_minus_eng": {
+        "abstain_rate": {
+          "diff": 0.294,
+          "ci95": [
+            0.252,
+            0.334
+          ]
+        },
+        "accuracy_answered": {
+          "diff": -0.154,
+          "ci95": [
+            -0.626,
+            0.333
+          ]
+        },
+        "answered_wrong_rate": {
+          "diff": -0.1,
+          "ci95": [
+            -0.128,
+            -0.074
+          ]
+        },
+        "AUROC_idk": {
+          "diff": -0.096,
+          "ci95": [
+            -0.17,
+            -0.025
+          ]
+        }
+      }
+    }
+  }
+}
