@@ -186,6 +186,11 @@ model's raw reply). The question text comes from AfriMMLU.
 - OpenAI (2023). *GPT-4 Technical Report* (calibration before and after RLHF). [arXiv:2303.08774](https://arxiv.org/abs/2303.08774)
 - Yong, Menghini & Bach (2023). *Low-Resource Languages Jailbreak GPT-4.* [arXiv:2310.02446](https://arxiv.org/abs/2310.02446)
 
+## AI use
+
+Experiment code was developed with help from Claude; the research question, runs and
+interpretation are my own.
+
 ## Author
 
 Emmanuel Bolarinwa — MS in Engineering Artificial Intelligence, Carnegie Mellon University Africa.
